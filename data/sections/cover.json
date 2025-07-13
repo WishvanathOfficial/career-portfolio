@@ -41,7 +41,7 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Hyderabad – INDIA",
+                    "label": "Hyderabad – IN",
                     "link": {"href": "", "tooltipString": ""},
                     "faIcon": "pi pi-map-marker"
                 },
@@ -64,10 +64,10 @@
             "id": 2,
             "component": "ArticleText",
             "locales": {
-                "en": {"title": "{{A little bit}} about me..."},
-                "es": {"title": "{{Un poco}} sobre mí..."},
-                "fr": {"title": "{{Un peu}} à propos de moi..."},
-                "ko": {"title": "저에 {{대해 조금}}..."}
+                "en": {"title": "{{A brief}} about me..."},
+                "es": {"title": "{{Un breve}} sobre mí..."},
+                "fr": {"title": "{{Un bref}} à propos de moi..."},
+                "ko": {"title": "저에 {{대해 간략하게}}..."}
             },
             "settings": {
                 "order_items_by": "id",
@@ -81,16 +81,16 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "text": "<p>I’m a {{PHP}} developer with [[over a decade]] of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I look forward to collaborating [[with you!]]</p>"
+                            "text": "<p>I’m a versatile and experienced {{Full Stack Engineer}} specialized in modern JavaScript frameworks. With a strong focus on building scalable and intuitive [[ web applications ]] from the ground up, I enjoy turning ideas into functional digital experiences.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I primarily work with {{React.js}} and {{Next.js}} for front-end development and {{Node.js}} for backend services, enabling me to handle the complete lifecycle of application development - from planning and design to deployment and optimisation. I look forward to collaborating [[with you!]]</p>"
                         },
                         "es": {
-                            "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
+                            "text": "<p>Soy un {{Ingeniero Full Stack}} versátil y experimentado, especializado en frameworks modernos de JavaScript. Con un fuerte enfoque en construir [[aplicaciones web]] escalables e intuitivas desde cero, disfruto convertir ideas en experiencias digitales funcionales.</p><p>Esta experiencia diversa me da la flexibilidad para adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento del sistema o contribuyendo a soluciones full-stack.</p><p>Principalmente trabajo con {{React.js}} y {{Next.js}} para el desarrollo frontend y {{Node.js}} para servicios backend, lo que me permite gestionar todo el ciclo de vida del desarrollo de aplicaciones: desde la planificación y el diseño hasta el despliegue y la optimización. Espero con interés colaborar [[contigo!]]</p>"
                         },
                         "fr": {
-                            "text": "<p>Je suis développeur {{PHP}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
+                            "text": "<p>Je suis un {{ingénieur Full Stack}} polyvalent et expérimenté, spécialisé dans les frameworks JavaScript modernes. Avec un fort accent sur la création d'[[applications web]] évolutives et intuitives à partir de zéro, j'aime transformer les idées en expériences numériques fonctionnelles.</p><p>Ce parcours diversifié me donne la flexibilité de m'adapter à une large gamme de besoins de projets, que ce soit pour construire des API évolutives, optimiser les performances système ou contribuer à des solutions full-stack.</p><p>Je travaille principalement avec {{React.js}} et {{Next.js}} pour le développement front-end et {{Node.js}} pour les services back-end, ce qui me permet de gérer l'ensemble du cycle de vie du développement d'applications, de la planification et la conception au déploiement et à l'optimisation. J'ai hâte de collaborer [[avec vous !]]</p>"
                         },
                         "ko": {
-                            "text": "<p>저는 {{백엔드}} 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 [[10년 이상의]] 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다. 확장 가능한 API 구축, 시스템 성능 최적화, 또는 전체 스택 솔루션에 기여하는 등 다양한 분야에 능숙하게 참여할 수 있습니다. 저는 각 프로젝트에 맞는 최적의 도구를 찾는 것과 새로운 도전을 즐깁니다.</p><p>[[당신과 협업]]하기를 기대하고 있습니다!</p>"
+                            "text": "<p>저는 다양한 경험을 가진 {{풀스택 엔지니어}}로, 최신 자바스크립트 프레임워크에 특화되어 있습니다. [[웹 애플리케이션]]을 처음부터 확장 가능하고 직관적으로 구축하는 데 집중하며, 아이디어를 실용적인 디지털 경험으로 전환하는 것을 즐깁니다.</p><p>이러한 다양한 배경 덕분에 확장 가능한 API 구축, 시스템 성능 최적화, 전체 스택 솔루션 기여 등 다양한 프로젝트 요구에 유연하게 대응할 수 있습니다.</p><p>주로 {{React.js}}, {{Next.js}}로 프론트엔드를, {{Node.js}}로 백엔드 서비스를 개발하며, 기획과 설계부터 배포 및 최적화까지 애플리케이션 개발의 전체 라이프사이클을 책임집니다. [[여러분과 협업]]하길 기대합니다!</p>"
                         }
                     }
                 }
