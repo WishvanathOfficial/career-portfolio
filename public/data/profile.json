@@ -1,5 +1,5 @@
 {
-    "name": "Mark Choi",
+    "name": "Wishvanath Sah",
 
     "profilePictureUrl": "images/pictures/profile-picture.jpg",
     "resumePdfUrl": "",
@@ -10,16 +10,15 @@
 
     "locales": {
         "en": {
-            "localized_name": "Mark Choi",
-            "localized_name_stylized": " [[Mark {{Choi}}]]",
+            "localized_name": "Wishvanath Sah",
+            "localized_name_stylized": " [[Wishvanath {{Sah}}]]",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
                 "Backend Developer",
                 "Frontend Developer",
-                "DevOps Engineer",
-                "UX Designer"
+                "Full Stack Engineer"
             ],
-            "name_pronunciation_ipa": "/mark chwe/",
+            "name_pronunciation_ipa": "/wish-vanath sah/",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         },
         "es": {
@@ -27,8 +26,7 @@
             "roles": [
                 "Desarrollador Backend",
                 "Desarrollador Frontend",
-                "Ingeniero DevOps",
-                "Diseñador UX"
+                "Ingeniero Full Stack"
             ]
         },
         "fr": {
@@ -36,8 +34,7 @@
             "roles": [
                 "Développeur Backend",
                 "Développeur Frontend",
-                "Ingénieur DevOps",
-                "Designer UX"
+                "Ingénieur Full Stack"
             ]
         },
         "ko": {
@@ -47,8 +44,7 @@
             "roles": [
                 "백엔드 개발자",
                 "프론트엔드 개발자",
-                "데브옵스 엔지니어",
-                "UX 디자이너"
+                "데브옵스 엔지니어"
             ],
             "name_pronunciation_ipa": "/chwe min-seok/",
             "name_pronunciation_audio_url": "audio/korean-name-pronunciation.mp3"
