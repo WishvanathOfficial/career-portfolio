@@ -48,19 +48,19 @@
                     "locales": {
                         "en": {
                             "title": "{{Website}} design",
-                            "text": "I can bring your best ideas into life and make them a reality!"
+                            "text": "Transforming creative concepts into stunning, user-friendly websites that deliver real results."
                         },
                         "es": {
                             "title": "{{Diseño}} de websites",
-                            "text": "¡Puedo hacer realidad tus mejores ideas y hacerlas reales!"
+                            "text": "¡Puedo hacer realidad tus mejores ideas y hacerlas reales! Transformando conceptos creativos en sitios web impresionantes y fáciles de usar que ofrecen resultados reales."
                         },
                         "fr": {
                             "title": "{{Conception}} de websites",
-                            "text": "Je peux donner vie à vos meilleures idées et les rendre réelles !"
+                            "text": "Je peux donner vie à vos meilleures idées et les rendre réelles ! Transformer des concepts créatifs en sites web époustouflants, conviviaux et qui produisent de vrais résultats."
                         },
                         "ko": {
                             "title": "{{웹사이트}} 디자인",
-                            "text": "당신의 최고의 아이디어를 실현하고 현실로 만들 수 있습니다!"
+                            "text": "당신의 최고의 아이디어를 실현하고 현실로 만들 수 있습니다! 창의적인 컨셉을 멋지고 사용하기 쉬운 웹사이트로 바꿔 실제 결과를 제공합니다."
                         }
                     }
                 },
@@ -74,19 +74,19 @@
                     "locales": {
                         "en": {
                             "title": "{{Database}} management",
-                            "text": "I can handle your data effectively and efficiently!"
+                            "text": "Expert in designing, optimizing, and maintaining robust databases to ensure data integrity, security, and high performance. Skilled in backup strategies, disaster recovery, and scaling solutions for mission-critical applications."
                         },
                         "es": {
                             "title": "Gestión de {{bases de datos}}",
-                            "text": "¡Puedo manejar sus datos de manera efectiva y eficiente!"
+                            "text": "¡Puedo manejar sus datos de manera efectiva y eficiente! Experto en diseñar, optimizar y mantener bases de datos robustas para garantizar la integridad, seguridad y alto rendimiento de los datos. Con experiencia en estrategias de respaldo, recuperación ante desastres y soluciones de escalabilidad para aplicaciones críticas."
                         },
                         "fr": {
                             "title": "Gestion de {{bases de données}}",
-                            "text": "Je peux gérer vos données de manière efficace et efficiente !"
+                            "text": "Je peux gérer vos données de manière efficace et efficiente ! Expert dans la conception, l’optimisation et la maintenance de bases de données robustes pour garantir l’intégrité, la sécurité et la haute performance des données. Compétent en stratégies de sauvegarde, reprise après sinistre et solutions de montée en charge pour des applications critiques."
                         },
                         "ko": {
                             "title": "{{데이터베이스}} 관리",
-                            "text": "데이터를 효과적이고 효율적으로 처리할 수 있습니다. 최고의 관행을 사용하여 데이터베이스를 관리합니다!"
+                            "text": "데이터를 효과적이고 효율적으로 처리할 수 있습니다. 데이터 무결성, 보안 및 고성능을 보장하기 위해 견고한 데이터베이스를 설계, 최적화 및 유지 관리하는 전문가입니다. 백업 전략, 재해 복구 및 미션 크리티컬 애플리케이션을 위한 확장 솔루션에 능숙합니다!"
                         }
                     }
                 },
@@ -99,20 +99,20 @@
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "{{App}} creation",
-                            "text": "I can make creative and innovative apps!"
+                            "title": "{{Full Stack}} development",
+                            "text": "I have experience building complete applications from frontend to backend, integrating databases, APIs, and user interfaces."
                         },
                         "es": {
-                            "title": "Creación de {{aplicaciones}}",
-                            "text": "¡Puedo hacer aplicaciones creativas e innovadoras!"
+                            "title": "Desarrollo {{Full Stack}}",
+                            "text": "Tengo experiencia construyendo aplicaciones completas desde el frontend hasta el backend, integrando bases de datos, APIs e interfaces de usuario."
                         },
                         "fr": {
-                            "title": "Création {{d'applications}}",
-                            "text": "Je peux créer des applications créatives et innovantes !"
+                            "title": "Développement {{Full Stack}}",
+                            "text": "J'ai de l'expérience dans la création d'applications complètes du frontend au backend, en intégrant des bases de données, des API et des interfaces utilisateur."
                         },
                         "ko": {
-                            "title": "{{앱}} 제작",
-                            "text": "창의적이고 혁신적인 앱을 만들 수 있습니다!"
+                            "title": "{{Full Stack}} 개발",
+                            "text": "프론트엔드부터 백엔드까지 전체 애플리케이션을 구축하고, 데이터베이스, API, 사용자 인터페이스를 통합한 경험이 있습니다."
                         }
                     }
                 },
@@ -126,19 +126,19 @@
                     "locales": {
                         "en": {
                             "title": "{{REST}} APIs",
-                            "text": "I can build API services!"
+                            "text": "Skilled in designing and implementing robust RESTful APIs that enable seamless integration between systems, ensure secure data exchange, and power scalable applications."
                         },
                         "es": {
                             "title": "APIs {{REST}}",
-                            "text": "¡Puedo construir servicios API!"
+                            "text": "¡Puedo construir servicios API! Experto en diseñar e implementar APIs RESTful robustas que permiten una integración fluida entre sistemas, aseguran el intercambio seguro de datos y potencian aplicaciones escalables."
                         },
                         "fr": {
                             "title": "APIs {{REST}}",
-                            "text": "Je peux créer des services API !"
+                            "text": "Je peux créer des services API ! Compétent dans la conception et la mise en œuvre d'API RESTful robustes permettant une intégration transparente entre les systèmes, assurant un échange de données sécurisé et alimentant des applications évolutives."
                         },
                         "ko": {
                             "title": "{{REST}} API",
-                            "text": "API 서비스를 구축할 수 있습니다!"
+                            "text": "API 서비스를 구축할 수 있습니다! 견고한 RESTful API를 설계하고 구현하는 데 능숙하며, 시스템 간 원활한 통합, 안전한 데이터 교환, 확장 가능한 애플리케이션을 지원합니다."
                         }
                     }
                 },
@@ -151,20 +151,20 @@
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "Information {{Security}}",
-                            "text": "Security is my middle name!"
+                            "title": "Performance {{Optimization}}",
+                            "text": "I specialize in optimizing systems for maximum speed, efficiency, and scalability."
                         },
                         "es": {
-                            "title": "{{Seguridad}} Informática",
-                            "text": "¡La seguridad es mi segundo nombre!"
+                            "title": "Performance {{Optimización}}",
+                            "text": "Me especializo en optimizar sistemas para máxima velocidad, eficiencia y escalabilidad."
                         },
                         "fr": {
-                            "title": "{{Sécurité}} Informatique",
-                            "text": "La sécurité est mon deuxième prénom !"
+                            "title": "Performance {{Optimisation}}",
+                            "text": "Je me spécialise dans l'optimisation des systèmes pour une vitesse, une efficacité et une évolutivité maximales."
                         },
                         "ko": {
-                            "title": "{{정보}} 보안",
-                            "text": "보안은 내 중간 이름입니다!"
+                            "title": "성능 {{최적화}}",
+                            "text": "최고의 속도, 효율성, 확장성을 위해 시스템 최적화에 전문성을 가지고 있습니다."
                         }
                     }
                 }
