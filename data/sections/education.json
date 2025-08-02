@@ -43,41 +43,76 @@
                     "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2014, "month": 1},
-                    "dateEnd": {"year": 2014, "month": 6},
+                    "dateStart": {"year": 2019, "month": 1},
+                    "dateEnd": {"year": 2019, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "PHP Development {{Nanodegree}}",
+                            "title": "React Node FullStack development {{MERN}}",
                             "province": "",
                             "country": "Remote",
-                            "institution": "Udacity",
-                            "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[PHP development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
-                            "list": [],
-                            "tags": []
+                            "institution": "Udemy",
+                            "text": "Successfully completed an intensive Nanodegree program focused on mastering full-stack development through a real-world e-commerce project. Gained in-depth knowledge of UI design, microservices architecture, and performance optimization. Developed strong skills in unit test coverage, scalable application design, and best practices for building dynamic, robust web applications.",
+                            "list": [
+                                "UI Design",
+                                "Microservices Architecture",
+                                "Performance Optimization",
+                                "Unit Test Coverage",
+                                "Scalable Application Design"
+                            ],
+                            "tags": [
+                                "React", "Node.js", "FullStack", "MERN", "Microservices", "Performance Optimization"
+                            ]
                         },
                         "es": {
-                            "title": "Desarrollo en PHP {{Nanodegree}}",
+                            "title": "Desarrollo FullStack con React y Node {{MERN}}",
                             "province": "",
                             "country": "Remoto",
-                            "institution": "Udacity",
-                            "text": "Completé con éxito un programa intensivo de Nanodegree con un fuerte enfoque en [[PHP development]], donde adquirí una experiencia práctica y completa en la creación de aplicaciones web dinámicas y escalables.",
-                            "list": []
+                            "institution": "Udemy",
+                            "text": "Completé con éxito un programa intensivo de Nanodegree enfocado en dominar el desarrollo full-stack a través de un proyecto de comercio electrónico real. Adquirí conocimientos profundos en diseño de interfaces de usuario, arquitectura de microservicios y optimización de rendimiento. Desarrollé sólidas habilidades en cobertura de pruebas unitarias, diseño de aplicaciones escalables y mejores prácticas para construir aplicaciones web dinámicas y robustas.",
+                            "list": [
+                                "Diseño de UI",
+                                "Arquitectura de Microservicios",
+                                "Optimización de Rendimiento",
+                                "Cobertura de Pruebas Unitarias",
+                                "Diseño de Aplicaciones Escalables"
+                            ],
+                            "tags": [
+                                "React", "Node.js", "FullStack", "MERN", "Microservicios", "Optimización de Rendimiento"
+                            ]
                         },
                         "fr": {
-                            "title": "Développement PHP {{Nanodegree}}",
+                            "title": "Développement FullStack React Node {{MERN}}",
                             "province": "",
                             "country": "À distance",
-                            "institution": "Udacity",
-                            "text": "J'ai terminé avec succès un programme Nanodegree intensif axé sur [[PHP development]], au cours duquel j'ai acquis une expérience pratique approfondie dans la création d'applications web dynamiques et évolutives.",
-                            "list": []
+                            "institution": "Udemy",
+                            "text": "J'ai terminé avec succès un programme Nanodegree intensif axé sur la maîtrise du développement full-stack à travers un projet e-commerce réel. J'ai acquis des connaissances approfondies en conception d'interface utilisateur, architecture microservices et optimisation des performances. J'ai développé de solides compétences en couverture de tests unitaires, conception d'applications évolutives et bonnes pratiques pour créer des applications web dynamiques et robustes.",
+                            "list": [
+                                "Conception UI",
+                                "Architecture Microservices",
+                                "Optimisation des performances",
+                                "Couverture des tests unitaires",
+                                "Conception d'applications évolutives"
+                            ],
+                            "tags": [
+                                "React", "Node.js", "FullStack", "MERN", "Microservices", "Optimisation des performances"
+                            ]
                         },
                         "ko": {
-                            "title": "PHP 개발 {{Nanodegree}}",
+                            "title": "React Node 풀스택 개발 {{MERN}}",
                             "province": "",
                             "country": "원격",
-                            "institution": "Udacity",
-                            "text": "[[PHP development]]에 중점을 둔 집중형 나노디그리 프로그램을 성공적으로 수료했으며, 동적이고 확장 가능한 웹 애플리케이션을 구축하는 데 있어 폭넓고 실용적인 경험을 쌓았습니다.",
-                            "list": []
+                            "institution": "Udemy",
+                            "text": "실제 전자상거래 프로젝트를 통해 풀스택 개발을 마스터하는 데 중점을 둔 집중형 나노디그리 프로그램을 성공적으로 이수하였습니다. UI 디자인, 마이크로서비스 아키텍처, 성능 최적화에 대한 심층적인 지식을 습득하였고, 단위 테스트 커버리지, 확장 가능한 애플리케이션 설계, 동적이고 견고한 웹 애플리케이션 구축을 위한 모범 사례에 대한 강력한 역량을 개발하였습니다.",
+                            "list": [
+                                "UI 디자인",
+                                "마이크로서비스 아키텍처",
+                                "성능 최적화",
+                                "단위 테스트 커버리지",
+                                "확장 가능한 애플리케이션 설계"
+                            ],
+                            "tags": [
+                                "React", "Node.js", "FullStack", "MERN", "마이크로서비스", "성능 최적화"
+                            ]
                         }
                     }
                 },
@@ -86,44 +121,76 @@
                     "img": "images/pictures/timeline-place-mit.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 1},
-                    "dateEnd": {"year": 2020, "month": 12},
+                    "dateStart": {"year": 2017, "month": 1},
+                    "dateEnd": {"year": 2017, "month": 3},
                     "locales": {
                         "en": {
-                            "title": "{{Bachelor}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
-                            "text": "Earned a [[Bachelor's degree in Computer Science]], focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
-                            "list": [],
-                            "tags": []
+                            "title": "Programming, Data Structures, and Algorithms using {{Python}}",
+                            "province": "NASSCOM",
+                            "country": "India",
+                            "institution": "IIT Madras",
+                            "text": "Completed the NPTEL Online Certification course \"Programming, Data Structures, and Algorithms using Python.\" The course covered Python fundamentals, all major data structure topics, and algorithmic problem-solving. Participated in weekly coding assignments, hands-on programming projects, and an intensive coding boot camp, gaining practical experience and collaborative software development skills.",
+                            "list": [
+                                "Python Fundamentals",
+                                "Data Structures",
+                                "Algorithmic Problem Solving",
+                                "Hands-on Programming Projects",
+                                "Collaborative Software Development"
+                            ],
+                            "tags": [
+                                "Python", "Data Structures", "Algorithms", "Problem Solving", "Software Development"
+                            ]
                         },
                         "es": {
-                            "title": "{{Grado}} en Ciencias de la Computación",
-                            "province": "Massachusetts",
-                            "country": "EE. UU.",
-                            "institution": "MIT",
-                            "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
-                            "list": [],
-                            "tags": []
+                            "title": "Programación, Estructuras de Datos y Algoritmos usando {{Python}}",
+                            "province": "NASSCOM",
+                            "country": "India",
+                            "institution": "IIT Madras",
+                            "text": "Completé el curso de Certificación en Línea NPTEL \"Programación, Estructuras de Datos y Algoritmos usando Python\". El curso abarcó fundamentos de Python, todos los temas principales de estructuras de datos y resolución algorítmica de problemas. Participé en tareas semanales de codificación, proyectos prácticos de programación y un bootcamp intensivo, adquiriendo experiencia práctica y habilidades colaborativas en desarrollo de software.",
+                            "list": [
+                                "Fundamentos de Python",
+                                "Estructuras de Datos",
+                                "Resolución Algorítmica de Problemas",
+                                "Proyectos Prácticos de Programación",
+                                "Desarrollo Colaborativo de Software"
+                            ],
+                            "tags": [
+                                "Python", "Estructuras de Datos", "Algoritmos", "Resolución de Problemas", "Desarrollo de Software"
+                            ]
                         },
                         "fr": {
-                            "title": "{{Licence}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "MIT",
-                            "text": "J'ai obtenu une [[licence en informatique]], avec un accent sur les algorithmes, les structures de données, l’ingénierie logicielle et le développement web. J'ai acquis une solide expérience pratique grâce à divers projets de programmation, des bootcamps de code et des activités collaboratives en équipe.",
-                            "list": [],
-                            "tags": []
+                            "title": "Programmation, structures de données et algorithmes avec {{Python}}",
+                            "province": "NASSCOM",
+                            "country": "Inde",
+                            "institution": "IIT Madras",
+                            "text": "J'ai suivi le cours de certification en ligne NPTEL « Programmation, structures de données et algorithmes avec Python ». Le cours couvrait les fondamentaux de Python, tous les principaux sujets sur les structures de données et la résolution algorithmique de problèmes. J'ai participé à des devoirs hebdomadaires de programmation, des projets pratiques et un bootcamp intensif, acquérant ainsi une expérience concrète et des compétences en développement logiciel collaboratif.",
+                            "list": [
+                                "Fondamentaux de Python",
+                                "Structures de données",
+                                "Résolution algorithmique de problèmes",
+                                "Projets pratiques de programmation",
+                                "Développement logiciel collaboratif"
+                            ],
+                            "tags": [
+                                "Python", "Structures de données", "Algorithmes", "Résolution de problèmes", "Développement logiciel"
+                            ]
                         },
                         "ko": {
-                            "title": "컴퓨터 과학 {{학사}}",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "MIT",
-                            "text": "알고리즘, 자료 구조, 소프트웨어 공학, 웹 개발에 중점을 둔 [[컴퓨터 과학 학사 학위]]를 취득하였습니다. 다양한 프로그래밍 프로젝트, 코딩 부트캠프, 그리고 팀 기반의 협업 활동을 통해 실무 경험을 쌓았습니다.",
-                            "list": [],
-                            "tags": []
+                            "title": "{{Python}}을 활용한 프로그래밍, 자료 구조 및 알고리즘",
+                            "province": "NASSCOM",
+                            "country": "인도",
+                            "institution": "IIT 마드라스",
+                            "text": "NPTEL 온라인 인증 과정 \"Programming, Data Structures, and Algorithms using Python\"을 성공적으로 이수하였습니다. 본 과정에서는 Python 기초, 주요 자료 구조 주제, 알고리즘 문제 해결을 다루었으며, 주간 코딩 과제, 실습 프로젝트, 집중 코딩 부트캠프에 참여하여 실무 경험과 협업 소프트웨어 개발 역량을 쌓았습니다.",
+                            "list": [
+                                "Python 기초",
+                                "자료 구조",
+                                "알고리즘 문제 해결",
+                                "실습 프로그래밍 프로젝트",
+                                "협업 소프트웨어 개발"
+                            ],
+                            "tags": [
+                                "Python", "자료 구조", "알고리즘", "문제 해결", "소프트웨어 개발"
+                            ]
                         }
                     }
                 },
@@ -132,71 +199,127 @@
                     "img": "images/pictures/timeline-place-university-paris.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 9},
-                    "dateEnd": {"year": 2022, "month": 6},
+                    "dateStart": {"year": 2010, "month": 3},
+                    "dateEnd": {"year": 2014, "month": 1},
                     "locales": {
                         "en": {
-                            "title": "{{Master's}} in Artificial Intelligence",
+                            "title": "{{Bachelor's}} in Computer Application",
                             "province": "",
-                            "country": "France",
-                            "institution": "University of Paris",
-                            "text": "Completed a comprehensive Master's program focused on [[cutting-edge AI topics]], including:",
+                            "country": "India",
+                            "institution": "Tilka Manjhi Bhagalpur University",
+                            "text": "Completed a comprehensive Bachelor's program focused on [[cutting-edge Computer Science topics]], including:",
                             "list": [
-                                "Machine Learning",
-                                "Natural Language Processing (NLP)",
-                                "Neural Networks"
+                                "Programming Languages",
+                                "Mathematical Foundations",
+                                "Data Structures",
+                                "Algorithms",
+                                "Database Management Systems",
+                                "Web Technologies",
+                                "Software Engineering"
                             ],
                             "tags": [
-                                "Neural Networks",
-                                "Machine Learning"
+                                "Computer Science",
+                                "Programming",
+                                "Algorithms",
+                                "Software Engineering",
+                                "Web Development",
+                                "Database Systems",
+                                "Data Structures",
+                                "Cloud Computing",
+                                "DevOps",
+                                "System Design",
+                                "API Development",
+                                "Security"
                             ]
                         },
                         "es": {
-                            "title": "{{Máster}} en Inteligencia Artificial",
+                            "title": "{{Licenciatura}} en Aplicaciones Informáticas",
                             "province": "",
-                            "country": "Francia",
-                            "institution": "Universidad de París",
-                            "text": "Completé un programa de máster integral centrado en [[temas avanzados de IA]], incluyendo:",
+                            "country": "India",
+                            "institution": "Tilka Manjhi Bhagalpur University",
+                            "text": "Completé un programa integral de licenciatura centrado en [[temas avanzados de Ciencias de la Computación]], incluyendo:",
                             "list": [
-                                "Aprendizaje automático",
-                                "Procesamiento del lenguaje natural (PLN)",
-                                "Redes neuronales"
+                                "Lenguajes de programación",
+                                "Fundamentos matemáticos",
+                                "Estructuras de datos",
+                                "Algoritmos",
+                                "Sistemas de gestión de bases de datos",
+                                "Tecnologías web",
+                                "Ingeniería de software"
                             ],
                             "tags": [
-                                "Redes neuronales",
-                                "Aprendizaje automático"
+                                "Ciencias de la Computación",
+                                "Programación",
+                                "Algoritmos",
+                                "Ingeniería de software",
+                                "Desarrollo web",
+                                "Sistemas de bases de datos",
+                                "Estructuras de datos",
+                                "Computación en la nube",
+                                "DevOps",
+                                "Diseño de sistemas",
+                                "Desarrollo de API",
+                                "Seguridad"
                             ]
                         },
                         "fr": {
-                            "title": "{{Master}} en Intelligence Artificielle",
+                            "title": "{{Licence}} en Applications Informatiques",
                             "province": "",
-                            "country": "France",
-                            "institution": "Université de Paris",
-                            "text": "J'ai terminé un programme de master complet axé sur [[les sujets avancés en IA]], notamment :",
+                            "country": "Inde",
+                            "institution": "Tilka Manjhi Bhagalpur University",
+                            "text": "J'ai terminé un programme de licence complet axé sur [[les sujets de pointe en informatique]], notamment :",
                             "list": [
-                                "Apprentissage automatique",
-                                "Traitement du langage naturel (NLP)",
-                                "Réseaux de neurones"
+                                "Langages de programmation",
+                                "Fondements mathématiques",
+                                "Structures de données",
+                                "Algorithmes",
+                                "Systèmes de gestion de bases de données",
+                                "Technologies web",
+                                "Génie logiciel"
                             ],
                             "tags": [
-                                "Réseaux de neurones",
-                                "Apprentissage automatique"
+                                "Informatique",
+                                "Programmation",
+                                "Algorithmes",
+                                "Génie logiciel",
+                                "Développement web",
+                                "Systèmes de bases de données",
+                                "Structures de données",
+                                "Informatique en nuage",
+                                "DevOps",
+                                "Conception de systèmes",
+                                "Développement d'API",
+                                "Sécurité"
                             ]
                         },
                         "ko": {
-                            "title": "인공지능 {{석사}}",
+                            "title": "컴퓨터 응용 {{학사}}",
                             "province": "",
-                            "country": "프랑스",
-                            "institution": "파리 대학교",
-                            "text": "[[최첨단 인공지능 주제]]를 중심으로 한 종합적인 석사 과정을 수료하였으며, 주요 내용은 다음과 같습니다:",
+                            "country": "인도",
+                            "institution": "틸카 만지 바갈푸르 대학교",
+                            "text": "[[최첨단 컴퓨터 과학 주제]]를 중심으로 한 종합적인 학사 과정을 수료하였으며, 주요 내용은 다음과 같습니다:",
                             "list": [
-                                "머신러닝",
-                                "자연어 처리 (NLP)",
-                                "신경망"
+                                "프로그래밍 언어",
+                                "수학적 기초",
+                                "자료 구조",
+                                "알고리즘",
+                                "데이터베이스 관리 시스템",
+                                "웹 기술",
+                                "소프트웨어 공학"
                             ],
                             "tags": [
-                                "신경망",
-                                "머신러닝"
+                                "컴퓨터 과학",
+                                "프로그래밍",
+                                "알고리즘",
+                                "소프트웨어 공학",
+                                "웹 개발",
+                                "데이터베이스 시스템",
+                                "자료 구조",
+                                "클라우드 컴퓨팅",
+                                "DevOps",
+                                "시스템 설계",
+                                "API 개발",
+                                "보안"
                             ]
                         }
                     }
@@ -206,62 +329,92 @@
                     "img": "images/pictures/timeline-place-harvard.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2022, "month": 9},
-                    "dateEnd": {"year": 2025, "month": 6},
+                    "dateStart": {"year": 2015, "month": 6},
+                    "dateEnd": {"year": 2018, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{PhD}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "Harvard University",
-                            "text": "Currently pursuing a PhD with a focus on [[deep learning]] and its real-world applications, particularly in:",
+                            "title": "{{Master}} in Computer Application",
+                            "province": "Pondicherry",
+                            "country": "India",
+                            "institution": "Pondicherry Central University",
+                            "text": "Completed my Master's degree in 2018, gaining strong expertise in [[software development]], artificial intelligence, algorithms, and deployment. Developed advanced skills through hands-on projects and research, applying modern technologies to solve real-world problems in these domains. Key areas of focus included:",
                             "list": [
-                                "Computer Vision",
+                                "Web Development",
                                 "Innovative AI research",
-                                "Developing [[novel algorithms]] for image recognition"
+                                "Algorithm",
+                                "Cloud Computing",
+                                "Network Security",
+                                "Database Management",
+                                "Software Testing",
+                                "Mobile Application Development",
+                                "Distributed Systems"
                             ],
                             "tags": [
-                                "Deep Learning", "Computer Vision", "AI Research", "Algorithms"
+                                "Application development", "Computer Vision", "AI Research", "Algorithms", "Cloud Computing"
                             ]
                         },
                         "es": {
-                            "title": "{{Doctorado}} en Ciencias de la Computación",
-                            "province": "Massachusetts",
-                            "country": "EE. UU.",
-                            "institution": "Universidad de Harvard",
-                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
+                            "title": "{{Máster}} en Aplicaciones Informáticas",
+                            "province": "Pondicherry",
+                            "country": "India",
+                            "institution": "Universidad Central de Pondicherry",
+                            "text": "Completé mi máster en 2018, adquiriendo una sólida experiencia en [[desarrollo de software]], inteligencia artificial, algoritmos y despliegue. Desarrollé habilidades avanzadas a través de proyectos prácticos e investigación, aplicando tecnologías modernas para resolver problemas reales en estos campos. Las áreas clave de enfoque incluyeron:",
                             "list": [
-                                "Visión por computadora",
+                                "Desarrollo web",
                                 "Investigación innovadora en IA",
-                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
+                                "Algoritmos",
+                                "Computación en la nube",
+                                "Seguridad de redes",
+                                "Gestión de bases de datos",
+                                "Pruebas de software",
+                                "Desarrollo de aplicaciones móviles",
+                                "Sistemas distribuidos"
                             ],
-                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                            "tags": [
+                                "Desarrollo de aplicaciones", "Visión por computadora", "Investigación en IA", "Algoritmos", "Computación en la nube"
+                            ]
                         },
                         "fr": {
-                            "title": "{{Doctorat}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "Université Harvard",
-                            "text": "Actuellement en doctorat, avec une spécialisation en [[deep learning]] et ses applications concrètes, notamment dans :",
+                            "title": "{{Master}} en Applications Informatiques",
+                            "province": "Pondichéry",
+                            "country": "Inde",
+                            "institution": "Université Centrale de Pondichéry",
+                            "text": "J'ai obtenu mon master en 2018, acquérant une solide expertise en [[développement logiciel]], intelligence artificielle, algorithmes et déploiement. J'ai développé des compétences avancées à travers des projets pratiques et de la recherche, en appliquant des technologies modernes pour résoudre des problèmes concrets dans ces domaines. Les principaux axes d'étude comprenaient :",
                             "list": [
-                                "La vision par ordinateur",
-                                "La recherche innovante en IA",
-                                "Le développement de [[nouveaux algorithmes]] pour la reconnaissance d’images"
+                                "Développement web",
+                                "Recherche innovante en IA",
+                                "Algorithmes",
+                                "Informatique en nuage",
+                                "Sécurité des réseaux",
+                                "Gestion de bases de données",
+                                "Tests logiciels",
+                                "Développement d'applications mobiles",
+                                "Systèmes distribués"
                             ],
-                            "tags": ["Apprentissage profond", "Vision par ordinateur", "Recherche en IA", "Algorithmes"]
+                            "tags": [
+                                "Développement d'applications", "Vision par ordinateur", "Recherche en IA", "Algorithmes", "Informatique en nuage"
+                            ]
                         },
                         "ko": {
-                            "title": "컴퓨터 과학 {{박사}}",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "하버드 대학교",
-                            "text": "[[딥러닝]] 및 그 실생활 적용에 중점을 둔 박사 과정을 진행 중이며, 주요 연구 분야는 다음과 같습니다:",
+                            "title": "컴퓨터 응용 {{석사}}",
+                            "province": "폰디체리",
+                            "country": "인도",
+                            "institution": "폰디체리 중앙대학교",
+                            "text": "2018년에 석사 학위를 취득하였으며, [[소프트웨어 개발]], 인공지능, 알고리즘, 배포 분야에서 강한 전문성을 쌓았습니다. 실무 프로젝트와 연구를 통해 고급 기술을 개발하고, 최신 기술을 적용하여 실제 문제를 해결하였습니다. 주요 집중 분야는 다음과 같습니다:",
                             "list": [
-                                "컴퓨터 비전",
-                                "혁신적인 인공지능 연구",
-                                "이미지 인식을 위한 새로운 알고리즘 개발"
+                                "웹 개발",
+                                "혁신적인 AI 연구",
+                                "알고리즘",
+                                "클라우드 컴퓨팅",
+                                "네트워크 보안",
+                                "데이터베이스 관리",
+                                "소프트웨어 테스트",
+                                "모바일 애플리케이션 개발",
+                                "분산 시스템"
                             ],
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                            "tags": [
+                                "애플리케이션 개발", "컴퓨터 비전", "AI 연구", "알고리즘", "클라우드 컴퓨팅"
+                            ]
                         }
                     }
                 }

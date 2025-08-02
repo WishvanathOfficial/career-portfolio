@@ -240,45 +240,45 @@
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{AI}} video editing",
-                            "text": "Learning to use AI tools to enhance my videos."
+                            "title": "{{Video Tutor}} Software Development ",
+                            "text": " A Tutor having experience in Software Development and Learning to use AI tools to enhance real world projects."
                         },
                         "es": {
-                            "title": "Edición de video con {{AI}}",
-                            "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                            "title": "{{Tutor de Video}} Desarrollo de Software",
+                            "text": "Un tutor con experiencia en desarrollo de software y aprendiendo a usar herramientas de IA para mejorar proyectos del mundo real."
                         },
                         "fr": {
-                            "title": "Édition vidéo avec {{IA}}",
-                            "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                            "title": "{{Tuteur vidéo}} Développement logiciel",
+                            "text": "Un tuteur ayant de l'expérience en développement logiciel et apprenant à utiliser des outils d'IA pour améliorer des projets concrets."
                         },
                         "ko": {
-                            "title": "{{AI}} 비디오 편집",
-                            "text": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                            "title": "{{비디오 튜터}} 소프트웨어 개발",
+                            "text": "소프트웨어 개발 경험이 있는 튜터로, 실제 프로젝트를 향상시키기 위해 AI 도구 사용을 배우고 있습니다."
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "faIcon": "fa-solid fa-palette",
+                    "faIcon": "fa-solid fa-laptop-code",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Practicing digital art and exploring new styles."
+                            "title": "{{Freelancing }} as Software Developers",
+                            "text": "Freelancing as Software Developers, working on various projects and enhancing skills."
                         },
                         "es": {
-                            "title": "{{Arte}} y Ilustración",
-                            "text": "Practicando arte digital y explorando nuevos estilos."
+                            "title": "{{Freelancing}} como Desarrolladores de Software",
+                            "text": "Trabajando como freelancers en desarrollo de software, participando en varios proyectos y mejorando habilidades."
                         },
                         "fr": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                            "title": "{{Freelancing}} en tant que Développeurs Logiciels",
+                            "text": "Freelancing en développement logiciel, travaillant sur divers projets et perfectionnant les compétences."
                         },
                         "ko": {
-                            "title": "{{예술}} 및 일러스트레이션",
-                            "text": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                            "title": "소프트웨어 개발자로서 {{프리랜싱}}",
+                            "text": "다양한 프로젝트에 참여하며 소프트웨어 개발자로 프리랜싱하고 역량을 강화하기."
                         }
                     }
                 },
@@ -327,7 +327,7 @@
                             "text": "Étudier les principes de l'expérience utilisateur."
                         },
                         "ko": {
-                            "title": "{{UX}} 디자인",
+                            "title": "{{사용자 경험}} 디자인",
                             "text": "사용자 경험 원칙을 공부하기."
                         }
                     }
@@ -341,45 +341,45 @@
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{Photography}} & Photoshop",
+                            "title": "{{Photography}} & Editing",
                             "text": "Enhancing photos through creative editing techniques."
                         },
                         "es": {
-                            "title": "{{Fotografía}} y Photoshop",
+                            "title": "{{Fotografía}} y Edición",
                             "text": "Mejorando fotos a través de técnicas creativas de edición."
                         },
                         "fr": {
-                            "title": "{{Photographie}} & Photoshop",
+                            "title": "{{Photographie}} & Édition",
                             "text": "Améliorer des photos avec des techniques de montage créatives."
                         },
                         "ko": {
-                            "title": "{{사진}} 및 포토샵",
+                            "title": "{{사진}} 및 편집",
                             "text": "창의적인 편집 기술을 통해 사진을 향상시키기."
                         }
                     }
                 },
                 {
                     "id": 6,
-                    "faIcon": "fa-solid fa-drum-steelpan",
+                    "faIcon": "fa-solid fa-computer",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "Playing {{drums}}",
-                            "text": "Exploring different genres and improving my skills."
+                            "title": "Technical {{content}} creator",
+                            "text": "Creating engaging content on software development and technology topics."
                         },
                         "es": {
-                            "title": "Tocar {{batería}}",
-                            "text": "Explorando diferentes géneros y mejorando mis habilidades."
+                            "title": "Creador de {{contenido}} técnico",
+                            "text": "Creando contenido atractivo sobre desarrollo de software y temas tecnológicos."
                         },
                         "fr": {
-                            "title": "Jouer de la {{batterie}}",
-                            "text": "Explorer différents genres et améliorer mes compétences."
+                            "title": "Créateur de {{contenu}} technique",
+                            "text": "Création de contenu engageant sur le développement logiciel et les sujets technologiques."
                         },
                         "ko": {
-                            "title": "{{드럼}} 연주",
-                            "text": "다양한 장르를 탐험하고 기술을 향상시키기."
+                            "title": "{{기술}} 콘텐츠 제작자",
+                            "text": "소프트웨어 개발 및 기술 주제에 대한 매력적인 콘텐츠를 생성합니다."
                         }
                     }
                 }
