@@ -27,7 +27,6 @@
             }
         }
     },
-
     "articles": [
         {
             "id": 1,
@@ -39,12 +38,128 @@
             },
             "items": [
                 {
+                    "id": 0,
+                    "img": "images/pictures/timeline-place-udacity.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2016,
+                        "month": 3
+                    },
+                    "dateEnd": {
+                        "year": 2016,
+                        "month": 6
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Introduction to Modern {{Application Development}}",
+                            "province": "NASSCOM",
+                            "country": "India",
+                            "institution": "IIT Madras",
+                            "text": "Successfully completed the Introduction to Modern Application Development (IMAD) program, which covered building modern web applications, database architecture, webpage security, and optimization techniques. The course included hands-on projects and collaborative assignments, providing practical experience in designing scalable, secure, and high-performance web solutions. Developed a strong foundation in modern development practices and gained exposure to industry-relevant tools and technologies.",
+                            "list": [
+                                "Team Collaboration",
+                                "Database Design",
+                                "Scalable Solutions",
+                                "Modern Web Development",
+                                "Security and Optimization"
+                            ],
+                            "tags": [
+                                "IMAD",
+                                "Full-Stack Development",
+                                "RESTful APIs",
+                                "Responsive Design",
+                                "Cloud Infrastructure",
+                                "Security Best Practices"
+                            ]
+                        },
+                        "es": {
+                            "title": "Introducción al {{Desarrollo de Aplicaciones Moderno}}",
+                            "province": "NASSCOM",
+                            "country": "India",
+                            "institution": "IIT Madras",
+                            "text": "Completé con éxito el programa de Introducción al Desarrollo de Aplicaciones Moderno (IMAD), que abarcó la creación de aplicaciones web modernas, la arquitectura de bases de datos, la seguridad en páginas web y técnicas de optimización. El curso incluyó proyectos prácticos y asignaciones colaborativas, proporcionando experiencia en el diseño de soluciones escalables, seguras y de alto rendimiento. Desarrollé una base sólida en las prácticas de desarrollo moderno y adquirí experiencia con herramientas y tecnologías relevantes en la industria.",
+                            "list": [
+                                "Colaboración en equipo",
+                                "Diseño de bases de datos",
+                                "Soluciones escalables",
+                                "Desarrollo web moderno",
+                                "Seguridad y optimización"
+                            ],
+                            "tags": [
+                                "IMAD",
+                                "Desarrollo Full-Stack",
+                                "APIs RESTful",
+                                "Diseño responsivo",
+                                "Infraestructura en la nube",
+                                "Mejores prácticas de seguridad"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Introduction au {{Développement d'Applications Modernes}}",
+                            "province": "NASSCOM",
+                            "country": "Inde",
+                            "institution": "IIT Madras",
+                            "text": "J'ai complété avec succès le programme 'Introduction au Développement d'Applications Modernes' (IMAD) qui portait sur la création d'applications web modernes, l'architecture des bases de données, la sécurité des pages web et des techniques d'optimisation. Le cours comprenait des projets pratiques et des travaux collaboratifs, offrant une expérience concrète dans la conception de solutions web évolutives, sécurisées et performantes. J'ai ainsi pu consolider une base solide dans les pratiques de développement moderne et me familiariser avec des outils et technologies pertinents pour l'industrie.",
+                            "list": [
+                                "Collaboration en équipe",
+                                "Conception de bases de données",
+                                "Solutions évolutives",
+                                "Développement web moderne",
+                                "Sécurité et optimisation"
+                            ],
+                            "tags": [
+                                "IMAD",
+                                "Développement Full-Stack",
+                                "APIs RESTful",
+                                "Design réactif",
+                                "Infrastructure Cloud",
+                                "Meilleures pratiques de sécurité"
+                            ]
+                        },
+                        "ko": {
+                            "title": "최신 {{응용 프로그램 개발}} 소개",
+                            "province": "NASSCOM",
+                            "country": "인도",
+                            "institution": "IIT Madras",
+                            "text": "IMAD(Introduction to Modern Application Development) 프로그램을 성공적으로 이수하였습니다. 이 과정에서는 최신 웹 애플리케이션 개발, 데이터베이스 아키텍처, 웹페이지 보안 및 최적화 기술을 다루었으며, 실습 프로젝트와 협업 과제를 통해 확장 가능하고 안전하며 고성능의 웹 솔루션 설계에 필요한 실무 경험을 제공하였습니다. 이를 통해 현대 개발 관행에 대한 탄탄한 기초를 마련하고, 업계에 관련된 도구와 기술을 익힐 수 있었습니다.",
+                            "list": [
+                                "팀 협업",
+                                "데이터베이스 설계",
+                                "확장 가능한 솔루션",
+                                "최신 웹 개발",
+                                "보안 및 최적화"
+                            ],
+                            "tags": [
+                                "IMAD",
+                                "Full-Stack 개발",
+                                "RESTful API",
+                                "반응형 디자인",
+                                "클라우드 인프라",
+                                "보안 모범 사례"
+                            ]
+                        }
+                    }
+                },
+                {
                     "id": 1,
                     "img": "images/pictures/timeline-place-udacity.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2019, "month": 1},
-                    "dateEnd": {"year": 2019, "month": 6},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2019,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2019,
+                        "month": 6
+                    },
                     "locales": {
                         "en": {
                             "title": "React Node FullStack development {{MERN}}",
@@ -60,7 +175,12 @@
                                 "Scalable Application Design"
                             ],
                             "tags": [
-                                "React", "Node.js", "FullStack", "MERN", "Microservices", "Performance Optimization"
+                                "React",
+                                "Node.js",
+                                "FullStack",
+                                "MERN",
+                                "Microservices",
+                                "Performance Optimization"
                             ]
                         },
                         "es": {
@@ -77,7 +197,12 @@
                                 "Diseño de Aplicaciones Escalables"
                             ],
                             "tags": [
-                                "React", "Node.js", "FullStack", "MERN", "Microservicios", "Optimización de Rendimiento"
+                                "React",
+                                "Node.js",
+                                "FullStack",
+                                "MERN",
+                                "Microservicios",
+                                "Optimización de Rendimiento"
                             ]
                         },
                         "fr": {
@@ -94,7 +219,12 @@
                                 "Conception d'applications évolutives"
                             ],
                             "tags": [
-                                "React", "Node.js", "FullStack", "MERN", "Microservices", "Optimisation des performances"
+                                "React",
+                                "Node.js",
+                                "FullStack",
+                                "MERN",
+                                "Microservices",
+                                "Optimisation des performances"
                             ]
                         },
                         "ko": {
@@ -111,7 +241,12 @@
                                 "확장 가능한 애플리케이션 설계"
                             ],
                             "tags": [
-                                "React", "Node.js", "FullStack", "MERN", "마이크로서비스", "성능 최적화"
+                                "React",
+                                "Node.js",
+                                "FullStack",
+                                "MERN",
+                                "마이크로서비스",
+                                "성능 최적화"
                             ]
                         }
                     }
@@ -120,9 +255,18 @@
                     "id": 2,
                     "img": "images/pictures/timeline-place-mit.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2017, "month": 1},
-                    "dateEnd": {"year": 2017, "month": 3},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2017,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2017,
+                        "month": 3
+                    },
                     "locales": {
                         "en": {
                             "title": "Programming, Data Structures, and Algorithms using {{Python}}",
@@ -138,7 +282,11 @@
                                 "Collaborative Software Development"
                             ],
                             "tags": [
-                                "Python", "Data Structures", "Algorithms", "Problem Solving", "Software Development"
+                                "Python",
+                                "Data Structures",
+                                "Algorithms",
+                                "Problem Solving",
+                                "Software Development"
                             ]
                         },
                         "es": {
@@ -155,7 +303,11 @@
                                 "Desarrollo Colaborativo de Software"
                             ],
                             "tags": [
-                                "Python", "Estructuras de Datos", "Algoritmos", "Resolución de Problemas", "Desarrollo de Software"
+                                "Python",
+                                "Estructuras de Datos",
+                                "Algoritmos",
+                                "Resolución de Problemas",
+                                "Desarrollo de Software"
                             ]
                         },
                         "fr": {
@@ -172,7 +324,11 @@
                                 "Développement logiciel collaboratif"
                             ],
                             "tags": [
-                                "Python", "Structures de données", "Algorithmes", "Résolution de problèmes", "Développement logiciel"
+                                "Python",
+                                "Structures de données",
+                                "Algorithmes",
+                                "Résolution de problèmes",
+                                "Développement logiciel"
                             ]
                         },
                         "ko": {
@@ -189,7 +345,11 @@
                                 "협업 소프트웨어 개발"
                             ],
                             "tags": [
-                                "Python", "자료 구조", "알고리즘", "문제 해결", "소프트웨어 개발"
+                                "Python",
+                                "자료 구조",
+                                "알고리즘",
+                                "문제 해결",
+                                "소프트웨어 개발"
                             ]
                         }
                     }
@@ -198,9 +358,18 @@
                     "id": 3,
                     "img": "images/pictures/timeline-place-university-paris.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2010, "month": 3},
-                    "dateEnd": {"year": 2014, "month": 1},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2010,
+                        "month": 3
+                    },
+                    "dateEnd": {
+                        "year": 2014,
+                        "month": 1
+                    },
                     "locales": {
                         "en": {
                             "title": "{{Bachelor's}} in Computer Application",
@@ -328,9 +497,18 @@
                     "id": 4,
                     "img": "images/pictures/timeline-place-harvard.png",
                     "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2015, "month": 6},
-                    "dateEnd": {"year": 2018, "month": 6},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2015,
+                        "month": 6
+                    },
+                    "dateEnd": {
+                        "year": 2018,
+                        "month": 6
+                    },
                     "locales": {
                         "en": {
                             "title": "{{Master}} in Computer Application",
@@ -350,7 +528,11 @@
                                 "Distributed Systems"
                             ],
                             "tags": [
-                                "Application development", "Computer Vision", "AI Research", "Algorithms", "Cloud Computing"
+                                "Application development",
+                                "Computer Vision",
+                                "AI Research",
+                                "Algorithms",
+                                "Cloud Computing"
                             ]
                         },
                         "es": {
@@ -371,7 +553,11 @@
                                 "Sistemas distribuidos"
                             ],
                             "tags": [
-                                "Desarrollo de aplicaciones", "Visión por computadora", "Investigación en IA", "Algoritmos", "Computación en la nube"
+                                "Desarrollo de aplicaciones",
+                                "Visión por computadora",
+                                "Investigación en IA",
+                                "Algoritmos",
+                                "Computación en la nube"
                             ]
                         },
                         "fr": {
@@ -392,7 +578,11 @@
                                 "Systèmes distribués"
                             ],
                             "tags": [
-                                "Développement d'applications", "Vision par ordinateur", "Recherche en IA", "Algorithmes", "Informatique en nuage"
+                                "Développement d'applications",
+                                "Vision par ordinateur",
+                                "Recherche en IA",
+                                "Algorithmes",
+                                "Informatique en nuage"
                             ]
                         },
                         "ko": {
@@ -413,7 +603,130 @@
                                 "분산 시스템"
                             ],
                             "tags": [
-                                "애플리케이션 개발", "컴퓨터 비전", "AI 연구", "알고리즘", "클라우드 컴퓨팅"
+                                "애플리케이션 개발",
+                                "컴퓨터 비전",
+                                "AI 연구",
+                                "알고리즘",
+                                "클라우드 컴퓨팅"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "images/pictures/timeline-place-udacity.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2017,
+                        "month": 4
+                    },
+                    "dateEnd": {
+                        "year": 2017,
+                        "month": 7
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Cloud computing {{Application Development}}",
+                            "province": "NASSCOM",
+                            "country": "India",
+                            "institution": "IIT Kharagpur",
+                            "text": "This session provided an in-depth exploration of cloud computing. It began with an introduction to the fundamental principles of cloud technology and its various architectures. The discussion then moved to service management, offering detailed insights into managing cloud-based services, as well as effective strategies for data and resource management. Participants also gained a comprehensive understanding of cloud security measures. In addition, the session explored different cloud deployment models and hands-on simulation techniques, while highlighting emerging research trends in the field, including the innovative concept of fog computing.",
+                            "list": [
+                                "Fundamental Principles of Cloud Computing",
+                                "Various Cloud Technology Architectures",
+                                "Service Management Strategies",
+                                "Data and Resource Management",
+                                "Comprehensive Cloud Security Measures",
+                                "Cloud Deployment Models",
+                                "Emerging Fog Computing Trends"
+                            ],
+                            "tags": [
+                                "Cloud Computing",
+                                "Cloud Architectures",
+                                "Service Management",
+                                "Resource Management",
+                                "Cloud Security",
+                                "Cloud Deployment",
+                                "Fog Computing"
+                            ]
+                        },
+                        "es": {
+                            "title": "Computación en la nube {{Desarrollo de Aplicaciones}}",
+                            "province": "NASSCOM",
+                            "country": "India",
+                            "institution": "IIT Kharagpur",
+                            "text": "Esta sesión ofreció una exploración profunda de la computación en la nube. Comenzó con una introducción a los principios fundamentales de la tecnología en la nube y sus diversas arquitecturas. La discusión continuó con la gestión de servicios, ofreciendo percepciones detalladas sobre el manejo de servicios basados en la nube, así como estrategias efectivas para la gestión de datos y recursos. Los participantes también adquirieron una comprensión integral de las medidas de seguridad en la nube. Además, la sesión exploró diferentes modelos de implementación de la nube y técnicas de simulación práctica, al mismo tiempo que destacó las tendencias emergentes en la investigación en el campo, incluido el innovador concepto de computación en la niebla.",
+                            "list": [
+                                "Principios fundamentales de la computación en la nube",
+                                "Diversas arquitecturas de tecnología en la nube",
+                                "Estrategias de gestión de servicios",
+                                "Gestión de datos y recursos",
+                                "Medidas integrales de seguridad en la nube",
+                                "Modelos de implementación de la nube",
+                                "Tendencias emergentes en la computación en la niebla"
+                            ],
+                            "tags": [
+                                "Computación en la Nube",
+                                "Arquitecturas Cloud",
+                                "Gestión de Servicios",
+                                "Gestión de Recursos",
+                                "Seguridad en la Nube",
+                                "Implementación en la Nube",
+                                "Computación en la Niebla"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Informatique en nuage {{Développement d'Applications}}",
+                            "province": "NASSCOM",
+                            "country": "Inde",
+                            "institution": "IIT Kharagpur",
+                            "text": "Cette session a offert une exploration approfondie de l'informatique en nuage. Elle a débuté par une introduction aux principes fondamentaux de la technologie cloud et à ses différentes architectures. La discussion s'est ensuite orientée vers la gestion des services, offrant des perspectives détaillées sur la gestion des services cloud, ainsi que des stratégies efficaces de gestion des données et des ressources. Les participants ont également acquis une compréhension complète des mesures de sécurité dans le cloud. De plus, la session a exploré différents modèles de déploiement cloud et des techniques de simulation pratique, tout en mettant en avant les tendances émergentes de la recherche dans ce domaine, y compris le concept innovant de l'informatique en périphérie (fog computing).",
+                            "list": [
+                                "Principes fondamentaux de l'informatique en nuage",
+                                "Différentes architectures de technologies cloud",
+                                "Stratégies de gestion des services",
+                                "Gestion des données et des ressources",
+                                "Mesures de sécurité cloud complètes",
+                                "Modèles de déploiement cloud",
+                                "Tendances émergentes du fog computing"
+                            ],
+                            "tags": [
+                                "Informatique en nuage",
+                                "Architectures Cloud",
+                                "Gestion des services",
+                                "Gestion des ressources",
+                                "Sécurité Cloud",
+                                "Déploiement Cloud",
+                                "Fog Computing"
+                            ]
+                        },
+                        "ko": {
+                            "title": "클라우드 컴퓨팅 {{응용 프로그램 개발}}",
+                            "province": "NASSCOM",
+                            "country": "인도",
+                            "institution": "IIT Kharagpur",
+                            "text": "이 세션은 클라우드 컴퓨팅에 대한 심도 있는 탐구를 제공하였습니다. 이 세션은 클라우드 기술의 기본 원리와 다양한 아키텍처에 대한 소개로 시작되었습니다. 이후 논의는 클라우드 기반 서비스 관리로 이어지며, 클라우드 서비스를 관리하는 방법과 데이터 및 자원 관리에 대한 효과적인 전략에 대해 자세히 살펴보았습니다. 참가자들은 클라우드 보안 조치에 대한 종합적인 이해를 얻었습니다. 추가로, 이 세션은 다양한 클라우드 배포 모델과 실습 시뮬레이션 기법을 탐구하였으며, 혁신적인 개념인 포그 컴퓨팅을 포함하여 이 분야의 신흥 연구 동향을 부각시켰습니다.",
+                            "list": [
+                                "클라우드 컴퓨팅의 기본 원리",
+                                "다양한 클라우드 기술 아키텍처",
+                                "서비스 관리 전략",
+                                "데이터 및 자원 관리",
+                                "종합적인 클라우드 보안 조치",
+                                "클라우드 배포 모델",
+                                "신흥 포그 컴퓨팅 동향"
+                            ],
+                            "tags": [
+                                "클라우드 컴퓨팅",
+                                "클라우드 아키텍처",
+                                "서비스 관리",
+                                "자원 관리",
+                                "클라우드 보안",
+                                "클라우드 배포",
+                                "포그 컴퓨팅"
                             ]
                         }
                     }
