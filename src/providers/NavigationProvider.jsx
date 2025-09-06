@@ -1,6 +1,6 @@
 /**
- * @author Ryan Balieiro
- * @date 2025-05-10
+ * @author Wishvanath Sah
+ * @date 2025-01-01
  * @description This provider manages the navigation between sections and categories in the application.
  */
 

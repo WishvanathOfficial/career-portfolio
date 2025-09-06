@@ -1,6 +1,6 @@
 /**
- * @author Ryan Balieiro
- * @date 2025-05-10
+ * @author Wishvanath Sah
+ * @date 2025-01-01
  * @description This file contains a collection of utility functions that can be used throughout the application.
  */
 import {_arrayUtils} from "./utils/_array-utils.js"
