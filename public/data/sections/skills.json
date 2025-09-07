@@ -7,6 +7,12 @@
                 "title_long_prefix": "Explore",
                 "title_long": "My {{Skill Set}}"
             },
+            "hi": {
+                "title_short": "कौशल",
+                "title_short_nav": "कौशल",
+                "title_long_prefix": "यह मेरा",
+                "title_long": "{{कौशल}} सेट है"
+            },
             "es": {
                 "title_short": "Habilidades",
                 "title_short_nav": "Habilidades",
@@ -58,6 +64,10 @@
                             "title": "{{Website}} design",
                             "text": "Transforming creative concepts into stunning, user-friendly websites that deliver real results."
                         },
+                        "hi": {
+                            "title": "वेबसाइट {{डिजाइन}}",
+                            "text": "रचनात्मक अवधारणाओं को आश्चर्यजनक, उपयोगकर्ता के अनुकूल वेबसाइटों में बदलना जो वास्तविक परिणाम प्रदान करती हैं।"
+                        },
                         "es": {
                             "title": "{{Diseño}} de websites",
                             "text": "¡Puedo hacer realidad tus mejores ideas y hacerlas reales! Transformando conceptos creativos en sitios web impresionantes y fáciles de usar que ofrecen resultados reales."
@@ -92,6 +102,10 @@
                         "en": {
                             "title": "{{Database}} management",
                             "text": "Expert in designing, optimizing, and maintaining robust databases to ensure data integrity, security, and high performance. Skilled in backup strategies, disaster recovery, and scaling solutions for mission-critical applications."
+                        },
+                        "hi": {
+                            "title": "{{डेटाबेस}} प्रबंधन",
+                            "text": "डेटा की अखंडता, सुरक्षा और उच्च प्रदर्शन सुनिश्चित करने के लिए मजबूत डेटाबेस को डिजाइन, अनुकूलित और बनाए रखने में विशेषज्ञ। मिशन-क्रिटिकल अनुप्रयोगों के लिए बैकअप रणनीतियों, आपदा पुनर्प्राप्ति, और स्केलिंग समाधानों में कुशल।"
                         },
                         "es": {
                             "title": "Gestión de {{bases de datos}}",
@@ -128,6 +142,10 @@
                             "title": "{{Full Stack}} development",
                             "text": "I have experience building complete applications from frontend to backend, integrating databases, APIs, and user interfaces."
                         },
+                        "hi": {
+                            "title": "{{फुल स्टैक}} विकास",
+                            "text": "मेरे पास फ्रंटेंड से बैकएंड तक पूर्ण अनुप्रयोग बनाने का अनुभव है, जिसमें डेटाबेस, एपीआई और उपयोगकर्ता इंटरफेस को एकीकृत किया गया है।"
+                        },
                         "es": {
                             "title": "Desarrollo {{Full Stack}}",
                             "text": "Tengo experiencia construyendo aplicaciones completas desde el frontend hasta el backend, integrando bases de datos, APIs e interfaces de usuario."
@@ -162,6 +180,10 @@
                         "en": {
                             "title": "{{REST}} APIs",
                             "text": "Skilled in designing and implementing robust RESTful APIs that enable seamless integration between systems, ensure secure data exchange, and power scalable applications."
+                        },
+                        "hi": {
+                            "title": "APIs {{REST}}",
+                            "text": "मैं API सेवाएँ बना सकता हूँ! मजबूत RESTful APIs को डिज़ाइन और लागू करने में विशेषज्ञता, जो सिस्टमों के बीच निर्बाध एकीकरण, सुरक्षित डेटा विनिमय सुनिश्चित करती हैं और स्केलेबल अनुप्रयोगों को शक्ति प्रदान करती हैं।"
                         },
                         "es": {
                             "title": "APIs {{REST}}",
@@ -198,6 +220,10 @@
                             "title": "Performance {{Optimization}}",
                             "text": "I specialize in optimizing systems for maximum speed, efficiency, and scalability."
                         },
+                        "hi": {
+                            "title": "प्रदर्शन {{अनुकूलन}}",
+                            "text": "मैं अधिकतम गति, दक्षता और स्केलेबिलिटी के लिए सिस्टम को अनुकूलित करने में विशेषज्ञ हूँ।"
+                        },
                         "es": {
                             "title": "Performance {{Optimización}}",
                             "text": "Me especializo en optimizar sistemas para máxima velocidad, eficiencia y escalabilidad."
@@ -220,6 +246,9 @@
             "locales": {
                 "en": {
                     "title": "Backend Stack"
+                },
+                "hi": {
+                    "title": "बैकएंड स्टैक"
                 },
                 "es": {
                     "title": "Stack de Backend"
@@ -258,6 +287,11 @@
                             "text": "Worked daily on building applications using this technology, showing clear skills and understanding of modern web development.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "Node.js",
+                            "text": "इस तकनीक का उपयोग करके प्रतिदिन अनुप्रयोग बनाने पर काम किया, आधुनिक वेब विकास की स्पष्ट कौशल और समझ दिखाते हुए। Node.js फाउंडेशन द्वारा प्रमाणित डेवलपर।",
+                            "level": ""
+                        },
                         "es": {
                             "title": "Node.js",
                             "text": "Trabajé diariamente en el desarrollo de aplicaciones usando esta tecnología, demostrando habilidades claras y comprensión del desarrollo web moderno. Desarrollador certificado por la Fundación Node.js.",
@@ -294,6 +328,10 @@
                             "text": "I can manage and optimize MySQL databases for performance and reliability.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "MySQL",
+                            "text": "मैं प्रदर्शन और विश्वसनीयता के लिए MySQL डेटाबेस का प्रबंधन और अनुकूलन कर सकता हूँ।"
+                        },
                         "es": {
                             "text": "Puedo gestionar y optimizar bases de datos MySQL para rendimiento y fiabilidad."
                         },
@@ -323,6 +361,10 @@
                             "title": "AWS",
                             "text": "Working knowledge of AWS container services, including ECS and EKS, for scalable container orchestration.",
                             "level": ""
+                        },
+                        "hi": {
+                            "title": "एडब्ल्यूएस",
+                            "text": "स्केलेबल कंटेनर ऑर्केस्ट्रेशन के लिए ECS और EKS सहित AWS कंटेनर सेवाओं का कार्यकारी ज्ञान।"
                         },
                         "es": {
                             "title": "AWS",
@@ -361,6 +403,10 @@
                             "text": "Skilled in building robust and scalable web applications using Express.js.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "Express.js",
+                            "text": "Express.js का उपयोग करके मजबूत और स्केलेबल वेब अनुप्रयोग बनाने में कुशल।"
+                        },
                         "es": {
                             "title": "Express.js",
                             "text": "Hábil en la construcción de aplicaciones web robustas y escalables utilizando Express.js.",
@@ -397,6 +443,10 @@
                             "text": "Data analysis and machine learning with Python.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "Python",
+                            "text": "Python के साथ डेटा विश्लेषण और मशीन लर्निंग।"
+                        },
                         "es": {
                             "text": "Análisis de datos y aprendizaje automático con Python."
                         },
@@ -426,6 +476,10 @@
                             "title": "Jenkins & Octopus Deploy",
                             "text": "Total devotee of Jenkins for continuous integration and delivery.",
                             "level": ""
+                        },
+                        "hi": {
+                            "title": "Jenkins & Octopus Deploy",
+                            "text": "निरंतर एकीकरण और वितरण के लिए Jenkins का पूर्ण भक्त।"
                         },
                         "es": {
                             "title": "Jenkins & Octopus Deploy",
@@ -463,6 +517,10 @@
                             "text": "Relational database management system.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "PostgreSQL",
+                            "text": "रिलेशनल डेटाबेस प्रबंधन प्रणाली।"
+                        },
                         "es": {
                             "title": "PostgreSQL",
                             "text": "Sistema de gestión de bases de datos relacional.",
@@ -499,6 +557,10 @@
                             "text": "Complete understanding of Git for version control and collaboration.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "Git",
+                            "text": "वर्शन नियंत्रण और सहयोग के लिए Git की पूरी समझ।"
+                        },
                         "es": {
                             "title": "Git",
                             "text": "Comprensión completa de Git para control de versiones y colaboración.",
@@ -524,6 +586,9 @@
             "locales": {
                 "en": {
                     "title": "Frontend Stack"
+                },
+                "hi": {
+                    "title": "फ्रंटएंड स्टैक"
                 },
                 "es": {
                     "title": "Stack de Frontend"
@@ -562,6 +627,10 @@
                             "text": "I am proficient in HTML5 for building structured web pages.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "HTML 5",
+                            "text": "संरचित वेब पेज बनाने के लिए मैं HTML5 में प्रवीण हूँ।"
+                        },
                         "es": {
                             "text": "Soy competente en HTML5 para construir páginas web estructuradas."
                         },
@@ -591,6 +660,10 @@
                             "title": "CSS 3 & SCSS",
                             "text": "I can create responsive and visually appealing designs using CSS3 & SCSS.",
                             "level": ""
+                        },
+                        "hi": {
+                            "title": "CSS 3 & SCSS",
+                            "text": "मैं CSS3 और SCSS का उपयोग करके उत्तरदायी और दृश्य रूप से आकर्षक डिज़ाइन बना सकता हूँ।"
                         },
                         "es": {
                             "text": "Puedo crear diseños receptivos y visualmente atractivos utilizando CSS3 y SCSS."
@@ -623,6 +696,10 @@
                             "text": "Mastered JavaScript ES6+ for dynamic and interactive web applications.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "JavaScript ES6+",
+                            "text": "डायनामिक और इंटरैक्टिव वेब एप्लिकेशन के लिए JavaScript ES6+ में महारत हासिल।"
+                        },
                         "es": {
                             "text": "Dominio de JavaScript ES6+ para aplicaciones web dinámicas e interactivas."
                         },
@@ -653,6 +730,10 @@
                             "title": "React",
                             "text": "Complete understanding of React for building modern web applications.",
                             "level": ""
+                        },
+                        "hi": {
+                            "title": "React",
+                            "text": "आधुनिक वेब अनुप्रयोगों के निर्माण के लिए React की पूरी समझ।"
                         },
                         "es": {
                             "text": "Comprensión completa de React para construir aplicaciones web modernas."
@@ -685,6 +766,10 @@
                             "text": "Complete understanding of Redux for building modern web applications.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "Redux",
+                            "text": "आधुनिक वेब अनुप्रयोगों के निर्माण के लिए Redux की पूरी समझ।"
+                        },
                         "es": {
                             "text": "Comprensión completa de Redux para construir aplicaciones web modernas."
                         },
@@ -715,6 +800,10 @@
                             "title": "Next.js",
                             "text": "Complete understanding of Next.js for building modern web applications.",
                             "level": ""
+                        },
+                        "hi": {
+                            "title": "Next.js",
+                            "text": "आधुनिक वेब अनुप्रयोगों के निर्माण के लिए Next.js की पूरी समझ।"
                         },
                         "es": {
                             "text": "Comprensión completa de Next.js para construir aplicaciones web modernas."
@@ -747,6 +836,10 @@
                             "text": "Good understanding of Vue.js for building interactive user interfaces.",
                             "level": ""
                         },
+                        "hi": {
+                            "title": "Vue.js",
+                            "text": "इंटरैक्टिव यूजर इंटरफेस बनाने के लिए Vue.js की अच्छी समझ।"
+                        },
                         "es": {
                             "text": "Buena comprensión de Vue.js para construir interfaces de usuario interactivas."
                         },
@@ -776,6 +869,10 @@
                             "title": "Bootstrap 5+, Tailwind CSS, Material UI, Semantic UI",
                             "text": "Good understanding of Bootstrap, Tailwind CSS, Material UI, and Semantic UI for responsive design.",
                             "level": ""
+                        },
+                        "hi": {
+                            "title": "Bootstrap 5+, Tailwind CSS, Material UI, Semantic UI",
+                            "text": "उत्तरदायी डिज़ाइन के लिए Bootstrap, Tailwind CSS, Material UI, और Semantic UI की अच्छी समझ।"
                         },
                         "es": {
                             "text": "Buena comprensión de Bootstrap, Tailwind CSS, Material UI y Semantic UI para diseño receptivo."
@@ -834,6 +931,11 @@
                             "text": "Having good communication and writing skills.",
                             "level": "Fluent"
                         },
+                        "hi": {
+                            "title": "अंग्रेज़ी",
+                            "text": "अच्छे संचार और लेखन कौशल हैं।",
+                            "level": "प्रवीण"
+                        },
                         "es": {
                             "title": "Inglés",
                             "text": "Tiene buenas habilidades de comunicación y redacción.",
@@ -870,6 +972,10 @@
                             "text": "Elementary in both spoken and written French",
                             "level": "Basic"
                         },
+                        "hi": {
+                            "title": "फ्रेंच",
+                            "text": "बोलचाल और लिखित फ्रेंच दोनों में प्राथमिक।"
+                        },
                         "es": {
                             "title": "Francés",
                             "text": "Básico en francés hablado y escrito.",
@@ -905,6 +1011,11 @@
                             "title": "Hindi",
                             "text": "Native speaker",
                             "level": "Native"
+                        },
+                        "hi": {
+                            "title": "हिंदी",
+                            "text": "मातृभाषी",
+                            "level": "मातृभाषा"
                         },
                         "es": {
                             "title": "Hindi",

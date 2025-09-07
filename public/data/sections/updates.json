@@ -7,6 +7,12 @@
                 "title_long_prefix": "Take a look at my",
                 "title_long": "Recent {{Updates}}"
             },
+            "hi": {
+                "title_short": "हाल की ज़िंदगी",
+                "title_short_nav": "अपडेट",
+                "title_long_prefix": "मेरी हाल की",
+                "title_long": "{{अपडेट}}"
+            },
             "es": {
                 "title_short": "Vida Reciente",
                 "title_short_nav": "Actualizaciones",

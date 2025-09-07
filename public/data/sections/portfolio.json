@@ -7,6 +7,12 @@
                 "title_long_prefix": "Take a look at",
                 "title_long": "My {{Portfolio}}"
             },
+            "hi": {
+                "title_short": "पोर्टफोलियो",
+                "title_short_nav": "पोर्टफोलियो",
+                "title_long_prefix": "यह मेरा",
+                "title_long": "{{पोर्टफोलियो}} है"
+            },
             "es": {
                 "title_short": "Portafolio",
                 "title_short_nav": "Portafolio",
@@ -38,6 +44,12 @@
                     "category_apps": "Apps",
                     "category_web": "Web",
                     "category_utilities": "Utilities"
+                },
+                "hi": {
+                    "category_all": "सब",
+                    "category_apps": "ऐप्स",
+                    "category_web": "वेब",
+                    "category_utilities": "उपयोगिताएँ"
                 },
                 "es": {
                     "category_all": "Todo",
@@ -72,8 +84,8 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://npm.com", "tooltipString": "see_on_npm", "faIcon": "fa-brands fa-npm"}
+                            {"href": "https://www.elsevier.com/en-in/products/clinical-elearning", "tooltipString": "see_on_app_store", "faIcon": "fa-solid fa-globe"},
+                            {"href": "https://www.elseviertransitiontopractice.com/welcome", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-windows"}
                         ],
                         "screenshots": [
                             "images/pictures/screenshot-demo-landscape-1.png",
@@ -83,12 +95,12 @@
                             "images/pictures/screenshot-demo-landscape-5.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=PnV8p1xm7-o"
+                        "youtubeVideo": "https://www.youtube.com/watch?v=Xv93AoTOcYY"
                     },
                     "locales": {
                         "en": {
-                            "title": "BrainPulse",
-                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
+                            "title": "Elsevier Transition to Practice",
+                            "text": "A <b>RESTful API</b> micro-services backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
                             "tags": ["API", "REST", "Backend"]
                         },
                         "es": {

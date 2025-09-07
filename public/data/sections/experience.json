@@ -7,6 +7,12 @@
                 "title_long_prefix": "Summary of my",
                 "title_long": "{{Work}} Experience"
             },
+            "hi": {
+                "title_short": "अनुभव",
+                "title_short_nav": "अनुभव",
+                "title_long_prefix": "मेरी",
+                "title_long": "{{कार्य}} अनुभव"
+            },
             "es": {
                 "title_short": "Experiencia",
                 "title_short_nav": "Experiencia",
@@ -43,42 +49,51 @@
                     "img": "images/pictures/timeline-place-sapphire-studio.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 3},
-                    "dateEnd": {"year": 2018, "month": 6},
+                    "dateStart": {"year": 2018, "month": 5},
+                    "dateEnd": {"year": 2020, "month": 11},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Developer",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+                            "title": "{{Full-Stack}} Engineer",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "institution": "SkyMap Global",
+                            "text": "Developed and maintained [[scalable backend systems]] for Organization, optimizing database performance and implementing RESTful APIs to improve application functionality.",
                             "list": [],
-                            "tags": ["PHP8.0", "MySQL", "Laravel"]
+                            "tags": ["React", "MySQL", "NodeJS", "ExpressJS", "REST APIs", "Docker"]
+                        },
+                        "hi": {
+                            "title": "{{फुल-स्टैक}} इंजीनियर",
+                            "province": "हैदराबाद",
+                            "country": "भारत",
+                            "institution": "SkyMap Global",
+                            "text": "संगठन के लिए [[स्केलेबल बैकएंड सिस्टम]] का विकास और रखरखाव किया, डेटाबेस प्रदर्शन को अनुकूलित किया और एप्लिकेशन कार्यक्षमता में सुधार के लिए RESTful API लागू किए।",
+                            "list": [],
+                            "tags": []
                         },
                         "es": {
-                            "title": "Desarrollador {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canadá",
-                            "institution": "Sapphire Studio",
-                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para varios clientes, optimizando el rendimiento de bases de datos e implementando APIs RESTful para mejorar la funcionalidad de las aplicaciones.",
+                            "title": "Ingeniero {{Full-Stack}}",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "institution": "SkyMap Global",
+                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para la organización, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
                             "list": [],
                             "tags": []
                         },
                         "fr": {
-                            "title": "Développeur {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour divers clients, optimisation des performances des bases de données et mise en place d’API RESTful pour améliorer les fonctionnalités des applications.",
+                            "title": "Ingénieur {{Full-Stack}}",
+                            "province": "Hyderabad",
+                            "country": "Inde",
+                            "institution": "SkyMap Global",
+                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour l’organisation, optimisation des performances de la base de données et mise en œuvre d’API RESTful pour améliorer les fonctionnalités de l’application.",
                             "list": [],
                             "tags": []
                         },
                         "ko": {
-                            "title": "{{백엔드}} 개발자",
-                            "province": "토론토",
-                            "country": "캐나다",
-                            "institution": "Sapphire Studio",
-                            "text": "다양한 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발하고 유지보수했으며, 데이터베이스 성능을 최적화하고 RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
+                            "title": "{{풀스택}} 엔지니어",
+                            "province": "하이데라바드",
+                            "country": "인도",
+                            "institution": "SkyMap Global",
+                            "text": "조직을 위한 [[확장 가능한 백엔드 시스템]]을 개발 및 유지 관리하고, 데이터베이스 성능을 최적화하며, RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
                             "list": [],
                             "tags": []
                         }
@@ -89,42 +104,51 @@
                     "img": "images/pictures/timeline-place-coursera.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2018, "month": 6},
-                    "dateEnd": {"year": 2020, "month": 12},
+                    "dateStart": {"year": 2020, "month": 11},
+                    "dateEnd": {"year": 2022, "month": 8},
                     "locales": {
                         "en": {
-                            "title": "{{Full-Stack}} Engineer",
-                            "province": "",
-                            "country": "Remote",
-                            "institution": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
+                            "title": "{{Senior Full-Stack}} Engineer",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "institution": "AxiomIO",
+                            "text": "Developed and maintained [[scalable backend systems]] for Organization and client, optimizing database performance and implementing RESTful APIs to improve application functionality.",
                             "list": [],
-                            "tags": ["Svelte", "NodeJS", "Laravel", "REST APIs", "Docker"]
+                            "tags": ["React", "Angular", "MySQL", "NodeJS", "ExpressJS", "REST APIs", "Docker"]
                         },
-                        "es": {
-                            "title": "Ingeniero {{Full-Stack}}",
-                            "province": "",
-                            "country": "Remoto",
-                            "institution": "Coursera",
-                            "text": "Trabajé en la mejora del sitio web de Coursera implementando nuevas funciones y optimizando la experiencia del usuario, utilizando tecnologías tanto de frontend como de backend para garantizar una funcionalidad fluida.",
+                        "hi": {
+                            "title": "{{सीनियर फुल-स्टैक}} इंजीनियर",
+                            "province": "हैदराबाद",
+                            "country": "भारत",
+                            "institution": "AxiomIO",
+                            "text": "संगठन और क्लाइंट के लिए [[स्केलेबल बैकएंड सिस्टम]] का विकास और रखरखाव किया, डेटाबेस प्रदर्शन को अनुकूलित किया और एप्लिकेशन कार्यक्षमता में सुधार के लिए RESTful API लागू किए।",
+                            "list": [],
+                            "tags": []
+                        },
+                        "es":{
+                            "title": "Ingeniero {{Senior Full-Stack}}",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "institution": "AxiomIO",
+                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para la organización y el cliente, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
                             "list": [],
                             "tags": []
                         },
                         "fr": {
-                            "title": "Ingénieur {{Full-Stack}}",
-                            "province": "",
-                            "country": "Télétravail",
-                            "institution": "Coursera",
-                            "text": "Participation à l'amélioration du site web de Coursera en développant de nouvelles fonctionnalités et en optimisant l’expérience utilisateur, en utilisant des technologies frontend et backend pour assurer un fonctionnement fluide.",
+                            "title": "Ingénieur {{Senior Full-Stack}}",
+                            "province": "Hyderabad",
+                            "country": "Inde",
+                            "institution": "AxiomIO",       
+                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour l’organisation et le client, optimisation des performances de la base de données et mise en œuvre d’API RESTful pour améliorer les fonctionnalités de l’application.",
                             "list": [],
                             "tags": []
                         },
                         "ko": {
-                            "title": "{{풀스택}} 엔지니어",
-                            "province": "",
-                            "country": "원격",
-                            "institution": "Coursera",
-                            "text": "Coursera 웹사이트의 기능을 향상시키기 위해 새로운 기능을 구현하고 사용자 경험을 개선하는 작업을 수행했으며, 프론트엔드와 백엔드 기술을 모두 활용하여 원활한 동작을 보장했습니다.",
+                            "title": "{{시니어 풀스택}} 엔지니어",
+                            "province": "하이데라바드",
+                            "country": "인도",      
+                            "institution": "AxiomIO",
+                            "text": "조직과 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발 및 유지 관리하고, 데이터베이스 성능을 최적화하며, RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
                             "list": [],
                             "tags": []
                         }
@@ -132,52 +156,6 @@
                 },
                 {
                     "id": 3,
-                    "img": "images/pictures/timeline-place-adobe.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 12},
-                    "dateEnd": {"year": 2022, "month": 11},
-                    "locales": {
-                        "en": {
-                            "title": "{{Backend}} Engineer",
-                            "province": "New York",
-                            "country": "US",
-                            "institution": "Adobe Inc",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
-                            "list": [],
-                            "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
-                        },
-                        "es": {
-                            "title": "Ingeniero {{Backend}}",
-                            "province": "Nueva York",
-                            "country": "EE. UU.",
-                            "institution": "Adobe Inc",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia del procesamiento de datos mediante funciones en la nube.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "fr": {
-                            "title": "Ingénieur {{Backend}}",
-                            "province": "New York",
-                            "country": "États-Unis",
-                            "institution": "Adobe Inc",
-                            "text": "Participation au développement de systèmes backend robustes pour Adobe Creative Cloud, intégration de services tiers et amélioration de l’efficacité du traitement des données via des fonctions cloud.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{백엔드}} 엔지니어",
-                            "province": "뉴욕",
-                            "country": "미국",
-                            "institution": "Adobe Inc",
-                            "text": "Adobe Creative Cloud를 위한 견고한 백엔드 시스템 개발에 기여하였으며, 서드파티 서비스 통합 및 클라우드 기능을 활용한 데이터 처리 효율 향상에 집중했습니다.",
-                            "list": [],
-                            "tags": []
-                        }
-                    }
-                },
-                {
-                    "id": 4,
                     "img": "",
                     "faIcon": "fa-brands fa-apple",
                     "faIconColors": {"bg": "#111", "fill": "#EEE"},
@@ -185,65 +163,115 @@
                     "dateEnd": {"now": true},
                     "locales": {
                         "en": {
-                            "title": "{{Senior Backend}} Developer",
-                            "province": "California",
-                            "country": "US",
-                            "institution": "Apple Inc",
-                            "text": "Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:",
+                            "title": "{{Lead Full-Stack}} Developer",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "institution": "CitiusTech",
+                            "text": "Leading a team of developers and Individual contributors to design and implement Full stack solutions for Client, with a focus on:",
                             "list": [
-                                "Security",
+                                "Application development on AWS cloud platform",
                                 "Scalability to handle millions of users globally",
                                 "Developing RESTful APIs",
-                                "Optimizing database performance with PostgreSQL",
-                                "Building services with Swift, PHP, and GraphQL"
+                                "Optimizing database performance with MySQL",
+                                "Building services with NodeJS, ExpressJS, and Microservices architecture",
+                                "Creating dynamic and responsive user interfaces with React",
+                                "Containerizing applications using Docker",
+                                "Implementing CI/CD pipelines for automated testing and deployment",
+                                "Collaborating with cross-functional teams to deliver high-quality software solutions",
+                                "Mentoring junior developers and conducting code reviews to ensure best practices",
+                                "Staying updated with the latest industry trends and technologies to continuously improve the development process",
+                                "Unit testing and integration testing to ensure code quality and reliability"
                             ],
-                            "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs", "Docker"]
+                            "tags": ["JavaScript", "React", "Redux", "NodeJS", "ExpressJS", "REST APIs", "AWS", "MySQL", "Docker", "Microservices", "CI/CD"]
                         },
-                        "es": {
-                            "title": "Desarrollador {{Senior Backend}}",
-                            "province": "California",
-                            "country": "EE. UU.",
-                            "institution": "Apple Inc",
-                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
+                        "hi": {
+                            "title": "{{लीड फुल-स्टैक}} डेवलपर",
+                            "province": "हैदराबाद",
+                            "country": "भारत",
+                            "institution": "CitiusTech",
+                            "text": "डेवलपर्स और व्यक्तिगत योगदानकर्ताओं की एक टीम का नेतृत्व करना ताकि क्लाइंट के लिए फुल स्टैक समाधान डिजाइन और लागू किया जा सके, जिसमें निम्नलिखित पर ध्यान केंद्रित किया गया है:",
                             "list": [
-                                "Seguridad",
-                                "Escalabilidad para manejar millones de usuarios a nivel global",
-                                "Desarrollo de APIs RESTful",
-                                "Optimización del rendimiento de bases de datos con PostgreSQL",
-                                "Creación de servicios con Swift, PHP y GraphQL"
+                                "AWS क्लाउड प्लेटफ़ॉर्म पर एप्लिकेशन विकास",
+                                "वैश्विक स्तर पर लाखों उपयोगकर्ताओं को संभालने के लिए स्केलेबिलिटी",
+                                "RESTful API का विकास",
+                                "MySQL के साथ डेटाबेस प्रदर्शन को अनुकूलित करना",
+                                "NodeJS, ExpressJS, और माइक्रोसर्विसेज आर्किटेक्चर के साथ सेवाएं बनाना",
+                                "React के साथ डायनामिक और उत्तरदायी यूजर इंटरफेस बनाना",
+                                "Docker का उपयोग करके एप्लिकेशन कंटेनराइज़ करना",
+                                "स्वचालित परीक्षण और तैनाती के लिए CI/CD पाइपलाइनों को लागू करना",
+                                "उच्च गुणवत्ता वाले सॉफ़्टवेयर समाधान प्रदान करने के लिए क्रॉस-फंक्शनल टीमों के साथ सहयोग करना",
+                                "जूनियर डेवलपर्स को मेंटरिंग और कोड समीक्षा करना ताकि सर्वोत्तम प्रथाओं को सुनिश्चित किया जा सके",
+                                "विकास प्रक्रिया में निरंतर सुधार के लिए नवीनतम उद्योग रुझानों और तकनीकों के साथ अपडेट रहना",
+                                "कोड गुणवत्ता और विश्वसनीयता सुनिश्चित करने के लिए यूनिट परीक्षण और एकीकरण परीक्षण"
                             ],
                             "tags": []
                         },
-                        "fr": {
-                            "title": "Développeur {{Senior Backend}}",
-                            "province": "Californie",
-                            "country": "États-Unis",
-                            "institution": "Apple Inc",
-                            "text": "Responsable d'une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services Apple, en se concentrant sur :",
+                        "es": {
+                            "title": "Desarrollador {{Lead Full-Stack}}",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "institution": "CitiusTech",
+                            "text": "Liderando un equipo de desarrolladores y colaboradores individuales para diseñar e implementar soluciones Full stack para el cliente, con un enfoque en:",
                             "list": [
-                                "La sécurité",
-                                "L’évolutivité pour gérer des millions d’utilisateurs dans le monde",
-                                "Le développement d’API RESTful",
-                                "L’optimisation des performances des bases de données avec PostgreSQL",
-                                "La création de services avec Swift, PHP et GraphQL"
+                                "Desarrollo de aplicaciones en la plataforma cloud de AWS",
+                                "Escalabilidad para manejar millones de usuarios a nivel mundial",
+                                "Desarrollo de APIs RESTful",   
+                                "Optimización del rendimiento de la base de datos con MySQL",
+                                "Construcción de servicios con NodeJS, ExpressJS y arquitectura de microservicios",
+                                "Creación de interfaces de usuario dinámicas y receptivas con React",
+                                "Contenerización de aplicaciones usando Docker",
+                                "Implementación de pipelines CI/CD para pruebas y despliegue automatizados",
+                                "Colaboración con equipos multifuncionales para ofrecer soluciones de software de alta calidad",
+                                "Mentoría a desarrolladores junior y realización de revisiones de código para garantizar las mejores prácticas",
+                                "Mantenerse actualizado con las últimas tendencias y tecnologías de la industria para mejorar continuamente el proceso de desarrollo",
+                                "Pruebas unitarias y pruebas de integración para garantizar la calidad y fiabilidad del código"
+                            ],
+                            "tags": []  
+                        },
+                        "fr": {
+                            "title": "Développeur {{Lead Full-Stack}}",
+                            "province": "Hyderabad",
+                            "country": "Inde",
+                            "institution": "CitiusTech",
+                            "text": "Diriger une équipe de développeurs et de contributeurs individuels pour concevoir et mettre en œuvre des solutions Full stack pour le client, en mettant l’accent sur :",
+                            "list": [
+                                "Développement d’applications sur la plateforme cloud AWS", 
+                                "Scalabilité pour gérer des millions d’utilisateurs dans le monde entier",
+                                "Développement d’API RESTful",
+                                "Optimisation des performances de la base de données avec MySQL",
+                                "Création de services avec NodeJS, ExpressJS et architecture de microservices",
+                                "Création d’interfaces utilisateur dynamiques et réactives avec React",
+                                "Conteneurisation des applications à l’aide de Docker",
+                                "Mise en œuvre de pipelines CI/CD pour les tests et le déploiement automatisés",
+                                "Collaboration avec des équipes interfonctionnelles pour fournir des solutions logicielles de haute qualité",
+                                "Mentorat des développeurs juniors et réalisation de revues de code pour garantir les meilleures pratiques",
+                                "Se tenir au courant des dernières tendances et technologies de l’industrie pour améliorer continuellement le processus de développement",
+                                "Tests unitaires et tests d’intégration pour garantir la qualité et la fiabilité du code"
                             ],
                             "tags": []
                         },
                         "ko": {
-                            "title": "{{시니어 백엔드}} 개발자",
-                            "province": "캘리포니아",
-                            "country": "미국",
-                            "institution": "Apple Inc",
-                            "text": "Apple의 서비스를 위한 백엔드 솔루션을 설계하고 구현하는 개발팀을 이끌며 다음에 중점을 두고 있습니다:",
+                            "title": "{{리드 풀스택}} 개발자",
+                            "province": "하이데라바드",
+                            "country": "인도",
+                            "institution": "CitiusTech",    
+                            "text": "개발자 및 개인 기여자로 구성된 팀을 이끌어 클라이언트를 위한 풀스택 솔루션을 설계 및 구현하며, 다음에 중점을 둡니다:",
                             "list": [
-                                "보안",
-                                "전 세계 수백만 사용자를 처리할 수 있는 확장성",
+                                "AWS 클라우드 플랫폼에서의 애플리케이션 개발",
+                                "전 세계 수백만 명의 사용자를 처리할 수 있는 확장성",
                                 "RESTful API 개발",
-                                "PostgreSQL을 사용한 데이터베이스 성능 최적화",
-                                "Swift, PHP, GraphQL로 서비스 구축"
-                            ],
+                                "MySQL을 통한 데이터베이스 성능 최적화",
+                                "NodeJS, ExpressJS 및 마이크로서비스 아키텍처로 서비스 구축",
+                                "React로 동적이고 반응적인 사용자 인터페이스 생성",
+                                "Docker를 사용한 애플리케이션 컨테이너화",
+                                "자동화된 테스트 및 배포를 위한 CI/CD 파이프라인 구현",
+                                "고품질 소프트웨어 솔루션을 제공하기 위해 교차 기능 팀과 협력",
+                                "주니어 개발자 멘토링 및 코드 리뷰를 통해 모범 사례 보장",
+                                "최신 산업 동향 및 기술을 지속적으로 파악하여 개발 프로세스 개선",
+                                "코드 품질 및 신뢰성을 보장하기 위한 단위 테스트 및 통합 테스트"
+                            ],          
                             "tags": []
-                        }
+                        }       
                     }
                 }
             ]

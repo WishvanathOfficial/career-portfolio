@@ -7,6 +7,12 @@
                 "title_long_prefix": "Here are my",
                 "title_long": "Career {{Achievements}}"
             },
+            "hi": {
+                "title_short": "पुरस्कार",
+                "title_short_nav": "उपलब्धियाँ",
+                "title_long_prefix": "यहाँ मेरी",
+                "title_long": "करियर {{उपलब्धियाँ}}"
+            },
             "es": {
                 "title_short": "Logros",
                 "title_short_nav": "Logros",
@@ -34,6 +40,7 @@
             "component": "ArticleCards",
             "locales": {
                 "en": { "title": "Certifications" },
+                "hi": { "title": "प्रमाणपत्र" },
                 "es": { "title": "Certificaciones" },
                 "fr": { "title": "Certifications" },
                 "ko": { "title": "인증서" }
@@ -54,6 +61,10 @@
                         "en": {
                             "title": "The {{Linux Foundation}}",
                             "text": "Certified Kubernetes Administrator (CKA)"
+                        },
+                        "hi": {
+                            "title": "{{Linux Foundation}}",
+                            "text": "सर्टिफाइड क्यूबर्नेट्स एडमिनिस्ट्रेटर (CKA)"
                         },
                         "es": {
                             "text": "Administrador de Kubernetes Certificado (CKA)"
@@ -79,6 +90,10 @@
                             "title": "{{Amazon}} Web Services",
                             "text": "AWS Certified Solutions Architect – Associate"
                         },
+                        "hi": {
+                            "title": "{{Amazon}} Web Services",
+                            "text": "AWS सर्टिफाइड सॉल्यूशंस आर्किटेक्ट – एसोसिएट"
+                        },
                         "es": {
                             "text": "Arquitecto de Soluciones Certificado por AWS - Asociado"
                         },
@@ -102,6 +117,10 @@
                         "en": {
                             "title": "{{Oracle}}",
                             "text": "Certified Java Developer"
+                        },
+                        "hi": {
+                            "title": "{{Oracle}}",
+                            "text": "सर्टिफाइड जावा डेवलपर"
                         },
                         "es": {
                             "text": "Desarrollador Java Certificado"
@@ -127,6 +146,10 @@
                             "title": "{{MongoDB}} University",
                             "text": "MongoDB Certified Developer"
                         },
+                        "hi": {
+                            "title": "{{MongoDB}} यूनिवर्सिटी",
+                            "text": "MongoDB सर्टिफाइड डेवलपर"
+                        },
                         "es": {
                             "text": "Desarrollador Certificado de MongoDB"
                         },
@@ -146,6 +169,7 @@
             "component": "ArticleThread",
             "locales": {
                 "en": { "title": "Awards" },
+                "hi": { "title": "पुरस्कार" },
                 "es": { "title": "Premios" },
                 "fr": { "title": "Récompenses" },
                 "ko": { "title": "수상 내역" }
@@ -174,6 +198,13 @@
                             "country": "US",
                             "institution": "MIT",
                             "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
+                        },
+                        "hi": {
+                            "title": "{{सर्वश्रेष्ठ स्नातक परियोजना}} – बैकएंड अनुकूलन",
+                            "province": "Massachusetts",
+                            "country": "US",
+                            "institution": "MIT",
+                            "text": "मेरी फाइनल ईयर प्रोजेक्ट में बैकएंड सिस्टम्स को अनुकूलित करने के लिए उत्कृष्ट प्रदर्शन के लिए पुरस्कार दिया गया, जहां मैंने डेटा प्रोसेसिंग की दक्षता में 30% सुधार किया। मुझे इस उपलब्धि के लिए एक प्रमाणपत्र भी मिला।"
                         },
                         "es": {
                             "title": "{{Mejor Proyecto de Fin de Carrera}} – Optimización Backend",
