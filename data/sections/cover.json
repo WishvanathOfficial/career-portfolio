@@ -7,6 +7,12 @@
                 "title_long_prefix": "Hello...",
                 "title_long": "I'm {{Wishvanath Sah!}}"
             },
+            "hi": {
+                "title_short": "स्वागत है!",
+                "title_short_nav": "मेरे बारे में",
+                "title_long_prefix": "नमस्ते...",
+                "title_long": "मैं {{विष्णुवनथ साह!}} हूँ"
+            },
             "es": {
                 "title_short": "¡Saludos!",
                 "title_short_nav": "Sobre mí",
@@ -65,6 +71,7 @@
             "component": "ArticleText",
             "locales": {
                 "en": {"title": "{{A brief}} about me..."},
+                "hi": {"title": "{{मेरे बारे में}} एक संक्षिप्त..."},
                 "es": {"title": "{{Un breve}} sobre mí..."},
                 "fr": {"title": "{{Un bref}} à propos de moi..."},
                 "ko": {"title": "저에 {{대해 간략하게}}..."}
@@ -82,6 +89,9 @@
                     "locales": {
                         "en": {
                             "text": "<p>I’m a versatile and experienced {{Full Stack Engineer}} specialized in modern JavaScript frameworks. With a strong focus on building scalable and intuitive [[ web applications ]] from the ground up, I enjoy turning ideas into functional digital experiences.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I primarily work with {{React.js}} and {{Next.js}} for front-end development and {{Node.js}} for backend services, enabling me to handle the complete lifecycle of application development - from planning and design to deployment and optimisation. I look forward to collaborating [[with you!]]</p>"
+                        },
+                        "hi": {
+                            "text": "<p>मैं एक बहुमुखी और अनुभवी {{फुल स्टैक इंजीनियर}} हूँ जो आधुनिक जावास्क्रिप्ट फ्रेमवर्क में विशेषज्ञता रखता है। जमीन से शुरू करके स्केलेबल और सहज [[वेब एप्लिकेशन]] बनाने पर ध्यान केंद्रित करते हुए, मैं विचारों को कार्यात्मक डिजिटल अनुभवों में बदलने का आनंद लेता हूँ।</p><p>यह विविध पृष्ठभूमि मुझे परियोजना की आवश्यकताओं के व्यापक श्रेणी के लिए अनुकूल होने की लचीलापन देती है, चाहे यह स्केलेबल API बनाना हो, सिस्टम प्रदर्शन का अनुकूलन करना हो, या फुल-स्टैक समाधानों में योगदान करना हो।</p><p>मैं मुख्य रूप से फ्रंट-एंड विकास के लिए {{React.js}} और {{Next.js}} का उपयोग करता/करती हूँ और बैकएंड सेवाओं के लिए {{Node.js}} का उपयोग करता/करती हूँ, जो मुझे एप्लिकेशन विकास के पूरे जीवनचक्र को संभालने में सक्षम बनाता/बनाती है - योजना और डिजाइन से लेकर तैनाती और अनुकूलन तक। मैं [[आपके साथ सहयोग]] करने की आशा करता/करती हूँ!</p>"
                         },
                         "es": {
                             "text": "<p>Soy un {{Ingeniero Full Stack}} versátil y experimentado, especializado en frameworks modernos de JavaScript. Con un fuerte enfoque en construir [[aplicaciones web]] escalables e intuitivas desde cero, disfruto convertir ideas en experiencias digitales funcionales.</p><p>Esta experiencia diversa me da la flexibilidad para adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento del sistema o contribuyendo a soluciones full-stack.</p><p>Principalmente trabajo con {{React.js}} y {{Next.js}} para el desarrollo frontend y {{Node.js}} para servicios backend, lo que me permite gestionar todo el ciclo de vida del desarrollo de aplicaciones: desde la planificación y el diseño hasta el despliegue y la optimización. Espero con interés colaborar [[contigo!]]</p>"
@@ -102,6 +112,7 @@
             "component": "ArticleTestimonials",
             "locales": {
                 "en": {"title": "Client {{testimonials}}"},
+                "hi": {"title": "ग्राहक {{प्रशंसापत्र}}"},
                 "es": {"title": "Testimonios de {{clientes}}"},
                 "fr": {"title": "Témoignages de {{clients}}"},
                 "ko": {"title": "{{고객}} 추천사"}
@@ -122,6 +133,10 @@
                         "en": {
                             "title": "CEO at [[SalesForce]]",
                             "text": "Working with Mark was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
+                        },
+                        "hi": {
+                            "title": "CEO at [[SalesForce]]",
+                            "text": "Mark के साथ काम करना वास्तव में एक [[परिवर्तनकारी अनुभव]] था। उनकी उत्कृष्ट प्रोग्रामिंग क्षमताओं और सहयोगी भावना ने न केवल हमारी परियोजना की गुणवत्ता को बढ़ाया बल्कि हमें नए उत्साह और उद्देश्य का अहसास भी दिलाया।"
                         },
                         "es": {
                             "title": "CEO en [[SalesForce]]",
@@ -149,6 +164,10 @@
                             "title": "Lead Developer at [[GitHub]]",
                             "text": "Having Mark on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
                         },
+                        "hi": {
+                            "title": "लीड डेवलपर at [[GitHub]]",
+                            "text": "Mark हमारे टीम के लिए एक अनमोल संपत्ति थे। उनकी [[गहरी प्रोग्रामिंग अंतर्दृष्टि और मेंटरशिप]] ने न केवल हमारे प्रोजेक्ट को बेहतर बनाया बल्कि हमें हर चुनौती को आत्मविश्वास और रचनात्मकता के साथ हल करने के लिए सशक्त बनाया।"
+                        },
                         "es": {
                             "title": "Desarrollador Principal en [[GitHub]]",
                             "text": "Tener a Mark fue un recurso invaluable. Sus [[profundos conocimientos y mentoría]] mejoraron nuestros proyectos y nos dieron confianza para afrontar cualquier desafío con creatividad."
@@ -175,6 +194,10 @@
                             "title": "Managing Director at [[Dingga]]",
                             "text": "Collaborating with Mark was a true [[game changer]] for our entire development process. His [[deep technical expertise]], creative problem-solving, and proactive mindset were absolutely invaluable."
                         },
+                        "hi": {
+                            "title": "मैनेजिंग डायरेक्टर at [[Dingga]]",
+                            "text": "Mark के साथ सहयोग हमारे समग्र विकास प्रक्रिया के लिए एक वास्तविक [[गेम चेंजर]] था। उनकी [[गहरी तकनीकी विशेषज्ञता]], रचनात्मक समस्या-समाधान, और सक्रिय मानसिकता बेहद अनमोल थी।"
+                        },
                         "es": {
                             "title": "Directora General en [[Dingga]]",
                             "text": "Colaborar con Mark fue un verdadero [[punto de inflexión]]. Su [[gran experiencia técnica]], creatividad y mentalidad proactiva fueron absolutamente invaluables para nuestro equipo."
@@ -200,6 +223,10 @@
                         "en": {
                             "title": "Creative Director at [[Dribbble]]",
                             "text": "Mark Choi's [[attention to detail]] and his [[innovative thinking]] brought a fresh perspective to our whole design process! Simply amazing!"
+                        },
+                        "hi": {
+                            "title": "क्रिएटिव डायरेक्टर at [[Dribbble]]",
+                            "text": "Mark Choi का [[विवरणों पर ध्यान]] और उनका [[नवोन्मेषी सोच]] हमारे पूरे डिज़ाइन प्रोसेस में एक ताज़ा दृष्टिकोण लाया! बस आश्चर्यजनक!"
                         },
                         "es": {
                             "title": "Director Creativo en [[Dribbble]]",
@@ -243,6 +270,10 @@
                             "title": "{{Video Tutor}} Software Development ",
                             "text": " A Tutor having experience in Software Development and Learning to use AI tools to enhance real world projects."
                         },
+                        "hi": {
+                            "title": "{{वीडियो ट्यूटर}} सॉफ्टवेयर विकास",
+                            "text": "एक ट्यूटर जो सॉफ्टवेयर विकास में अनुभव रखता है और वास्तविक दुनिया की परियोजनाओं को बेहतर बनाने के लिए एआई उपकरणों का उपयोग करना सीख रहा है।"
+                        },
                         "es": {
                             "title": "{{Tutor de Video}} Desarrollo de Software",
                             "text": "Un tutor con experiencia en desarrollo de software y aprendiendo a usar herramientas de IA para mejorar proyectos del mundo real."
@@ -267,6 +298,10 @@
                         "en": {
                             "title": "{{Freelancing }} as Software Developers",
                             "text": "Freelancing as Software Developers, working on various projects and enhancing skills."
+                        },
+                        "hi": {
+                            "title": "सॉफ्टवेयर डेवलपर्स के रूप में {{फ्रीलांसिंग}}",
+                            "text": "सॉफ्टवेयर डेवलपर्स के रूप में फ्रीलांसिंग, विभिन्न परियोजनाओं पर काम करना और कौशल बढ़ाना।"
                         },
                         "es": {
                             "title": "{{Freelancing}} como Desarrolladores de Software",
@@ -293,6 +328,10 @@
                             "title": "{{Investing}} & Finance",
                             "text": "Learning the basics of stocks and personal finance."
                         },
+                        "hi":{
+                            "title": "{{निवेश}} और वित्त",
+                            "text": "स्टॉक्स और व्यक्तिगत वित्त के मूल बातें सीखना।"
+                        },
                         "es": {
                             "title": "{{Inversión}} y Finanzas",
                             "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
@@ -317,6 +356,10 @@
                         "en": {
                             "title": "{{UX}} design",
                             "text": "Studying user experience principles."
+                        },
+                        "hi": {
+                            "title": "{{यूएक्स}} डिजाइन",
+                            "text": "उपयोगकर्ता अनुभव सिद्धांतों का अध्ययन।"
                         },
                         "es": {
                             "title": "Diseño {{UX}}",
@@ -344,6 +387,10 @@
                             "title": "{{Photography}} & Editing",
                             "text": "Enhancing photos through creative editing techniques."
                         },
+                        "hi": {
+                            "title": "{{फोटोग्राफी}} और संपादन",
+                            "text": "रचनात्मक संपादन तकनीकों के माध्यम से फ़ोटो को बेहतर बनाना।"
+                        },
                         "es": {
                             "title": "{{Fotografía}} y Edición",
                             "text": "Mejorando fotos a través de técnicas creativas de edición."
@@ -368,6 +415,10 @@
                         "en": {
                             "title": "Technical {{content}} creator",
                             "text": "Creating engaging content on software development and technology topics."
+                        },
+                        "hi": {
+                            "title": "तकनीकी {{सामग्री}} निर्माता",
+                            "text": "सॉफ्टवेयर विकास और प्रौद्योगिकी विषयों पर आकर्षक सामग्री बनाना।"
                         },
                         "es": {
                             "title": "Creador de {{contenido}} técnico",

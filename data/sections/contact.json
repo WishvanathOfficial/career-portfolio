@@ -7,6 +7,12 @@
                 "title_long_prefix": "Don't hesitate to",
                 "title_long": "{{Contact}} Me"
             },
+            "hi": {
+                "title_short": "संपर्क",
+                "title_short_nav": "संपर्क",
+                "title_long_prefix": "मुझसे संपर्क करने में संकोच न करें",
+                "title_long": "{{संपर्क}} करें"
+            },
             "es": {
                 "title_short": "Contacto",
                 "title_short_nav": "Contacto",
@@ -44,6 +50,12 @@
                     "contact_thank_you_footer": "The reply will be sent to your email address: {{$email}}",
                     "title": "Send me a {{message}}"
                 },
+                "hi": {
+                    "contact_thank_you_title": "{{धन्यवाद}} संपर्क करने के लिए!",
+                    "contact_thank_you_body": "आपका संदेश प्राप्त कर लिया गया है, और मैं जल्द ही आपसे संपर्क करूंगा। आपके समय के लिए धन्यवाद!",
+                    "contact_thank_you_footer": "उत्तर आपके ईमेल पते पर भेजा जाएगा: {{$email}}",
+                    "title": "मुझे एक {{संदेश}} भेजें"
+                },
                 "es": {
                     "contact_thank_you_title": "{{Gracias}} por el contacto!",
                     "contact_thank_you_body": "Tu mensaje ha sido recibido, y me pondré en contacto contigo pronto. Aprecio tu tiempo y espero conectarme contigo.",
@@ -75,9 +87,10 @@
             },
             "locales": {
                 "en": {"title": "Or if you {{prefer}}..."},
-                "es": {"title": "O si {{prefieres}}..."},
-                "fr": {"title": "Ou si vous {{préférez}}..."},
-                "ko": {"title": "또는 {{원하시면}}..."}
+                    "es": {"title": "O si {{prefieres}}..."},
+                    "fr": {"title": "Ou si vous {{préférez}}..."},
+                    "ko": {"title": "또는 {{원하시면}}..."},
+                    "hi": {"title": "या यदि आप {{पसंद}} करते हैं..."}
             },
             "items": [
                 {
@@ -90,7 +103,8 @@
                         "en": {"title": "Phone"},
                         "es": {"title": "Teléfono"},
                         "fr": {"title": "Téléphone"},
-                        "ko": {"title": "전화"}
+                        "ko": {"title": "전화"},
+                        "hi": {"title": "फ़ोन"}
                     }
                 },
                 {
@@ -101,7 +115,8 @@
                     "link": {"href": "mailto:mark.choi@email.com", "tooltipString": "email_me"},
                     "locales": {
                         "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "ko": {"title": "이메일"},
+                        "hi": {"title": "ई-मेल"}
                     }
                 },
                 {
@@ -112,7 +127,8 @@
                     "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"},
-                        "ko": {"title": "링크드인"}
+                        "ko": {"title": "링크드인"},
+                        "hi": {"title": "LinkedIn"}
                     }
                 },
                 {
@@ -123,7 +139,8 @@
                     "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Facebook"},
-                        "ko": {"title": "페이스북"}
+                        "ko": {"title": "페이스북"},
+                        "hi": {"title": "Facebook"}
                     }
                 },
                 {
@@ -134,7 +151,8 @@
                     "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Instagram"},
-                        "ko": {"title": "인스타그램"}
+                        "ko": {"title": "인스타그램"},
+                        "hi": {"title": "Instagram"}
                     }
                 },
                 {
@@ -145,7 +163,8 @@
                     "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
                     "locales": {
                         "en": { "title": "TikTok" },
-                        "ko": { "title": "틱톡" }
+                        "ko": { "title": "틱톡" },
+                        "hi": { "title": "TikTok" }
                     }
                 }
             ]
