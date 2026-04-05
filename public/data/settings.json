@@ -33,21 +33,6 @@
             "flagUrl": "images/flags/en-us.png"
         },
         {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
-        },
-        {
-            "name": "Français",
-            "id": "fr",
-            "flagUrl": "images/flags/fr.png"
-        },
-        {
-            "name": "한국어",
-            "id": "ko",
-            "flagUrl": "images/flags/ko.png"
-        },
-        {
             "name": "हिन्दी",
             "id": "hi",
             "flagUrl": "images/flags/hi.png"
@@ -61,9 +46,6 @@
             "dark": true,
             "locales": {
                 "en": {"name": "Dark Mode"},
-                "es": {"name": "Modo Oscuro"},
-                "fr": {"name": "Mode Sombre"},
-                "ko": {"name": "다크 모드"},
                 "hi": {"name": "डार्क मोड"}
             }
         },
@@ -73,9 +55,6 @@
             "dark": false,
             "locales": {
                 "en": {"name": "Light Mode"},
-                "es": {"name": "Modo Claro"},
-                "fr": {"name": "Mode Clair"},
-                "ko": {"name": "라이트 모드"},
                 "hi": {"name": "लाइट मोड"}
             }
         }

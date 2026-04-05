@@ -12,25 +12,8 @@
                 "title_short_nav": "अनुभव",
                 "title_long_prefix": "मेरी",
                 "title_long": "{{कार्य}} अनुभव"
-            },
-            "es": {
-                "title_short": "Experiencia",
-                "title_short_nav": "Experiencia",
-                "title_long_prefix": "Resumen de mi",
-                "title_long": "Experiencia {{Laboral}}"
-            },
-            "fr": {
-                "title_short": "Expérience",
-                "title_short_nav": "Expérience",
-                "title_long_prefix": "Résumé de mon",
-                "title_long": "Parcours {{Professionel}}"
-            },
-            "ko": {
-                "title_short": "경험",
-                "title_short_nav": "경험",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{직업적}} 경험"
             }
+            
         }
     },
 
@@ -69,34 +52,8 @@
                             "text": "संगठन के लिए [[स्केलेबल बैकएंड सिस्टम]] का विकास और रखरखाव किया, डेटाबेस प्रदर्शन को अनुकूलित किया और एप्लिकेशन कार्यक्षमता में सुधार के लिए RESTful API लागू किए।",
                             "list": [],
                             "tags": []
-                        },
-                        "es": {
-                            "title": "Ingeniero {{Full-Stack}}",
-                            "province": "Hyderabad",
-                            "country": "India",
-                            "institution": "SkyMap Global",
-                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para la organización, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "fr": {
-                            "title": "Ingénieur {{Full-Stack}}",
-                            "province": "Hyderabad",
-                            "country": "Inde",
-                            "institution": "SkyMap Global",
-                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour l’organisation, optimisation des performances de la base de données et mise en œuvre d’API RESTful pour améliorer les fonctionnalités de l’application.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{풀스택}} 엔지니어",
-                            "province": "하이데라바드",
-                            "country": "인도",
-                            "institution": "SkyMap Global",
-                            "text": "조직을 위한 [[확장 가능한 백엔드 시스템]]을 개발 및 유지 관리하고, 데이터베이스 성능을 최적화하며, RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
-                            "list": [],
-                            "tags": []
                         }
+                        
                     }
                 },
                 {
@@ -124,34 +81,8 @@
                             "text": "संगठन और क्लाइंट के लिए [[स्केलेबल बैकएंड सिस्टम]] का विकास और रखरखाव किया, डेटाबेस प्रदर्शन को अनुकूलित किया और एप्लिकेशन कार्यक्षमता में सुधार के लिए RESTful API लागू किए।",
                             "list": [],
                             "tags": []
-                        },
-                        "es":{
-                            "title": "Ingeniero {{Senior Full-Stack}}",
-                            "province": "Hyderabad",
-                            "country": "India",
-                            "institution": "AxiomIO",
-                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para la organización y el cliente, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "fr": {
-                            "title": "Ingénieur {{Senior Full-Stack}}",
-                            "province": "Hyderabad",
-                            "country": "Inde",
-                            "institution": "AxiomIO",       
-                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour l’organisation et le client, optimisation des performances de la base de données et mise en œuvre d’API RESTful pour améliorer les fonctionnalités de l’application.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{시니어 풀스택}} 엔지니어",
-                            "province": "하이데라바드",
-                            "country": "인도",      
-                            "institution": "AxiomIO",
-                            "text": "조직과 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발 및 유지 관리하고, 데이터베이스 성능을 최적화하며, RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
-                            "list": [],
-                            "tags": []
                         }
+                        
                     }
                 },
                 {
@@ -205,73 +136,8 @@
                                 "कोड गुणवत्ता और विश्वसनीयता सुनिश्चित करने के लिए यूनिट परीक्षण और एकीकरण परीक्षण"
                             ],
                             "tags": []
-                        },
-                        "es": {
-                            "title": "Desarrollador {{Lead Full-Stack}}",
-                            "province": "Hyderabad",
-                            "country": "India",
-                            "institution": "CitiusTech",
-                            "text": "Liderando un equipo de desarrolladores y colaboradores individuales para diseñar e implementar soluciones Full stack para el cliente, con un enfoque en:",
-                            "list": [
-                                "Desarrollo de aplicaciones en la plataforma cloud de AWS",
-                                "Escalabilidad para manejar millones de usuarios a nivel mundial",
-                                "Desarrollo de APIs RESTful",   
-                                "Optimización del rendimiento de la base de datos con MySQL",
-                                "Construcción de servicios con NodeJS, ExpressJS y arquitectura de microservicios",
-                                "Creación de interfaces de usuario dinámicas y receptivas con React",
-                                "Contenerización de aplicaciones usando Docker",
-                                "Implementación de pipelines CI/CD para pruebas y despliegue automatizados",
-                                "Colaboración con equipos multifuncionales para ofrecer soluciones de software de alta calidad",
-                                "Mentoría a desarrolladores junior y realización de revisiones de código para garantizar las mejores prácticas",
-                                "Mantenerse actualizado con las últimas tendencias y tecnologías de la industria para mejorar continuamente el proceso de desarrollo",
-                                "Pruebas unitarias y pruebas de integración para garantizar la calidad y fiabilidad del código"
-                            ],
-                            "tags": []  
-                        },
-                        "fr": {
-                            "title": "Développeur {{Lead Full-Stack}}",
-                            "province": "Hyderabad",
-                            "country": "Inde",
-                            "institution": "CitiusTech",
-                            "text": "Diriger une équipe de développeurs et de contributeurs individuels pour concevoir et mettre en œuvre des solutions Full stack pour le client, en mettant l’accent sur :",
-                            "list": [
-                                "Développement d’applications sur la plateforme cloud AWS", 
-                                "Scalabilité pour gérer des millions d’utilisateurs dans le monde entier",
-                                "Développement d’API RESTful",
-                                "Optimisation des performances de la base de données avec MySQL",
-                                "Création de services avec NodeJS, ExpressJS et architecture de microservices",
-                                "Création d’interfaces utilisateur dynamiques et réactives avec React",
-                                "Conteneurisation des applications à l’aide de Docker",
-                                "Mise en œuvre de pipelines CI/CD pour les tests et le déploiement automatisés",
-                                "Collaboration avec des équipes interfonctionnelles pour fournir des solutions logicielles de haute qualité",
-                                "Mentorat des développeurs juniors et réalisation de revues de code pour garantir les meilleures pratiques",
-                                "Se tenir au courant des dernières tendances et technologies de l’industrie pour améliorer continuellement le processus de développement",
-                                "Tests unitaires et tests d’intégration pour garantir la qualité et la fiabilité du code"
-                            ],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{리드 풀스택}} 개발자",
-                            "province": "하이데라바드",
-                            "country": "인도",
-                            "institution": "CitiusTech",    
-                            "text": "개발자 및 개인 기여자로 구성된 팀을 이끌어 클라이언트를 위한 풀스택 솔루션을 설계 및 구현하며, 다음에 중점을 둡니다:",
-                            "list": [
-                                "AWS 클라우드 플랫폼에서의 애플리케이션 개발",
-                                "전 세계 수백만 명의 사용자를 처리할 수 있는 확장성",
-                                "RESTful API 개발",
-                                "MySQL을 통한 데이터베이스 성능 최적화",
-                                "NodeJS, ExpressJS 및 마이크로서비스 아키텍처로 서비스 구축",
-                                "React로 동적이고 반응적인 사용자 인터페이스 생성",
-                                "Docker를 사용한 애플리케이션 컨테이너화",
-                                "자동화된 테스트 및 배포를 위한 CI/CD 파이프라인 구현",
-                                "고품질 소프트웨어 솔루션을 제공하기 위해 교차 기능 팀과 협력",
-                                "주니어 개발자 멘토링 및 코드 리뷰를 통해 모범 사례 보장",
-                                "최신 산업 동향 및 기술을 지속적으로 파악하여 개발 프로세스 개선",
-                                "코드 품질 및 신뢰성을 보장하기 위한 단위 테스트 및 통합 테스트"
-                            ],          
-                            "tags": []
-                        }       
+                        }
+                            
                     }
                 }
             ]

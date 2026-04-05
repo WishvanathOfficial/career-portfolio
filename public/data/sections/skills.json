@@ -12,25 +12,8 @@
                 "title_short_nav": "कौशल",
                 "title_long_prefix": "यह मेरा",
                 "title_long": "{{कौशल}} सेट है"
-            },
-            "es": {
-                "title_short": "Habilidades",
-                "title_short_nav": "Habilidades",
-                "title_long_prefix": "Explora",
-                "title_long": "Mis {{Habilidades}}"
-            },
-            "fr": {
-                "title_short": "Capacités",
-                "title_short_nav": "Capacités",
-                "title_long_prefix": "Explorez",
-                "title_long": "Mes {{Compétences}}"
-            },
-            "ko": {
-                "title_short": "스킬",
-                "title_short_nav": "스킬",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{스킬}}입니다"
             }
+            
         }
     },
     "articles": [
@@ -67,19 +50,8 @@
                         "hi": {
                             "title": "वेबसाइट {{डिजाइन}}",
                             "text": "रचनात्मक अवधारणाओं को आश्चर्यजनक, उपयोगकर्ता के अनुकूल वेबसाइटों में बदलना जो वास्तविक परिणाम प्रदान करती हैं।"
-                        },
-                        "es": {
-                            "title": "{{Diseño}} de websites",
-                            "text": "¡Puedo hacer realidad tus mejores ideas y hacerlas reales! Transformando conceptos creativos en sitios web impresionantes y fáciles de usar que ofrecen resultados reales."
-                        },
-                        "fr": {
-                            "title": "{{Conception}} de websites",
-                            "text": "Je peux donner vie à vos meilleures idées et les rendre réelles ! Transformer des concepts créatifs en sites web époustouflants, conviviaux et qui produisent de vrais résultats."
-                        },
-                        "ko": {
-                            "title": "{{웹사이트}} 디자인",
-                            "text": "당신의 최고의 아이디어를 실현하고 현실로 만들 수 있습니다! 창의적인 컨셉을 멋지고 사용하기 쉬운 웹사이트로 바꿔 실제 결과를 제공합니다."
                         }
+                        
                     }
                 },
                 {
@@ -106,19 +78,8 @@
                         "hi": {
                             "title": "{{डेटाबेस}} प्रबंधन",
                             "text": "डेटा की अखंडता, सुरक्षा और उच्च प्रदर्शन सुनिश्चित करने के लिए मजबूत डेटाबेस को डिजाइन, अनुकूलित और बनाए रखने में विशेषज्ञ। मिशन-क्रिटिकल अनुप्रयोगों के लिए बैकअप रणनीतियों, आपदा पुनर्प्राप्ति, और स्केलिंग समाधानों में कुशल।"
-                        },
-                        "es": {
-                            "title": "Gestión de {{bases de datos}}",
-                            "text": "¡Puedo manejar sus datos de manera efectiva y eficiente! Experto en diseñar, optimizar y mantener bases de datos robustas para garantizar la integridad, seguridad y alto rendimiento de los datos. Con experiencia en estrategias de respaldo, recuperación ante desastres y soluciones de escalabilidad para aplicaciones críticas."
-                        },
-                        "fr": {
-                            "title": "Gestion de {{bases de données}}",
-                            "text": "Je peux gérer vos données de manière efficace et efficiente ! Expert dans la conception, l’optimisation et la maintenance de bases de données robustes pour garantir l’intégrité, la sécurité et la haute performance des données. Compétent en stratégies de sauvegarde, reprise après sinistre et solutions de montée en charge pour des applications critiques."
-                        },
-                        "ko": {
-                            "title": "{{데이터베이스}} 관리",
-                            "text": "데이터를 효과적이고 효율적으로 처리할 수 있습니다. 데이터 무결성, 보안 및 고성능을 보장하기 위해 견고한 데이터베이스를 설계, 최적화 및 유지 관리하는 전문가입니다. 백업 전략, 재해 복구 및 미션 크리티컬 애플리케이션을 위한 확장 솔루션에 능숙합니다!"
                         }
+                        
                     }
                 },
                 {
@@ -145,19 +106,8 @@
                         "hi": {
                             "title": "{{फुल स्टैक}} विकास",
                             "text": "मेरे पास फ्रंटेंड से बैकएंड तक पूर्ण अनुप्रयोग बनाने का अनुभव है, जिसमें डेटाबेस, एपीआई और उपयोगकर्ता इंटरफेस को एकीकृत किया गया है।"
-                        },
-                        "es": {
-                            "title": "Desarrollo {{Full Stack}}",
-                            "text": "Tengo experiencia construyendo aplicaciones completas desde el frontend hasta el backend, integrando bases de datos, APIs e interfaces de usuario."
-                        },
-                        "fr": {
-                            "title": "Développement {{Full Stack}}",
-                            "text": "J'ai de l'expérience dans la création d'applications complètes du frontend au backend, en intégrant des bases de données, des API et des interfaces utilisateur."
-                        },
-                        "ko": {
-                            "title": "{{Full Stack}} 개발",
-                            "text": "프론트엔드부터 백엔드까지 전체 애플리케이션을 구축하고, 데이터베이스, API, 사용자 인터페이스를 통합한 경험이 있습니다."
                         }
+                        
                     }
                 },
                 {
@@ -184,19 +134,8 @@
                         "hi": {
                             "title": "APIs {{REST}}",
                             "text": "मैं API सेवाएँ बना सकता हूँ! मजबूत RESTful APIs को डिज़ाइन और लागू करने में विशेषज्ञता, जो सिस्टमों के बीच निर्बाध एकीकरण, सुरक्षित डेटा विनिमय सुनिश्चित करती हैं और स्केलेबल अनुप्रयोगों को शक्ति प्रदान करती हैं।"
-                        },
-                        "es": {
-                            "title": "APIs {{REST}}",
-                            "text": "¡Puedo construir servicios API! Experto en diseñar e implementar APIs RESTful robustas que permiten una integración fluida entre sistemas, aseguran el intercambio seguro de datos y potencian aplicaciones escalables."
-                        },
-                        "fr": {
-                            "title": "APIs {{REST}}",
-                            "text": "Je peux créer des services API ! Compétent dans la conception et la mise en œuvre d'API RESTful robustes permettant une intégration transparente entre les systèmes, assurant un échange de données sécurisé et alimentant des applications évolutives."
-                        },
-                        "ko": {
-                            "title": "{{REST}} API",
-                            "text": "API 서비스를 구축할 수 있습니다! 견고한 RESTful API를 설계하고 구현하는 데 능숙하며, 시스템 간 원활한 통합, 안전한 데이터 교환, 확장 가능한 애플리케이션을 지원합니다."
                         }
+                        
                     }
                 },
                 {
@@ -223,19 +162,8 @@
                         "hi": {
                             "title": "प्रदर्शन {{अनुकूलन}}",
                             "text": "मैं अधिकतम गति, दक्षता और स्केलेबिलिटी के लिए सिस्टम को अनुकूलित करने में विशेषज्ञ हूँ।"
-                        },
-                        "es": {
-                            "title": "Performance {{Optimización}}",
-                            "text": "Me especializo en optimizar sistemas para máxima velocidad, eficiencia y escalabilidad."
-                        },
-                        "fr": {
-                            "title": "Performance {{Optimisation}}",
-                            "text": "Je me spécialise dans l'optimisation des systèmes pour une vitesse, une efficacité et une évolutivité maximales."
-                        },
-                        "ko": {
-                            "title": "성능 {{최적화}}",
-                            "text": "최고의 속도, 효율성, 확장성을 위해 시스템 최적화에 전문성을 가지고 있습니다."
                         }
+                        
                     }
                 }
             ]
@@ -249,16 +177,8 @@
                 },
                 "hi": {
                     "title": "बैकएंड स्टैक"
-                },
-                "es": {
-                    "title": "Stack de Backend"
-                },
-                "fr": {
-                    "title": "Stack Backend"
-                },
-                "zh": {
-                    "title": "后端技术栈"
                 }
+                
             },
             "settings": {
                 "max_items_per_row": 3,
@@ -291,22 +211,8 @@
                             "title": "Node.js",
                             "text": "इस तकनीक का उपयोग करके प्रतिदिन अनुप्रयोग बनाने पर काम किया, आधुनिक वेब विकास की स्पष्ट कौशल और समझ दिखाते हुए। Node.js फाउंडेशन द्वारा प्रमाणित डेवलपर।",
                             "level": ""
-                        },
-                        "es": {
-                            "title": "Node.js",
-                            "text": "Trabajé diariamente en el desarrollo de aplicaciones usando esta tecnología, demostrando habilidades claras y comprensión del desarrollo web moderno. Desarrollador certificado por la Fundación Node.js.",
-                            "level": ""
-                        },
-                        "fr": {
-                            "title": "Node.js",
-                            "text": "Travaillé quotidiennement à la construction d'applications en utilisant cette technologie, démontrant de solides compétences et une compréhension du développement web moderne. Développeur certifié par la Node.js Foundation.",
-                            "level": ""
-                        },
-                        "ko": {
-                            "title": "Node.js",
-                            "text": "이 기술을 사용하여 매일 애플리케이션을 구축하며 명확한 기술력과 현대 웹 개발에 대한 이해를 보여주었습니다. Node.js 재단 인증 개발자.",
-                            "level": ""
                         }
+                        
                     }
                 },
                 {
@@ -331,16 +237,8 @@
                         "hi": {
                             "title": "MySQL",
                             "text": "मैं प्रदर्शन और विश्वसनीयता के लिए MySQL डेटाबेस का प्रबंधन और अनुकूलन कर सकता हूँ।"
-                        },
-                        "es": {
-                            "text": "Puedo gestionar y optimizar bases de datos MySQL para rendimiento y fiabilidad."
-                        },
-                        "fr": {
-                            "text": "Je peux gérer et optimiser les bases de données MySQL pour la performance et la fiabilité."
-                        },
-                        "ko": {
-                            "text": "성능과 안정성을 위해 MySQL 데이터베이스를 관리하고 최적화할 수 있습니다."
                         }
+                        
                     }
                 },
                 {
@@ -365,22 +263,8 @@
                         "hi": {
                             "title": "एडब्ल्यूएस",
                             "text": "स्केलेबल कंटेनर ऑर्केस्ट्रेशन के लिए ECS और EKS सहित AWS कंटेनर सेवाओं का कार्यकारी ज्ञान।"
-                        },
-                        "es": {
-                            "title": "AWS",
-                            "text": "Conocimientos prácticos de los servicios de contenedores de AWS, incluidos ECS y EKS, para la orquestación de contenedores escalables.",
-                            "level": ""
-                        },
-                        "fr": {
-                            "title": "AWS",
-                            "text": "Connaissance pratique des services de conteneurs AWS, y compris ECS et EKS, pour l'orchestration de conteneurs évolutifs.",
-                            "level": ""
-                        },
-                        "ko": {
-                            "title": "에이더블유에스",
-                            "text": "AWS 컨테이너 서비스(ECS 및 EKS 포함)를 활용하여 확장 가능한 컨테이너 오케스트레이션을 구현하는 실무 지식을 보유하고 있습니다.",
-                            "level": ""
                         }
+                        
                     }
                 },
                 {
@@ -406,22 +290,8 @@
                         "hi": {
                             "title": "Express.js",
                             "text": "Express.js का उपयोग करके मजबूत और स्केलेबल वेब अनुप्रयोग बनाने में कुशल।"
-                        },
-                        "es": {
-                            "title": "Express.js",
-                            "text": "Hábil en la construcción de aplicaciones web robustas y escalables utilizando Express.js.",
-                            "level": ""
-                        },
-                        "fr": {
-                            "title": "Express.js",
-                            "text": "Compétent dans la création d'applications web robustes et évolutives avec Express.js.",
-                            "level": ""
-                        },
-                        "ko": {
-                            "title": "Express.js",
-                            "text": "Express.js를 사용하여 강력하고 확장 가능한 웹 애플리케이션을 구축하는 데 능숙합니다.",
-                            "level": ""
                         }
+                        
                     }
                 },
                 {
@@ -446,16 +316,8 @@
                         "hi": {
                             "title": "Python",
                             "text": "Python के साथ डेटा विश्लेषण और मशीन लर्निंग।"
-                        },
-                        "es": {
-                            "text": "Análisis de datos y aprendizaje automático con Python."
-                        },
-                        "fr": {
-                            "text": "Analyse de données et apprentissage automatique avec Python."
-                        },
-                        "ko": {
-                            "text": "Python을 사용한 데이터 분석 및 기계 학습."
                         }
+                        
                     }
                 },
                 {
@@ -480,22 +342,8 @@
                         "hi": {
                             "title": "Jenkins & Octopus Deploy",
                             "text": "निरंतर एकीकरण और वितरण के लिए Jenkins का पूर्ण भक्त।"
-                        },
-                        "es": {
-                            "title": "Jenkins & Octopus Deploy",
-                            "text": "Devoto total de Jenkins para la integración y entrega continua.",
-                            "level": ""
-                        },
-                        "fr": {
-                            "title": "Jenkins & Octopus Deploy",
-                            "text": "Passionné par Jenkins pour l'intégration continue et la livraison continue.",
-                            "level": ""
-                        },
-                        "ko": {
-                            "title": "젠킨스 & 옥토퍼스 배포",
-                            "text": "젠킨스는 지속적인 통합 및 배포를 위한 도구로, 소프트웨어 개발 프로세스의 자동화와 효율화를 지원합니다.",
-                            "level": "중급"
                         }
+                        
                     }
                 },
                 {
@@ -520,22 +368,8 @@
                         "hi": {
                             "title": "PostgreSQL",
                             "text": "रिलेशनल डेटाबेस प्रबंधन प्रणाली।"
-                        },
-                        "es": {
-                            "title": "PostgreSQL",
-                            "text": "Sistema de gestión de bases de datos relacional.",
-                            "level": ""
-                        },
-                        "fr": {
-                            "title": "PostgreSQL",
-                            "text": "Système de gestion de base de données relationnelle.",
-                            "level": ""
-                        },
-                        "ko": {
-                            "title": "PostgreSQL",
-                            "text": "관계형 데이터베이스 관리 시스템.",
-                            "level": ""
                         }
+                        
                     }
                 },
                 {
@@ -560,22 +394,8 @@
                         "hi": {
                             "title": "Git",
                             "text": "वर्शन नियंत्रण और सहयोग के लिए Git की पूरी समझ।"
-                        },
-                        "es": {
-                            "title": "Git",
-                            "text": "Comprensión completa de Git para control de versiones y colaboración.",
-                            "level": ""
-                        },
-                        "fr": {
-                            "title": "Git",
-                            "text": "Compréhension complète de Git pour le contrôle de version et la collaboration.",
-                            "level": ""
-                        },
-                        "ko": {
-                            "title": "Git",
-                            "text": "버전 관리 및 협업을 위한 Git에 대한 완전한 이해.",
-                            "level": ""
                         }
+                        
                     }
                 }
             ]
@@ -589,16 +409,8 @@
                 },
                 "hi": {
                     "title": "फ्रंटएंड स्टैक"
-                },
-                "es": {
-                    "title": "Stack de Frontend"
-                },
-                "fr": {
-                    "title": "Stack Frontend"
-                },
-                "zh": {
-                    "title": "前端技术栈"
                 }
+                
             },
             "settings": {
                 "max_items_per_row": 3,
@@ -630,16 +442,8 @@
                         "hi": {
                             "title": "HTML 5",
                             "text": "संरचित वेब पेज बनाने के लिए मैं HTML5 में प्रवीण हूँ।"
-                        },
-                        "es": {
-                            "text": "Soy competente en HTML5 para construir páginas web estructuradas."
-                        },
-                        "fr": {
-                            "text": "Je suis compétent en HTML5 pour créer des pages web structurées."
-                        },
-                        "ko": {
-                            "text": "구조화된 웹 페이지를 구축하기 위해 HTML5에 능숙합니다."
                         }
+                        
                     }
                 },
                 {
@@ -664,16 +468,8 @@
                         "hi": {
                             "title": "CSS 3 & SCSS",
                             "text": "मैं CSS3 और SCSS का उपयोग करके उत्तरदायी और दृश्य रूप से आकर्षक डिज़ाइन बना सकता हूँ।"
-                        },
-                        "es": {
-                            "text": "Puedo crear diseños receptivos y visualmente atractivos utilizando CSS3 y SCSS."
-                        },
-                        "fr": {
-                            "text": "Je peux créer des designs réactifs et visuellement attrayants en utilisant CSS3 et SCSS."
-                        },
-                        "ko": {
-                            "text": "CSS3와 SCSS를 사용하여 반응형이고 시각적으로 매력적인 디자인을 만들 수 있습니다."
                         }
+                        
                     }
                 },
                 {
@@ -699,16 +495,8 @@
                         "hi": {
                             "title": "JavaScript ES6+",
                             "text": "डायनामिक और इंटरैक्टिव वेब एप्लिकेशन के लिए JavaScript ES6+ में महारत हासिल।"
-                        },
-                        "es": {
-                            "text": "Dominio de JavaScript ES6+ para aplicaciones web dinámicas e interactivas."
-                        },
-                        "fr": {
-                            "text": "Maîtrisé JavaScript ES6+ pour des applications web dynamiques et interactives."
-                        },
-                        "ko": {
-                            "text": "동적이고 대화형 웹 애플리케이션을 위한 JavaScript ES6+를 마스터했습니다."
                         }
+                        
                     }
                 },
                 {
@@ -734,16 +522,8 @@
                         "hi": {
                             "title": "React",
                             "text": "आधुनिक वेब अनुप्रयोगों के निर्माण के लिए React की पूरी समझ।"
-                        },
-                        "es": {
-                            "text": "Comprensión completa de React para construir aplicaciones web modernas."
-                        },
-                        "fr": {
-                            "text": "Compréhension complète de React pour créer des applications web modernes."
-                        },
-                        "ko": {
-                            "text": "최신 웹 애플리케이션 구축을 위한 React에 대한 완전한 이해."
                         }
+                        
                     }
                 },
                 {
@@ -769,16 +549,8 @@
                         "hi": {
                             "title": "Redux",
                             "text": "आधुनिक वेब अनुप्रयोगों के निर्माण के लिए Redux की पूरी समझ।"
-                        },
-                        "es": {
-                            "text": "Comprensión completa de Redux para construir aplicaciones web modernas."
-                        },
-                        "fr": {
-                            "text": "Compréhension complète de Redux pour créer des applications web modernes."
-                        },
-                        "ko": {
-                            "text": "최신 웹 애플리케이션 구축을 위한 Redux에 대한 완전한 이해."
                         }
+                        
                     }
                 },
                 {
@@ -804,16 +576,8 @@
                         "hi": {
                             "title": "Next.js",
                             "text": "आधुनिक वेब अनुप्रयोगों के निर्माण के लिए Next.js की पूरी समझ।"
-                        },
-                        "es": {
-                            "text": "Comprensión completa de Next.js para construir aplicaciones web modernas."
-                        },
-                        "fr": {
-                            "text": "Compréhension complète de Next.js pour créer des applications web modernes."
-                        },
-                        "ko": {
-                            "text": "최신 웹 애플리케이션 구축을 위한 Next.js에 대한 완전한 이해."
                         }
+                        
                     }
                 },
                 {
@@ -839,16 +603,8 @@
                         "hi": {
                             "title": "Vue.js",
                             "text": "इंटरैक्टिव यूजर इंटरफेस बनाने के लिए Vue.js की अच्छी समझ।"
-                        },
-                        "es": {
-                            "text": "Buena comprensión de Vue.js para construir interfaces de usuario interactivas."
-                        },
-                        "fr": {
-                            "text": "Bonne compréhension de Vue.js pour créer des interfaces utilisateur interactives."
-                        },
-                        "ko": {
-                            "text": "대화형 사용자 인터페이스 구축을 위한 Vue.js에 대한 좋은 이해."
                         }
+                        
                     }
                 },
                 {
@@ -873,16 +629,8 @@
                         "hi": {
                             "title": "Bootstrap 5+, Tailwind CSS, Material UI, Semantic UI",
                             "text": "उत्तरदायी डिज़ाइन के लिए Bootstrap, Tailwind CSS, Material UI, और Semantic UI की अच्छी समझ।"
-                        },
-                        "es": {
-                            "text": "Buena comprensión de Bootstrap, Tailwind CSS, Material UI y Semantic UI para diseño receptivo."
-                        },
-                        "fr": {
-                            "text": "Bonne compréhension de Bootstrap, Tailwind CSS, Material UI et Semantic UI pour le design réactif."
-                        },
-                        "ko": {
-                            "text": "반응형 디자인을 위한 Bootstrap, Tailwind CSS, Material UI 및 Semantic UI에 대한 좋은 이해."
                         }
+                        
                     }
                 }
             ]
@@ -894,14 +642,8 @@
                 "en": {
                     "title": "Languages"
                 },
-                "es": {
-                    "title": "Idiomas"
-                },
-                "fr": {
-                    "title": "Langues"
-                },
-                "zh": {
-                    "title": "语言"
+                "hi": {
+                    "title": "भाषाएँ"
                 }
             },
             "settings": {
@@ -935,22 +677,8 @@
                             "title": "अंग्रेज़ी",
                             "text": "अच्छे संचार और लेखन कौशल हैं।",
                             "level": "प्रवीण"
-                        },
-                        "es": {
-                            "title": "Inglés",
-                            "text": "Tiene buenas habilidades de comunicación y redacción.",
-                            "level": "Fluido"
-                        },
-                        "fr": {
-                            "title": "Anglais",
-                            "text": "Disposant de bonnes compétences en communication et en rédaction.",
-                            "level": "Courant"
-                        },
-                        "ko": {
-                            "title": "영어",
-                            "text": "좋은 의사소통 및 작문 능력을 보유하고 있음.",
-                            "level": "유창함"
                         }
+                        
                     }
                 },
                 {
@@ -975,22 +703,8 @@
                         "hi": {
                             "title": "फ्रेंच",
                             "text": "बोलचाल और लिखित फ्रेंच दोनों में प्राथमिक।"
-                        },
-                        "es": {
-                            "title": "Francés",
-                            "text": "Básico en francés hablado y escrito.",
-                            "level": "Básico"
-                        },
-                        "fr": {
-                            "title": "Français",
-                            "text": "Élémentaire en français parlé et écrit.",
-                            "level": "Courant"
-                        },
-                        "ko": {
-                            "title": "프랑스어",
-                            "text": "구어 및 서면 프랑스어에 능통; 전문적인 의사소통에 자신감이 있습니다.",
-                            "level": "유창함"
                         }
+                       
                     }
                 },
                 {
@@ -1016,22 +730,8 @@
                             "title": "हिंदी",
                             "text": "मातृभाषी",
                             "level": "मातृभाषा"
-                        },
-                        "es": {
-                            "title": "Hindi",
-                            "text": "Hablante nativo",
-                            "level": "Nativo"
-                        },
-                        "fr": {
-                            "title": "Hindi",
-                            "text": "Locuteur natif",
-                            "level": "Natif"
-                        },
-                        "ko": {
-                            "title": "힌디어",
-                            "text": "모국어 화자",
-                            "level": "중급"
                         }
+                        
                     }
                 }
             ]
