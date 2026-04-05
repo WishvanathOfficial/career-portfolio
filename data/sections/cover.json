@@ -12,24 +12,6 @@
                 "title_short_nav": "मेरे बारे में",
                 "title_long_prefix": "नमस्ते...",
                 "title_long": "मैं {{विश्वनाथ साह!}} हूँ"
-            },
-            "es": {
-                "title_short": "¡Saludos!",
-                "title_short_nav": "Sobre mí",
-                "title_long_prefix": "Hola...",
-                "title_long": "Soy {{Wishvanath Sah!}}"
-            },
-            "fr": {
-                "title_short": "Salut !",
-                "title_short_nav": "À propos",
-                "title_long_prefix": "Salut...",
-                "title_long": "Je suis {{Wishvanath Sah!}}"
-            },
-            "ko": {
-                "title_short": "환영합니다!",
-                "title_short_nav": "소개",
-                "title_long_prefix": "안녕하세요...",
-                "title_long": "저는 {{최민석}}입니다!"
             }
         }
     },
@@ -71,10 +53,7 @@
             "component": "ArticleText",
             "locales": {
                 "en": {"title": "{{A brief}} about me..."},
-                "hi": {"title": "{{मेरे बारे में}} एक संक्षिप्त..."},
-                "es": {"title": "{{Un breve}} sobre mí..."},
-                "fr": {"title": "{{Un bref}} à propos de moi..."},
-                "ko": {"title": "저에 {{대해 간략하게}}..."}
+                "hi": {"title": "{{मेरे बारे में}} एक संक्षिप्त जानकारी ..."}
             },
             "settings": {
                 "order_items_by": "id",
@@ -92,15 +71,6 @@
                         },
                         "hi": {
                             "text": "<p>मैं एक बहुमुखी और अनुभवी {{फुल स्टैक इंजीनियर}} हूँ जो आधुनिक जावास्क्रिप्ट फ्रेमवर्क में विशेषज्ञता रखता है। जमीन से शुरू करके स्केलेबल और सहज [[वेब एप्लिकेशन]] बनाने पर ध्यान केंद्रित करते हुए, मैं विचारों को कार्यात्मक डिजिटल अनुभवों में बदलने का आनंद लेता हूँ।</p><p>यह विविध पृष्ठभूमि मुझे परियोजना की आवश्यकताओं के व्यापक श्रेणी के लिए अनुकूल होने की लचीलापन देती है, चाहे यह स्केलेबल API बनाना हो, सिस्टम प्रदर्शन का अनुकूलन करना हो, या फुल-स्टैक समाधानों में योगदान करना हो।</p><p>मैं मुख्य रूप से फ्रंट-एंड विकास के लिए {{React.js}} और {{Next.js}} का उपयोग करता/करती हूँ और बैकएंड सेवाओं के लिए {{Node.js}} का उपयोग करता/करती हूँ, जो मुझे एप्लिकेशन विकास के पूरे जीवनचक्र को संभालने में सक्षम बनाता/बनाती है - योजना और डिजाइन से लेकर तैनाती और अनुकूलन तक। मैं [[आपके साथ सहयोग]] करने की आशा करता/करती हूँ!</p>"
-                        },
-                        "es": {
-                            "text": "<p>Soy un {{Ingeniero Full Stack}} versátil y experimentado, especializado en frameworks modernos de JavaScript. Con un fuerte enfoque en construir [[aplicaciones web]] escalables e intuitivas desde cero, disfruto convertir ideas en experiencias digitales funcionales.</p><p>Esta experiencia diversa me da la flexibilidad para adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento del sistema o contribuyendo a soluciones full-stack.</p><p>Principalmente trabajo con {{React.js}} y {{Next.js}} para el desarrollo frontend y {{Node.js}} para servicios backend, lo que me permite gestionar todo el ciclo de vida del desarrollo de aplicaciones: desde la planificación y el diseño hasta el despliegue y la optimización. Espero con interés colaborar [[contigo!]]</p>"
-                        },
-                        "fr": {
-                            "text": "<p>Je suis un {{ingénieur Full Stack}} polyvalent et expérimenté, spécialisé dans les frameworks JavaScript modernes. Avec un fort accent sur la création d'[[applications web]] évolutives et intuitives à partir de zéro, j'aime transformer les idées en expériences numériques fonctionnelles.</p><p>Ce parcours diversifié me donne la flexibilité de m'adapter à une large gamme de besoins de projets, que ce soit pour construire des API évolutives, optimiser les performances système ou contribuer à des solutions full-stack.</p><p>Je travaille principalement avec {{React.js}} et {{Next.js}} pour le développement front-end et {{Node.js}} pour les services back-end, ce qui me permet de gérer l'ensemble du cycle de vie du développement d'applications, de la planification et la conception au déploiement et à l'optimisation. J'ai hâte de collaborer [[avec vous !]]</p>"
-                        },
-                        "ko": {
-                            "text": "<p>저는 다양한 경험을 가진 {{풀스택 엔지니어}}로, 최신 자바스크립트 프레임워크에 특화되어 있습니다. [[웹 애플리케이션]]을 처음부터 확장 가능하고 직관적으로 구축하는 데 집중하며, 아이디어를 실용적인 디지털 경험으로 전환하는 것을 즐깁니다.</p><p>이러한 다양한 배경 덕분에 확장 가능한 API 구축, 시스템 성능 최적화, 전체 스택 솔루션 기여 등 다양한 프로젝트 요구에 유연하게 대응할 수 있습니다.</p><p>주로 {{React.js}}, {{Next.js}}로 프론트엔드를, {{Node.js}}로 백엔드 서비스를 개발하며, 기획과 설계부터 배포 및 최적화까지 애플리케이션 개발의 전체 라이프사이클을 책임집니다. [[여러분과 협업]]하길 기대합니다!</p>"
                         }
                     }
                 }
@@ -112,10 +82,7 @@
             "component": "ArticleTestimonials",
             "locales": {
                 "en": {"title": "Client {{testimonials}}"},
-                "hi": {"title": "ग्राहक {{प्रशंसापत्र}}"},
-                "es": {"title": "Testimonios de {{clientes}}"},
-                "fr": {"title": "Témoignages de {{clients}}"},
-                "ko": {"title": "{{고객}} 추천사"}
+                "hi": {"title": "ग्राहक {{प्रशंसापत्र}}"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -137,18 +104,6 @@
                         "hi": {
                             "title": "CEO at [[SalesForce]]",
                             "text": "Mark के साथ काम करना वास्तव में एक [[परिवर्तनकारी अनुभव]] था। उनकी उत्कृष्ट प्रोग्रामिंग क्षमताओं और सहयोगी भावना ने न केवल हमारी परियोजना की गुणवत्ता को बढ़ाया बल्कि हमें नए उत्साह और उद्देश्य का अहसास भी दिलाया।"
-                        },
-                        "es": {
-                            "title": "CEO en [[SalesForce]]",
-                            "text": "Trabajar con Mark fue una [[experiencia transformadora]]. Su gran habilidad para programar y su espíritu colaborativo mejoraron el proyecto y nos devolvieron la motivación y el propósito."
-                        },
-                        "fr": {
-                            "title": "PDG de [[SalesForce]]",
-                            "text": "Travailler avec Mark fut une [[expérience transformante]]. Ses compétences en programmation et son esprit d’équipe ont élevé le projet et ravivé notre motivation et notre but."
-                        },
-                        "ko": {
-                            "title": "세일즈포스 CEO",
-                            "text": "Mark와 함께한 시간은 [[변화의 경험]]이었습니다. 그의 뛰어난 프로그래밍 실력과 협업 정신은 프로젝트 품질을 높이고 우리에게 새로운 동기를 불어넣었습니다."
                         }
                     }
                 },
@@ -167,18 +122,6 @@
                         "hi": {
                             "title": "लीड डेवलपर at [[GitHub]]",
                             "text": "Mark हमारे टीम के लिए एक अनमोल संपत्ति थे। उनकी [[गहरी प्रोग्रामिंग अंतर्दृष्टि और मेंटरशिप]] ने न केवल हमारे प्रोजेक्ट को बेहतर बनाया बल्कि हमें हर चुनौती को आत्मविश्वास और रचनात्मकता के साथ हल करने के लिए सशक्त बनाया।"
-                        },
-                        "es": {
-                            "title": "Desarrollador Principal en [[GitHub]]",
-                            "text": "Tener a Mark fue un recurso invaluable. Sus [[profundos conocimientos y mentoría]] mejoraron nuestros proyectos y nos dieron confianza para afrontar cualquier desafío con creatividad."
-                        },
-                        "fr": {
-                            "title": "Développeur Principal chez [[GitHub]]",
-                            "text": "La présence de Mark fut un atout inestimable. Ses [[connaissances en programmation et son mentorat]] ont renforcé nos projets et notre capacité à relever les défis avec assurance."
-                        },
-                        "ko": {
-                            "title": "[[GitHub]] 수석 개발자",
-                            "text": "Mark는 소중한 자산이었습니다. 그의 [[깊은 프로그래밍 통찰력과 멘토링]]은 프로젝트를 향상시키고 도전을 자신감과 창의성으로 해결할 수 있게 해주었습니다."
                         }
                     }
                 },
@@ -197,19 +140,8 @@
                         "hi": {
                             "title": "मैनेजिंग डायरेक्टर at [[Dingga]]",
                             "text": "Mark के साथ सहयोग हमारे समग्र विकास प्रक्रिया के लिए एक वास्तविक [[गेम चेंजर]] था। उनकी [[गहरी तकनीकी विशेषज्ञता]], रचनात्मक समस्या-समाधान, और सक्रिय मानसिकता बेहद अनमोल थी।"
-                        },
-                        "es": {
-                            "title": "Directora General en [[Dingga]]",
-                            "text": "Colaborar con Mark fue un verdadero [[punto de inflexión]]. Su [[gran experiencia técnica]], creatividad y mentalidad proactiva fueron absolutamente invaluables para nuestro equipo."
-                        },
-                        "fr": {
-                            "title": "Directrice Générale chez [[Dingga]]",
-                            "text": "Travailler avec Mark a été un vrai [[tournant]]. Son [[expertise technique approfondie]], sa créativité et sa proactivité ont été d’une valeur inestimable pour notre développement."
-                        },
-                        "ko": {
-                            "title": "딩가 전무이사",
-                            "text": "Mark와의 협업은 진정한 [[게임 체인저]]였습니다. 그의 [[깊이 있는 기술 전문성]], 창의적인 문제 해결력, 능동적인 태도는 매우 소중한 자산이었습니다."
                         }
+                        
                     }
                 },
                 {
@@ -227,19 +159,8 @@
                         "hi": {
                             "title": "क्रिएटिव डायरेक्टर at [[Dribbble]]",
                             "text": "Mark Choi का [[विवरणों पर ध्यान]] और उनका [[नवोन्मेषी सोच]] हमारे पूरे डिज़ाइन प्रोसेस में एक ताज़ा दृष्टिकोण लाया! बस आश्चर्यजनक!"
-                        },
-                        "es": {
-                            "title": "Director Creativo en [[Dribbble]]",
-                            "text": "La [[atención al detalle]] y el [[pensamiento innovador]] de Mark Choi aportaron una perspectiva fresca a todo nuestro proceso de diseño. ¡Simplemente increíble!"
-                        },
-                        "fr": {
-                            "title": "Directeur Créatif chez [[Dribbble]]",
-                            "text": "L’[[attention aux détails]] et la [[pensée innovante]] de Mark Choi ont apporté une perspective nouvelle à tout notre processus de design ! Simplement incroyable !"
-                        },
-                        "ko": {
-                            "title": "[[Dribbble]] 크리에이티브 디렉터",
-                            "text": "마크 최의 [[세심한 배려]]와 [[혁신적인 사고]]가 전체 디자인 과정에 신선한 시각을 가져왔습니다! 정말 놀랍습니다!"
                         }
+                        
                     }
                 }
             ]
@@ -254,9 +175,7 @@
             },
             "locales": {
                 "en": {"title": "Personal {{interests}}"},
-                "es": {"title": "Intereses {{personales}}"},
-                "fr": {"title": "Intérêts {{personnels}} "},
-                "ko": {"title": "개인 {{관심사}}"}
+                "hi": {"title": "व्यक्तिगत {{रुचि}}"}
             },
             "items": [
                 {
@@ -273,19 +192,8 @@
                         "hi": {
                             "title": "{{वीडियो ट्यूटर}} सॉफ्टवेयर विकास",
                             "text": "एक ट्यूटर जो सॉफ्टवेयर विकास में अनुभव रखता है और वास्तविक दुनिया की परियोजनाओं को बेहतर बनाने के लिए एआई उपकरणों का उपयोग करना सीख रहा है।"
-                        },
-                        "es": {
-                            "title": "{{Tutor de Video}} Desarrollo de Software",
-                            "text": "Un tutor con experiencia en desarrollo de software y aprendiendo a usar herramientas de IA para mejorar proyectos del mundo real."
-                        },
-                        "fr": {
-                            "title": "{{Tuteur vidéo}} Développement logiciel",
-                            "text": "Un tuteur ayant de l'expérience en développement logiciel et apprenant à utiliser des outils d'IA pour améliorer des projets concrets."
-                        },
-                        "ko": {
-                            "title": "{{비디오 튜터}} 소프트웨어 개발",
-                            "text": "소프트웨어 개발 경험이 있는 튜터로, 실제 프로젝트를 향상시키기 위해 AI 도구 사용을 배우고 있습니다."
                         }
+                        
                     }
                 },
                 {
@@ -302,19 +210,8 @@
                         "hi": {
                             "title": "सॉफ्टवेयर डेवलपर्स के रूप में {{फ्रीलांसिंग}}",
                             "text": "सॉफ्टवेयर डेवलपर्स के रूप में फ्रीलांसिंग, विभिन्न परियोजनाओं पर काम करना और कौशल बढ़ाना।"
-                        },
-                        "es": {
-                            "title": "{{Freelancing}} como Desarrolladores de Software",
-                            "text": "Trabajando como freelancers en desarrollo de software, participando en varios proyectos y mejorando habilidades."
-                        },
-                        "fr": {
-                            "title": "{{Freelancing}} en tant que Développeurs Logiciels",
-                            "text": "Freelancing en développement logiciel, travaillant sur divers projets et perfectionnant les compétences."
-                        },
-                        "ko": {
-                            "title": "소프트웨어 개발자로서 {{프리랜싱}}",
-                            "text": "다양한 프로젝트에 참여하며 소프트웨어 개발자로 프리랜싱하고 역량을 강화하기."
                         }
+                        
                     }
                 },
                 {
@@ -331,19 +228,8 @@
                         "hi":{
                             "title": "{{निवेश}} और वित्त",
                             "text": "स्टॉक्स और व्यक्तिगत वित्त के मूल बातें सीखना।"
-                        },
-                        "es": {
-                            "title": "{{Inversión}} y Finanzas",
-                            "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
-                        },
-                        "fr": {
-                            "title": "{{Investissement}} & Finance",
-                            "text": "Apprendre les bases des actions et des finances personnelles."
-                        },
-                        "ko": {
-                            "title": "{{투자}} 및 재정 관리",
-                            "text": "주식과 개인 재정의 기초 배우기."
                         }
+                       
                     }
                 },
                 {
@@ -360,19 +246,8 @@
                         "hi": {
                             "title": "{{यूएक्स}} डिजाइन",
                             "text": "उपयोगकर्ता अनुभव सिद्धांतों का अध्ययन।"
-                        },
-                        "es": {
-                            "title": "Diseño {{UX}}",
-                            "text": "Estudiando los principios de la experiencia del usuario."
-                        },
-                        "fr": {
-                            "title": "Conception {{UX}}",
-                            "text": "Étudier les principes de l'expérience utilisateur."
-                        },
-                        "ko": {
-                            "title": "{{사용자 경험}} 디자인",
-                            "text": "사용자 경험 원칙을 공부하기."
                         }
+                        
                     }
                 },
                 {
@@ -390,19 +265,8 @@
                         "hi": {
                             "title": "{{फोटोग्राफी}} और संपादन",
                             "text": "रचनात्मक संपादन तकनीकों के माध्यम से फ़ोटो को बेहतर बनाना।"
-                        },
-                        "es": {
-                            "title": "{{Fotografía}} y Edición",
-                            "text": "Mejorando fotos a través de técnicas creativas de edición."
-                        },
-                        "fr": {
-                            "title": "{{Photographie}} & Édition",
-                            "text": "Améliorer des photos avec des techniques de montage créatives."
-                        },
-                        "ko": {
-                            "title": "{{사진}} 및 편집",
-                            "text": "창의적인 편집 기술을 통해 사진을 향상시키기."
                         }
+                        
                     }
                 },
                 {
@@ -419,19 +283,8 @@
                         "hi": {
                             "title": "तकनीकी {{सामग्री}} निर्माता",
                             "text": "सॉफ्टवेयर विकास और प्रौद्योगिकी विषयों पर आकर्षक सामग्री बनाना।"
-                        },
-                        "es": {
-                            "title": "Creador de {{contenido}} técnico",
-                            "text": "Creando contenido atractivo sobre desarrollo de software y temas tecnológicos."
-                        },
-                        "fr": {
-                            "title": "Créateur de {{contenu}} technique",
-                            "text": "Création de contenu engageant sur le développement logiciel et les sujets technologiques."
-                        },
-                        "ko": {
-                            "title": "{{기술}} 콘텐츠 제작자",
-                            "text": "소프트웨어 개발 및 기술 주제에 대한 매력적인 콘텐츠를 생성합니다."
                         }
+                        
                     }
                 }
             ]

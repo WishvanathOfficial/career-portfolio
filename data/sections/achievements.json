@@ -12,24 +12,6 @@
                 "title_short_nav": "उपलब्धियाँ",
                 "title_long_prefix": "यहाँ मेरी",
                 "title_long": "करियर {{उपलब्धियाँ}}"
-            },
-            "es": {
-                "title_short": "Logros",
-                "title_short_nav": "Logros",
-                "title_long_prefix": "Aquí están mis",
-                "title_long": "{{Logros}} Profesionales"
-            },
-            "fr": {
-                "title_short": "Réalis",
-                "title_short_nav": "Réalisations",
-                "title_long_prefix": "Voici",
-                "title_long": "Mes {{Réalisations}}"
-            },
-            "ko": {
-                "title_short": "경력 성과",
-                "title_short_nav": "경력 성과",
-                "title_long_prefix": "다음은",
-                "title_long": "{{경력 성과}}입니다"
             }
         }
     },
@@ -40,10 +22,7 @@
             "component": "ArticleCards",
             "locales": {
                 "en": { "title": "Certifications" },
-                "hi": { "title": "प्रमाणपत्र" },
-                "es": { "title": "Certificaciones" },
-                "fr": { "title": "Certifications" },
-                "ko": { "title": "인증서" }
+                "hi": { "title": "प्रमाणपत्र" }
             },
             "settings": {
                 "order_items_by": "id",
@@ -65,15 +44,6 @@
                         "hi": {
                             "title": "{{Linux Foundation}}",
                             "text": "सर्टिफाइड क्यूबर्नेट्स एडमिनिस्ट्रेटर (CKA)"
-                        },
-                        "es": {
-                            "text": "Administrador de Kubernetes Certificado (CKA)"
-                        },
-                        "fr": {
-                            "text": "Administrateur Kubernetes Certifié (CKA)"
-                        },
-                        "ko": {
-                            "text": "Kubernetes 인증 관리자 (CKA)"
                         }
                     }
                 },
@@ -93,15 +63,6 @@
                         "hi": {
                             "title": "{{Amazon}} Web Services",
                             "text": "AWS सर्टिफाइड सॉल्यूशंस आर्किटेक्ट – एसोसिएट"
-                        },
-                        "es": {
-                            "text": "Arquitecto de Soluciones Certificado por AWS - Asociado"
-                        },
-                        "fr": {
-                            "text": "Architecte de Solutions Certifié AWS - Associé"
-                        },
-                        "ko": {
-                            "text": "AWS 공인 솔루션 아키텍트 - 준회원"
                         }
                     }
                 },
@@ -121,15 +82,6 @@
                         "hi": {
                             "title": "{{Oracle}}",
                             "text": "सर्टिफाइड जावा डेवलपर"
-                        },
-                        "es": {
-                            "text": "Desarrollador Java Certificado"
-                        },
-                        "fr": {
-                            "text": "Développeur Java Certifié"
-                        },
-                        "ko": {
-                            "text": "공인 자바 개발자"
                         }
                     }
                 },
@@ -149,15 +101,6 @@
                         "hi": {
                             "title": "{{MongoDB}} यूनिवर्सिटी",
                             "text": "MongoDB सर्टिफाइड डेवलपर"
-                        },
-                        "es": {
-                            "text": "Desarrollador Certificado de MongoDB"
-                        },
-                        "fr": {
-                            "text": "Développeur Certifié MongoDB"
-                        },
-                        "ko": {
-                            "text": "MongoDB 공인 개발자"
                         }
                     }
                 }
@@ -169,10 +112,7 @@
             "component": "ArticleThread",
             "locales": {
                 "en": { "title": "Awards" },
-                "hi": { "title": "पुरस्कार" },
-                "es": { "title": "Premios" },
-                "fr": { "title": "Récompenses" },
-                "ko": { "title": "수상 내역" }
+                "hi": { "title": "पुरस्कार" }
             },
             "settings": {
                 "max_rows_collapse_threshold": 4,
@@ -205,27 +145,6 @@
                             "country": "US",
                             "institution": "MIT",
                             "text": "मेरी फाइनल ईयर प्रोजेक्ट में बैकएंड सिस्टम्स को अनुकूलित करने के लिए उत्कृष्ट प्रदर्शन के लिए पुरस्कार दिया गया, जहां मैंने डेटा प्रोसेसिंग की दक्षता में 30% सुधार किया। मुझे इस उपलब्धि के लिए एक प्रमाणपत्र भी मिला।"
-                        },
-                        "es": {
-                            "title": "{{Mejor Proyecto de Fin de Carrera}} – Optimización Backend",
-                            "province": "Massachusetts",
-                            "country": "EE.UU.",
-                            "institution": "MIT",
-                            "text": "Premiado por un rendimiento excepcional en la optimización de sistemas backend durante mi proyecto de fin de carrera, donde mejoré la eficiencia del procesamiento de datos en un 30%. También he recibido un certificado de reconocimiento por este logro."
-                        },
-                        "fr": {
-                            "title": "{{Meilleur Projet de Fin d'Études}} – Optimisation Backend",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "MIT",
-                            "text": "Récompensé pour une performance exceptionnelle dans l'optimisation des systèmes backend lors de mon projet de fin d'études, où j'ai amélioré l'efficacité du traitement des données de 30%. J'ai également reçu un certificat de reconnaissance pour cette réalisation."
-                        },
-                        "ko": {
-                            "title": "{{최우수 졸업 프로젝트}} – 백엔드 최적화",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "MIT",
-                            "text": "졸업 프로젝트에서 백엔드 시스템 최적화로 뛰어난 성과를 인정받아 수상하였으며, 데이터 처리 효율을 30% 향상시켰습니다. 이 성과에 대한 인증서도 받았습니다."
                         }
                     }
                 },
@@ -255,40 +174,16 @@
                                 "Contributing to the documentation and community support"
                             ]
                         },
-                        "es": {
-                            "title": "{{Contribuyente Destacado}} – Proyecto de Código Abierto de la Fundación Linux",
+                        "hi": {
+                            "title": "{{शीर्ष योगदानकर्ता}} – ओपन सोर्स लिनक्स फाउंडेशन प्रोजेक्ट",
                             "province": "",
                             "country": "",
-                            "institution": "Fundación Linux",
-                            "text": "Reconocido como un contribuyente destacado por mis contribuciones significativas a un proyecto de código abierto bajo la Fundación Linux, donde implementé características clave y resolví errores críticos, mejorando la estabilidad y el rendimiento del proyecto. Mis contribuciones incluyeron: ",
+                            "institution": "Linux Foundation",
+                            "text": "लिनक्स फाउंडेशन के तहत एक ओपन सोर्स प्रोजेक्ट में मेरे महत्वपूर्ण योगदान के लिए शीर्ष योगदानकर्ता के रूप में मान्यता प्राप्त, जहां मैंने प्रमुख सुविधाओं को लागू किया और महत्वपूर्ण बग्स को हल किया, जिससे परियोजना की स्थिरता और प्रदर्शन में सुधार हुआ। मेरे योगदान में शामिल थे: ",
                             "list": [
-                                "Implementación de una nueva característica que mejoró la experiencia del usuario en un 25%",
-                                "Resolución de más de 50 errores críticos que mejoraron la fiabilidad del sistema",
-                                "Contribución a la documentación y soporte comunitario"
-                            ]
-                        },
-                        "fr": {
-                            "title": "{{Contributeur Principal}} – Projet Open Source de la Fondation Linux",
-                            "province": "",
-                            "country": "",
-                            "institution": "Fondation Linux",
-                            "text": "Reconnu comme un contributeur principal pour mes contributions significatives à un projet open source sous la Fondation Linux, où j'ai implémenté des fonctionnalités clés et résolu des bugs critiques, améliorant la stabilité et les performances du projet. Mes contributions ont inclus : ",
-                            "list": [
-                                "Implémentation d'une nouvelle fonctionnalité qui a amélioré l'expérience utilisateur de 25%",
-                                "Résolution de plus de 50 bugs critiques qui ont amélioré la fiabilité du système",
-                                "Contribution à la documentation et au support communautaire"
-                            ]
-                        },
-                        "ko": {
-                            "title": "{{최고 기여자}} – 오픈 소스 리눅스 재단 프로젝트",
-                            "province": "",
-                            "country": "",
-                            "institution": "리눅스 재단",
-                            "text": "리눅스 재단의 오픈 소스 프로젝트에 대한 중요한 기여로 최고 기여자로 인정받았으며, 주요 기능을 구현하고 중요한 버그를 해결하여 프로젝트의 안정성과 성능을 향상시켰습니다. 제 기여 내용은 다음과 같습니다: ",
-                            "list": [
-                                "사용자 경험을 25% 향상시킨 새로운 기능 구현",
-                                "시스템 신뢰성을 향상시킨 50개 이상의 중요한 버그 해결",
-                                "문서화 및 커뮤니티 지원에 기여"
+                                "एक नई सुविधा को लागू करना जिसने उपयोगकर्ता अनुभव में 25% सुधार किया",
+                                "50 से अधिक महत्वपूर्ण बग्स को हल करना जिसने सिस्टम की विश्वसनीयता बढ़ाई",
+                                "डॉक्यूमेंटेशन और समुदाय समर्थन में योगदान देना"
                             ]
                         }
                     }
@@ -315,26 +210,12 @@
                             "institution": "IEEE",
                             "text": "Awarded for my research paper on software optimization techniques, which was presented at the International Conference on Software Engineering. The paper received positive feedback from industry experts and was published in the conference proceedings."
                         },
-                        "es": {
-                            "title": "{{Mejor Artículo}} – Cumbre Internacional",
-                            "province": "Pekín",
-                            "country": "China",
+                        "hi": {
+                            "title": "{{सर्वश्रेष्ठ पेपर}} – अंतर्राष्ट्रीय शिखर सम्मेलन",
+                            "province": "बीजिंग",
+                            "country": "चीन",
                             "institution": "IEEE",
-                            "text": "Premiado por mi artículo de investigación sobre técnicas de optimización de software, que fue presentado en la Conferencia Internacional sobre Ingeniería de Software. El artículo recibió comentarios positivos de expertos de la industria y fue publicado en las actas de la conferencia."
-                        },
-                        "fr": {
-                            "title": "{{Meilleur Article}} – Sommet International",
-                            "province": "Pékin",
-                            "country": "Chine",
-                            "institution": "IEEE",
-                            "text": "Récompensé pour mon article de recherche sur les techniques d'optimisation logicielle, qui a été présenté à la Conférence Internationale sur l'Ingénierie Logicielle. L'article a reçu des commentaires positifs d'experts du secteur et a été publié dans les actes de la conférence."
-                        },
-                        "ko": {
-                            "title": "{{최우수 논문}} – 국제 정상 회담",
-                            "province": "베이징",
-                            "country": "중국",
-                            "institution": "IEEE",
-                            "text": "소프트웨어 최적화 기술에 관한 연구 논문으로 국제 소프트웨어 공학 회의에서 발표하여 수상하였으며, 이 논문은 업계 전문가들로부터 긍정적인 피드백을 받았고 회의록에 게재되었습니다."
+                            "text": "सॉफ्टवेयर अनुकूलन तकनीकों पर मेरे शोध पत्र के लिए पुरस्कार दिया गया, जिसे अंतर्राष्ट्रीय सॉफ्टवेयर इंजीनियरिंग सम्मेलन में प्रस्तुत किया गया था। इस पेपर को उद्योग विशेषज्ञों से सकारात्मक प्रतिक्रिया मिली और इसे सम्मेलन की कार्यवाही में प्रकाशित किया गया।"
                         }
                     }
                 },
@@ -370,40 +251,16 @@
                                 "Integration with popular data visualization tools"
                             ]
                         },
-                        "es": {
-                            "title": "{{Mejor Innovador}} – Cumbre de Innovación Tecnológica",
-                            "province": "Río de Janeiro",
-                            "country": "Brasil",
-                            "institution": "Innovadores Tecnológicos Brasil",
-                            "text": "Reconocido como el [[mejor innovador]] por mi trabajo innovador en el desarrollo de una nueva herramienta de software que mejoró significativamente los procesos de análisis de datos. La herramienta fue adoptada por varias empresas líderes en la industria, y recibí un certificado de reconocimiento por mis contribuciones. Mi herramienta presentó las siguientes innovaciones: ",
+                        "hi": {
+                            "title": "{{सर्वश्रेष्ठ नवप्रवर्तनकर्ता}} – टेक इनोवेशन समिट",
+                            "province": "रियो डी जनेरियो",
+                            "country": "ब्राजील",
+                            "institution": "टेक इनोवेटर्स ब्राजील",
+                            "text": "डेटा विश्लेषण प्रक्रियाओं में महत्वपूर्ण सुधार करने वाले एक नए सॉफ्टवेयर टूल के विकास में मेरे क्रांतिकारी कार्य के लिए सर्वश्रेष्ठ नवप्रवर्तनकर्ता के रूप में मान्यता प्राप्त। इस टूल को उद्योग की कई प्रमुख कंपनियों द्वारा अपनाया गया, और मुझे मेरे योगदान के लिए एक प्रमाणपत्र मिला। मेरे टूल में निम्नलिखित नवाचार शामिल थे: ",
                             "list": [
-                                "Capacidades de procesamiento de datos en tiempo real",
-                                "Interfaz fácil de usar que redujo el tiempo de capacitación en un 50%",
-                                "Integración con herramientas populares de visualización de datos"
-                            ]
-                        },
-                        "fr": {
-                            "title": "{{Meilleur Innovateur}} – Sommet de l'Innovation Technologique",
-                            "province": "Rio de Janeiro",
-                            "country": "Brésil",
-                            "institution": "Innovateurs Technologiques Brésil",
-                            "text": "Reconnu comme le [[meilleur innovateur]] pour mon travail révolutionnaire dans le développement d'un nouvel outil logiciel qui a considérablement amélioré les processus d'analyse de données. L'outil a été adopté par plusieurs entreprises leaders du secteur, et j'ai reçu un certificat de reconnaissance pour mes contributions. Mon outil présentait les innovations suivantes : ",
-                            "list": [
-                                "Capacités de traitement des données en temps réel",
-                                "Interface conviviale qui a réduit le temps de formation de 50%",
-                                "Intégration avec des outils populaires de visualisation des données"
-                            ]
-                        },
-                        "ko": {
-                            "title": "{{최고 혁신가}} – 기술 혁신 정상 회담",
-                            "province": "리우데자네이루",
-                            "country": "브라질",
-                            "institution": "브라질 기술 혁신가",
-                            "text": "데이터 분석 프로세스를 크게 개선하는 새로운 소프트웨어 도구 개발에서 획기적인 작업으로 최고의 혁신가로 인정받았습니다. 이 도구는 업계의 여러 선도 기업에서 채택되었으며, 제 기여에 대한 인증서를 받았습니다. 제 도구는 다음과 같은 혁신을 특징으로 하였습니다: ",
-                            "list": [
-                                "실시간 데이터 처리 기능",
-                                "교육 시간을 50% 단축시킨 사용자 친화적인 인터페이스",
-                                "인기 있는 데이터 시각화 도구와의 통합"
+                                "रीयल-टाइम डेटा प्रोसेसिंग क्षमताएं",
+                                "उपयोगकर्ता-मित्रवत इंटरफ़ेस जिसने प्रशिक्षण समय को 50% तक कम किया",
+                                "लोकप्रिय डेटा विज़ुअलाइज़ेशन टूल्स के साथ एकीकरण"
                             ]
                         }
                     }

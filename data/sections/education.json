@@ -12,25 +12,8 @@
                 "title_short_nav": "शिक्षा",
                 "title_long_prefix": "यह मेरी",
                 "title_long": "{{शैक्षिक}} पृष्ठभूमि"
-            },
-            "es": {
-                "title_short": "Educación",
-                "title_short_nav": "Educación",
-                "title_long_prefix": "Esta es mi",
-                "title_long": "{{Formación}} Educativa"
-            },
-            "fr": {
-                "title_short": "Éducation",
-                "title_short_nav": "Éducation",
-                "title_long_prefix": "C'est mon",
-                "title_long": "{{Contexte}} Éducatif"
-            },
-            "ko": {
-                "title_short": "교육",
-                "title_short_nav": "교육",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{교육적}} 배경"
             }
+            
         }
     },
     "articles": [
@@ -103,73 +86,8 @@
                                 "क्लाउड इन्फ्रास्ट्रक्चर",
                                 "सुरक्षा सर्वोत्तम प्रथाएं"
                             ]
-                        },
-                        "es": {
-                            "title": "Introducción al {{Desarrollo de Aplicaciones Moderno}}",
-                            "province": "NASSCOM",
-                            "country": "India",
-                            "institution": "IIT Madras",
-                            "text": "Completé con éxito el programa de Introducción al Desarrollo de Aplicaciones Moderno (IMAD), que abarcó la creación de aplicaciones web modernas, la arquitectura de bases de datos, la seguridad en páginas web y técnicas de optimización. El curso incluyó proyectos prácticos y asignaciones colaborativas, proporcionando experiencia en el diseño de soluciones escalables, seguras y de alto rendimiento. Desarrollé una base sólida en las prácticas de desarrollo moderno y adquirí experiencia con herramientas y tecnologías relevantes en la industria.",
-                            "list": [
-                                "Colaboración en equipo",
-                                "Diseño de bases de datos",
-                                "Soluciones escalables",
-                                "Desarrollo web moderno",
-                                "Seguridad y optimización"
-                            ],
-                            "tags": [
-                                "IMAD",
-                                "Desarrollo Full-Stack",
-                                "APIs RESTful",
-                                "Diseño responsivo",
-                                "Infraestructura en la nube",
-                                "Mejores prácticas de seguridad"
-                            ]
-                        },
-                        "fr": {
-                            "title": "Introduction au {{Développement d'Applications Modernes}}",
-                            "province": "NASSCOM",
-                            "country": "Inde",
-                            "institution": "IIT Madras",
-                            "text": "J'ai complété avec succès le programme 'Introduction au Développement d'Applications Modernes' (IMAD) qui portait sur la création d'applications web modernes, l'architecture des bases de données, la sécurité des pages web et des techniques d'optimisation. Le cours comprenait des projets pratiques et des travaux collaboratifs, offrant une expérience concrète dans la conception de solutions web évolutives, sécurisées et performantes. J'ai ainsi pu consolider une base solide dans les pratiques de développement moderne et me familiariser avec des outils et technologies pertinents pour l'industrie.",
-                            "list": [
-                                "Collaboration en équipe",
-                                "Conception de bases de données",
-                                "Solutions évolutives",
-                                "Développement web moderne",
-                                "Sécurité et optimisation"
-                            ],
-                            "tags": [
-                                "IMAD",
-                                "Développement Full-Stack",
-                                "APIs RESTful",
-                                "Design réactif",
-                                "Infrastructure Cloud",
-                                "Meilleures pratiques de sécurité"
-                            ]
-                        },
-                        "ko": {
-                            "title": "최신 {{응용 프로그램 개발}} 소개",
-                            "province": "NASSCOM",
-                            "country": "인도",
-                            "institution": "IIT Madras",
-                            "text": "IMAD(Introduction to Modern Application Development) 프로그램을 성공적으로 이수하였습니다. 이 과정에서는 최신 웹 애플리케이션 개발, 데이터베이스 아키텍처, 웹페이지 보안 및 최적화 기술을 다루었으며, 실습 프로젝트와 협업 과제를 통해 확장 가능하고 안전하며 고성능의 웹 솔루션 설계에 필요한 실무 경험을 제공하였습니다. 이를 통해 현대 개발 관행에 대한 탄탄한 기초를 마련하고, 업계에 관련된 도구와 기술을 익힐 수 있었습니다.",
-                            "list": [
-                                "팀 협업",
-                                "데이터베이스 설계",
-                                "확장 가능한 솔루션",
-                                "최신 웹 개발",
-                                "보안 및 최적화"
-                            ],
-                            "tags": [
-                                "IMAD",
-                                "Full-Stack 개발",
-                                "RESTful API",
-                                "반응형 디자인",
-                                "클라우드 인프라",
-                                "보안 모범 사례"
-                            ]
                         }
+                       
                     }
                 },
                 {
@@ -232,73 +150,8 @@
                                 "माइक्रोसर्विसेज",
                                 "प्रदर्शन अनुकूलन"
                             ]
-                        },
-                        "es": {
-                            "title": "Desarrollo FullStack con React y Node {{MERN}}",
-                            "province": "",
-                            "country": "Remoto",
-                            "institution": "Udemy",
-                            "text": "Completé con éxito un programa intensivo de Nanodegree enfocado en dominar el desarrollo full-stack a través de un proyecto de comercio electrónico real. Adquirí conocimientos profundos en diseño de interfaces de usuario, arquitectura de microservicios y optimización de rendimiento. Desarrollé sólidas habilidades en cobertura de pruebas unitarias, diseño de aplicaciones escalables y mejores prácticas para construir aplicaciones web dinámicas y robustas.",
-                            "list": [
-                                "Diseño de UI",
-                                "Arquitectura de Microservicios",
-                                "Optimización de Rendimiento",
-                                "Cobertura de Pruebas Unitarias",
-                                "Diseño de Aplicaciones Escalables"
-                            ],
-                            "tags": [
-                                "React",
-                                "Node.js",
-                                "FullStack",
-                                "MERN",
-                                "Microservicios",
-                                "Optimización de Rendimiento"
-                            ]
-                        },
-                        "fr": {
-                            "title": "Développement FullStack React Node {{MERN}}",
-                            "province": "",
-                            "country": "À distance",
-                            "institution": "Udemy",
-                            "text": "J'ai terminé avec succès un programme Nanodegree intensif axé sur la maîtrise du développement full-stack à travers un projet e-commerce réel. J'ai acquis des connaissances approfondies en conception d'interface utilisateur, architecture microservices et optimisation des performances. J'ai développé de solides compétences en couverture de tests unitaires, conception d'applications évolutives et bonnes pratiques pour créer des applications web dynamiques et robustes.",
-                            "list": [
-                                "Conception UI",
-                                "Architecture Microservices",
-                                "Optimisation des performances",
-                                "Couverture des tests unitaires",
-                                "Conception d'applications évolutives"
-                            ],
-                            "tags": [
-                                "React",
-                                "Node.js",
-                                "FullStack",
-                                "MERN",
-                                "Microservices",
-                                "Optimisation des performances"
-                            ]
-                        },
-                        "ko": {
-                            "title": "React Node 풀스택 개발 {{MERN}}",
-                            "province": "",
-                            "country": "원격",
-                            "institution": "Udemy",
-                            "text": "실제 전자상거래 프로젝트를 통해 풀스택 개발을 마스터하는 데 중점을 둔 집중형 나노디그리 프로그램을 성공적으로 이수하였습니다. UI 디자인, 마이크로서비스 아키텍처, 성능 최적화에 대한 심층적인 지식을 습득하였고, 단위 테스트 커버리지, 확장 가능한 애플리케이션 설계, 동적이고 견고한 웹 애플리케이션 구축을 위한 모범 사례에 대한 강력한 역량을 개발하였습니다.",
-                            "list": [
-                                "UI 디자인",
-                                "마이크로서비스 아키텍처",
-                                "성능 최적화",
-                                "단위 테스트 커버리지",
-                                "확장 가능한 애플리케이션 설계"
-                            ],
-                            "tags": [
-                                "React",
-                                "Node.js",
-                                "FullStack",
-                                "MERN",
-                                "마이크로서비스",
-                                "성능 최적화"
-                            ]
                         }
+                        
                     }
                 },
                 {
@@ -359,70 +212,8 @@
                                 "समस्या समाधान",
                                 "सॉफ़्टवेयर विकास"
                             ]
-                        },
-                        "es": {
-                            "title": "Programación, Estructuras de Datos y Algoritmos usando {{Python}}",
-                            "province": "NASSCOM",
-                            "country": "India",
-                            "institution": "IIT Madras",
-                            "text": "Completé el curso de Certificación en Línea NPTEL \"Programación, Estructuras de Datos y Algoritmos usando Python\". El curso abarcó fundamentos de Python, todos los temas principales de estructuras de datos y resolución algorítmica de problemas. Participé en tareas semanales de codificación, proyectos prácticos de programación y un bootcamp intensivo, adquiriendo experiencia práctica y habilidades colaborativas en desarrollo de software.",
-                            "list": [
-                                "Fundamentos de Python",
-                                "Estructuras de Datos",
-                                "Resolución Algorítmica de Problemas",
-                                "Proyectos Prácticos de Programación",
-                                "Desarrollo Colaborativo de Software"
-                            ],
-                            "tags": [
-                                "Python",
-                                "Estructuras de Datos",
-                                "Algoritmos",
-                                "Resolución de Problemas",
-                                "Desarrollo de Software"
-                            ]
-                        },
-                        "fr": {
-                            "title": "Programmation, structures de données et algorithmes avec {{Python}}",
-                            "province": "NASSCOM",
-                            "country": "Inde",
-                            "institution": "IIT Madras",
-                            "text": "J'ai suivi le cours de certification en ligne NPTEL « Programmation, structures de données et algorithmes avec Python ». Le cours couvrait les fondamentaux de Python, tous les principaux sujets sur les structures de données et la résolution algorithmique de problèmes. J'ai participé à des devoirs hebdomadaires de programmation, des projets pratiques et un bootcamp intensif, acquérant ainsi une expérience concrète et des compétences en développement logiciel collaboratif.",
-                            "list": [
-                                "Fondamentaux de Python",
-                                "Structures de données",
-                                "Résolution algorithmique de problèmes",
-                                "Projets pratiques de programmation",
-                                "Développement logiciel collaboratif"
-                            ],
-                            "tags": [
-                                "Python",
-                                "Structures de données",
-                                "Algorithmes",
-                                "Résolution de problèmes",
-                                "Développement logiciel"
-                            ]
-                        },
-                        "ko": {
-                            "title": "{{Python}}을 활용한 프로그래밍, 자료 구조 및 알고리즘",
-                            "province": "NASSCOM",
-                            "country": "인도",
-                            "institution": "IIT 마드라스",
-                            "text": "NPTEL 온라인 인증 과정 \"Programming, Data Structures, and Algorithms using Python\"을 성공적으로 이수하였습니다. 본 과정에서는 Python 기초, 주요 자료 구조 주제, 알고리즘 문제 해결을 다루었으며, 주간 코딩 과제, 실습 프로젝트, 집중 코딩 부트캠프에 참여하여 실무 경험과 협업 소프트웨어 개발 역량을 쌓았습니다.",
-                            "list": [
-                                "Python 기초",
-                                "자료 구조",
-                                "알고리즘 문제 해결",
-                                "실습 프로그래밍 프로젝트",
-                                "협업 소프트웨어 개발"
-                            ],
-                            "tags": [
-                                "Python",
-                                "자료 구조",
-                                "알고리즘",
-                                "문제 해결",
-                                "소프트웨어 개발"
-                            ]
                         }
+                        
                     }
                 },
                 {
@@ -660,82 +451,8 @@
                                 "एल्गोरिदम",
                                 "क्लाउड कंप्यूटिंग"
                             ]
-                        },
-                        "es": {
-                            "title": "{{Máster}} en Aplicaciones Informáticas",
-                            "province": "Pondicherry",
-                            "country": "India",
-                            "institution": "Universidad Central de Pondicherry",
-                            "text": "Completé mi máster en 2018, adquiriendo una sólida experiencia en [[desarrollo de software]], inteligencia artificial, algoritmos y despliegue. Desarrollé habilidades avanzadas a través de proyectos prácticos e investigación, aplicando tecnologías modernas para resolver problemas reales en estos campos. Las áreas clave de enfoque incluyeron:",
-                            "list": [
-                                "Desarrollo web",
-                                "Investigación innovadora en IA",
-                                "Algoritmos",
-                                "Computación en la nube",
-                                "Seguridad de redes",
-                                "Gestión de bases de datos",
-                                "Pruebas de software",
-                                "Desarrollo de aplicaciones móviles",
-                                "Sistemas distribuidos"
-                            ],
-                            "tags": [
-                                "Desarrollo de aplicaciones",
-                                "Visión por computadora",
-                                "Investigación en IA",
-                                "Algoritmos",
-                                "Computación en la nube"
-                            ]
-                        },
-                        "fr": {
-                            "title": "{{Master}} en Applications Informatiques",
-                            "province": "Pondichéry",
-                            "country": "Inde",
-                            "institution": "Université Centrale de Pondichéry",
-                            "text": "J'ai obtenu mon master en 2018, acquérant une solide expertise en [[développement logiciel]], intelligence artificielle, algorithmes et déploiement. J'ai développé des compétences avancées à travers des projets pratiques et de la recherche, en appliquant des technologies modernes pour résoudre des problèmes concrets dans ces domaines. Les principaux axes d'étude comprenaient :",
-                            "list": [
-                                "Développement web",
-                                "Recherche innovante en IA",
-                                "Algorithmes",
-                                "Informatique en nuage",
-                                "Sécurité des réseaux",
-                                "Gestion de bases de données",
-                                "Tests logiciels",
-                                "Développement d'applications mobiles",
-                                "Systèmes distribués"
-                            ],
-                            "tags": [
-                                "Développement d'applications",
-                                "Vision par ordinateur",
-                                "Recherche en IA",
-                                "Algorithmes",
-                                "Informatique en nuage"
-                            ]
-                        },
-                        "ko": {
-                            "title": "컴퓨터 응용 {{석사}}",
-                            "province": "폰디체리",
-                            "country": "인도",
-                            "institution": "폰디체리 중앙대학교",
-                            "text": "2018년에 석사 학위를 취득하였으며, [[소프트웨어 개발]], 인공지능, 알고리즘, 배포 분야에서 강한 전문성을 쌓았습니다. 실무 프로젝트와 연구를 통해 고급 기술을 개발하고, 최신 기술을 적용하여 실제 문제를 해결하였습니다. 주요 집중 분야는 다음과 같습니다:",
-                            "list": [
-                                "웹 개발",
-                                "혁신적인 AI 연구",
-                                "알고리즘",
-                                "클라우드 컴퓨팅",
-                                "네트워크 보안",
-                                "데이터베이스 관리",
-                                "소프트웨어 테스트",
-                                "모바일 애플리케이션 개발",
-                                "분산 시스템"
-                            ],
-                            "tags": [
-                                "애플리케이션 개발",
-                                "컴퓨터 비전",
-                                "AI 연구",
-                                "알고리즘",
-                                "클라우드 컴퓨팅"
-                            ]
                         }
+                        
                     }
                 },
                 {
@@ -804,82 +521,8 @@
                                 "क्लाउड परिनियोजन",
                                 "फॉग कंप्यूटिंग"
                             ]
-                        },
-                        "es": {
-                            "title": "Computación en la nube {{Desarrollo de Aplicaciones}}",
-                            "province": "NASSCOM",
-                            "country": "India",
-                            "institution": "IIT Kharagpur",
-                            "text": "Esta sesión ofreció una exploración profunda de la computación en la nube. Comenzó con una introducción a los principios fundamentales de la tecnología en la nube y sus diversas arquitecturas. La discusión continuó con la gestión de servicios, ofreciendo percepciones detalladas sobre el manejo de servicios basados en la nube, así como estrategias efectivas para la gestión de datos y recursos. Los participantes también adquirieron una comprensión integral de las medidas de seguridad en la nube. Además, la sesión exploró diferentes modelos de implementación de la nube y técnicas de simulación práctica, al mismo tiempo que destacó las tendencias emergentes en la investigación en el campo, incluido el innovador concepto de computación en la niebla.",
-                            "list": [
-                                "Principios fundamentales de la computación en la nube",
-                                "Diversas arquitecturas de tecnología en la nube",
-                                "Estrategias de gestión de servicios",
-                                "Gestión de datos y recursos",
-                                "Medidas integrales de seguridad en la nube",
-                                "Modelos de implementación de la nube",
-                                "Tendencias emergentes en la computación en la niebla"
-                            ],
-                            "tags": [
-                                "Computación en la Nube",
-                                "Arquitecturas Cloud",
-                                "Gestión de Servicios",
-                                "Gestión de Recursos",
-                                "Seguridad en la Nube",
-                                "Implementación en la Nube",
-                                "Computación en la Niebla"
-                            ]
-                        },
-                        "fr": {
-                            "title": "Informatique en nuage {{Développement d'Applications}}",
-                            "province": "NASSCOM",
-                            "country": "Inde",
-                            "institution": "IIT Kharagpur",
-                            "text": "Cette session a offert une exploration approfondie de l'informatique en nuage. Elle a débuté par une introduction aux principes fondamentaux de la technologie cloud et à ses différentes architectures. La discussion s'est ensuite orientée vers la gestion des services, offrant des perspectives détaillées sur la gestion des services cloud, ainsi que des stratégies efficaces de gestion des données et des ressources. Les participants ont également acquis une compréhension complète des mesures de sécurité dans le cloud. De plus, la session a exploré différents modèles de déploiement cloud et des techniques de simulation pratique, tout en mettant en avant les tendances émergentes de la recherche dans ce domaine, y compris le concept innovant de l'informatique en périphérie (fog computing).",
-                            "list": [
-                                "Principes fondamentaux de l'informatique en nuage",
-                                "Différentes architectures de technologies cloud",
-                                "Stratégies de gestion des services",
-                                "Gestion des données et des ressources",
-                                "Mesures de sécurité cloud complètes",
-                                "Modèles de déploiement cloud",
-                                "Tendances émergentes du fog computing"
-                            ],
-                            "tags": [
-                                "Informatique en nuage",
-                                "Architectures Cloud",
-                                "Gestion des services",
-                                "Gestion des ressources",
-                                "Sécurité Cloud",
-                                "Déploiement Cloud",
-                                "Fog Computing"
-                            ]
-                        },
-                        "ko": {
-                            "title": "클라우드 컴퓨팅 {{응용 프로그램 개발}}",
-                            "province": "NASSCOM",
-                            "country": "인도",
-                            "institution": "IIT Kharagpur",
-                            "text": "이 세션은 클라우드 컴퓨팅에 대한 심도 있는 탐구를 제공하였습니다. 이 세션은 클라우드 기술의 기본 원리와 다양한 아키텍처에 대한 소개로 시작되었습니다. 이후 논의는 클라우드 기반 서비스 관리로 이어지며, 클라우드 서비스를 관리하는 방법과 데이터 및 자원 관리에 대한 효과적인 전략에 대해 자세히 살펴보았습니다. 참가자들은 클라우드 보안 조치에 대한 종합적인 이해를 얻었습니다. 추가로, 이 세션은 다양한 클라우드 배포 모델과 실습 시뮬레이션 기법을 탐구하였으며, 혁신적인 개념인 포그 컴퓨팅을 포함하여 이 분야의 신흥 연구 동향을 부각시켰습니다.",
-                            "list": [
-                                "클라우드 컴퓨팅의 기본 원리",
-                                "다양한 클라우드 기술 아키텍처",
-                                "서비스 관리 전략",
-                                "데이터 및 자원 관리",
-                                "종합적인 클라우드 보안 조치",
-                                "클라우드 배포 모델",
-                                "신흥 포그 컴퓨팅 동향"
-                            ],
-                            "tags": [
-                                "클라우드 컴퓨팅",
-                                "클라우드 아키텍처",
-                                "서비스 관리",
-                                "자원 관리",
-                                "클라우드 보안",
-                                "클라우드 배포",
-                                "포그 컴퓨팅"
-                            ]
                         }
+                        
                     }
                 }
             ]
