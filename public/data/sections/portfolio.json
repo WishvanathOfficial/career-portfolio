@@ -45,90 +45,93 @@
                 {
                     "id": 1,
                     "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-3.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-bed-pulse",
+                    "faIconColors": {"bg": "#ff8100", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://www.elsevier.com/en-in/products/clinical-elearning", "tooltipString": "see_on_app_store", "faIcon": "fa-solid fa-globe"},
-                            {"href": "https://www.elseviertransitiontopractice.com/welcome", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-windows"}
+                            {"href": "https://www.elseviertransitiontopractice.com/welcome", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-1.png",
-                            "images/pictures/screenshot-demo-landscape-2.png",
-                            "images/pictures/screenshot-demo-landscape-3.png",
-                            "images/pictures/screenshot-demo-landscape-4.png",
-                            "images/pictures/screenshot-demo-landscape-5.png"
-                        ],
-                        "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=Xv93AoTOcYY"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Elsevier Transition to Practice",
-                            "text": "A <b>RESTful API</b> micro-services backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-                            "tags": ["API", "REST", "Backend"]
-                        }
-                        
-                    }
-                },
-                {
-                    "id": 2,
-                    "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-7.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "preview": {
-                        "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
-                        ],
-                        "screenshots": [
-                            "images/pictures/screenshot-demo-portrait-1.png",
-                            "images/pictures/screenshot-demo-portrait-2.png",
-                            "images/pictures/screenshot-demo-portrait-3.png",
-                            "images/pictures/screenshot-demo-portrait-4.png",
-                            "images/pictures/screenshot-demo-portrait-5.png",
-                            "images/pictures/screenshot-demo-portrait-6.png"
-                        ],
-                        "screenshotsAspectRatio": "9:16",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "MailM8",
-                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
-                        }
-                        
-                    }
-                },
-                {
-                    "id": 3,
-                    "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-6.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "preview": {
-                        "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
-                        ],
-                        "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-1.png",
-                            "images/pictures/screenshot-demo-landscape-2.png",
-                            "images/pictures/screenshot-demo-landscape-3.png",
-                            "images/pictures/screenshot-demo-landscape-4.png",
-                            "images/pictures/screenshot-demo-landscape-5.png"
+                             "images/pictures/Elsevier-project-01.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "Light Blue",
-                            "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
-                            "tags": ["React", "Organization", "Notes"]
+                            "title": "Elsevier Transition to Practice",
+                            "text": "An <b>enterprise clinical learning platform</b> designed to support healthcare professionals including nurses, clinicians, and physicians in delivering superior patient care through systematic skill development and practical training. The platform provides <b>comprehensive clinical skills training modules</b> covering both <b>clinical competencies</b> and <b>behavioral skills</b> essential for healthcare delivery. Features include <b>safe practice environments</b> where healthcare professionals can practice complex clinical procedures and interpersonal skills without risk to actual patients, enabling confidence-building before real-world patient care situations. The platform delivers <b>evidence-based educational content</b> developed in collaboration with clinical experts, providing structured learning pathways tailored to different professional roles and experience levels. Includes <b>interactive simulations</b>, <b>multimedia learning resources</b>, <b>competency assessments</b>, and <b>performance tracking</b> to ensure knowledge retention and skill mastery. Supports <b>continuing professional development</b> and <b>transition-to-practice programs</b> for new graduates and career transitions, enabling healthcare organizations to improve clinical outcomes, reduce patient safety incidents, and enhance workforce readiness.",
+                            "tags": ["Clinical Education", "Healthcare Training", "Simulation", "Clinical Skills", "Behavioral Skills", "Nursing Education", "Professional Development", "E-Learning", "Patient Safety", "Medical Practice"]
+                        },
+                        "hi": {
+                            "title": "एल्सेवियर ट्रांजिशन टू प्रेक्टिस",
+                            "text": "एक <b>एंटरप्राइज क्लिनिकल लर्निंग प्लेटफ़ॉर्म</b> जो स्वास्थ्य सेवा पेशेवरों, नर्सों, क्लिनिशियों और चिकित्सकों को व्यवस्थित कौशल विकास और व्यावहारिक प्रशिक्षण के माध्यम से उत्तम रोगी देखभाल प्रदान करने में समर्थन करते हैं। प्लेटफ़ॉर्म <b>व्यापक क्लिनिकल कौशल प्रशिक्षण मॉड्यूल</b> प्रदान करता है जिसमें <b>क्लिनिकल क्षमताएं</b> और <b>व्यावहारिक कौशल</b> दोनों स्वास्थ्य सेवा वितरण के लिए आवश्यक हैं। इसमें <b>सुरक्षित अभ्यास वातावरण</b> की विशेषताएं हैं जहां स्वास्थ्य सेवा पेशेवर जटिल क्लिनिकल प्रक्रियाओं और पारस्परिक कौशल का अभ्यास कर सकते हैं, वास्तविक मरीजों को जोखिम के बिना। प्लेटफ़ॉर्म <b>साक्ष्य-आधारित शैक्षणिक सामग्री</b> प्रदान करता है जिसे क्लिनिकल विशेषज्ञों के सहयोग से विकसित किया गया है, विभिन्न व्यावसायिक भूमिकाओं और अनुभव स्तरों के लिए तैयार किए गए संरचित शिक्षण मार्ग प्रदान करता है। इसमें <b>इंटरेक्टिव सिमुलेशन</b>, <b>मल्टीमीडिया लर्निंग संसाधन</b>, <b>क्षमता मूल्यांकन</b>, और <b>प्रदर्शन ट्रैकिंग</b> शामिल है ताकि ज्ञान प्रतिधारण और कौशल महारत सुनिश्चित की जा सके। <b>निरंतर व्यावसायिक विकास</b> और <b>संक्रमण-से-अभ्यास कार्यक्रम</b> का समर्थन करता है नए स्नातकों और कैरियर संक्रमण के लिए, स्वास्थ्य सेवा संगठनों को नैदानिक परिणामों में सुधार, रोगी सुरक्षा घटनाओं को कम करने, और कार्यबल तैयारी बढ़ाने में सक्षम बनाता है।",
+                            "tags": ["क्लिनिकल शिक्षा", "स्वास्थ्य प्रशिक्षण", "सिमुलेशन", "क्लिनिकल कौशल", "व्यावहारिक कौशल", "नर्सिंग शिक्षा", "व्यावसायिक विकास", "ई-लर्निंग", "रोगी सुरक्षा", "चिकित्सा अभ्यास"]
+                        }
+                        
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-person-through-window",
+                    "faIconColors": {"bg": "#0767d2", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.skillful.ly", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                             "images/pictures/SKillfully-project-01.png",
+                             "images/pictures/SKillfully-project-02.png",
+                             "images/pictures/SKillfully-project-03.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "HR Dashboard (Skillfully)",
+                            "text": "An enterprise-grade <b>skills-based hiring and talent acquisition platform</b> that transforms recruitment by replacing traditional resume-based evaluation with <b>demonstrated skill assessment</b> through role-specific simulations. The platform enables HR teams to evaluate candidates based on <b>actual job performance</b> rather than claims or keywords, significantly reducing hiring bias and time-to-fill. Key features include <b>role-specific simulation design</b> where candidates perform realistic work scenarios relevant to the position, <b>transparent performance-backed scoring</b> with clear reasoning for every recommendation, and <b>identity-blind evaluation</b> to eliminate unconscious bias. The platform provides <b>behavioral matching</b> capabilities that align candidate skills, thinking patterns, and execution styles with specific job requirements. Delivers measurable business outcomes including 50% faster time-to-fill, 74% reduction in cost-to-hire, 10x improvement in candidate conversion rates, and seamless <b>ATS integration</b> for enterprise-wide adoption. Supports high-volume talent teams with audit-ready results and consistent evaluation standards suitable for organizations scaling their recruitment processes.",
+                            "tags": ["Hiring Platform", "Recruitment", "Talent Acquisition", "Skills Assessment", "Behavioral Matching", "HR Technology", "Simulations", "Candidate Evaluation", "ATS Integration", "HR Dashboard"]
+                        },
+                        "hi": {
+                            "title": "एचआर डैशबोर्ड (स्किलफुली)",
+                            "text": "एक एंटरप्राइज-ग्रेड <b>कौशल-आधारित भर्ती और प्रतिभा अधिग्रहण प्लेटफ़ॉर्म</b> जो परंपरागत रिज्यूमे-आधारित मूल्यांकन को <b>प्रदर्शित कौशल मूल्यांकन</b> के साथ भूमिका-विशिष्ट सिमुलेशन के माध्यम से प्रतिस्थापित करके भर्ती में परिवर्तन करता है। यह प्लेटफ़ॉर्म एचआर टीमों को उम्मीदवारों का मूल्यांकन करने में सक्षम बनाता है जो दावों या कीवर्ड की बजाय <b>वास्तविक नौकरी प्रदर्शन</b> पर आधारित हैं, जिससे भर्ती पूर्वाग्रह और समय-से-भरण में काफी कमी आती है। मुख्य विशेषताओं में <b>भूमिका-विशिष्ट सिमुलेशन डिज़ाइन</b> शामिल है जहां उम्मीदवार स्थिति के लिए प्रासंगिक वास्तविक कार्य परिदृश्य निष्पादित करते हैं, <b>पारदर्शी प्रदर्शन-समर्थित स्कोरिंग</b> हर सिफारिश के पीछे स्पष्ट कारणों के साथ, और <b>पहचान-अंधा मूल्यांकन</b> अनजाने पूर्वाग्रह को समाप्त करने के लिए। प्लेटफ़ॉर्म <b>व्यावहारिक मिलान</b> क्षमताएं प्रदान करता है जो उम्मीदवार कौशल, सोच पैटर्न और निष्पादन शैलियों को विशिष्ट नौकरी आवश्यकताओं के साथ संरेखित करती हैं। 50% तेजी से समय-से-भरण, 74% लागत-से-भर्ती में कमी, उम्मीदवार रूपांतरण दरों में 10x सुधार, और एंटरप्राइज-व्यापी अपनाने के लिए निर्बाध <b>एटीएस एकीकरण</b> सहित औसत दर्जे के व्यावसायिक परिणाम प्रदान करता है। ऑडिट-तैयार परिणामों और सुसंगत मूल्यांकन मानकों के साथ उच्च-मात्रा प्रतिभा टीमों का समर्थन करता है।",
+                            "tags": ["भर्ती प्लेटफॉर्म", "भर्ती", "प्रतिभा अधिग्रहण", "कौशल मूल्यांकन", "व्यावहारिक मिलान", "एचआर प्रौद्योगिकी", "सिमुलेशन", "उम्मीदवार मूल्यांकन", "एटीएस एकीकरण", "एचआर डैशबोर्ड"]
+                        }
+                        
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-parachute-box",
+                    "faIconColors": {"bg": "#00c3ff", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.ofofo.ai", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                             "images/pictures/Ofofo-project-01.png",
+                             "images/pictures/Ofofo-project-02.png",
+                             "images/pictures/Ofofo-project-03.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Ofofo",
+                            "text": "An <b>enterprise-grade compliance and automation platform</b> utilizing <b>Agentic AI</b> to transform cybersecurity compliance from a sales roadblock into a revenue accelerator. The platform automates <b>security questionnaire responses</b>, <b>evidence collection</b>, and <b>compliance certification processes</b> for multiple frameworks including SOC 2, ISO 27001/42001, HIPAA, GDPR/CCPA, PCI-DSS, and NIST. Features <b>AI agents</b> that automatically scan cloud infrastructure, code repositories, identity systems, and documentation to generate accurate questionnaire responses in 5-15 minutes. Provides <b>dedicated vCISO support</b>, <b>human-in-the-loop workflows</b>, <b>continuous monitoring</b>, and <b>custom control mapping</b>. Reduces compliance workload by 80%, accelerates enterprise sales cycles, and enables companies to unlock top-tier customers with faster certification and credibility.",
+                            "tags": ["Compliance Automation", "Cybersecurity", "Agentic AI", "SOC 2", "ISO", "HIPAA", "Enterprise", "RFP Automation", "Questionnaire AI", "Risk Management"]
+                        },
+                        "hi": {
+                            "title": "ओफोफो",
+                            "text": "एक <b>एंटरप्राइज-ग्रेड अनुपालन और स्वचालन प्लेटफ़ॉर्म</b> जो <b>एजेंटिक एआई</b> का उपयोग करके साइबर सुरक्षा अनुपालन को बिक्री बाधा से राजस्व त्वरक में रूपांतरित करता है। यह प्लेटफ़ॉर्म <b>सुरक्षा प्रश्नावली प्रतिक्रियाओं</b>, <b>साक्ष्य संग्रह</b>, और <b>अनुपालन प्रमाणन प्रक्रियाओं</b> को SOC 2, ISO 27001/42001, HIPAA, GDPR/CCPA, PCI-DSS, और NIST सहित कई ढांचों के लिए स्वचालित करता है। <b>एआई एजेंट</b> की सुविधा प्रदान करता है जो क्लाउड इन्फ्रास्ट्रक्चर, कोड रिपॉजिटरी, पहचान प्रणाली, और दस्तावेज़ों को स्वचालित रूप से स्कैन करते हैं। <b>समर्पित वीसीआईएसओ समर्थन</b>, <b>मानव-लूप वर्कफ़्लो</b>, <b>निरंतर निगरानी</b>, और <b>कस्टम नियंत्रण मानचित्रण</b> प्रदान करता है। अनुपालन कार्यभार 80% कम करता है, एंटरप्राइज बिक्री चक्र में तेजी लाता है, और कंपनियों को तेजी से प्रमाणीकरण और विश्वसनीयता के साथ शीर्ष-स्तरीय ग्राहकों को अनलॉक करने में सक्षम बनाता है।",
+                            "tags": ["अनुपालन स्वचालन", "साइबर सुरक्षा", "एजेंटिक एआई", "SOC 2", "ISO", "HIPAA", "एंटरप्राइज", "RFP स्वचालन", "प्रश्नावली एआई", "जोखिम प्रबंधन"]
                         }
                         
                     }
@@ -136,50 +139,64 @@
                 {
                     "id": 4,
                     "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-1.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-shield-halved",
+                    "faIconColors": {"bg": "#c000ff", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://cash.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            {"href": "https://paygilant.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
-
+                             "images/pictures/Paygilant-project-01.png",
+                             "images/pictures/Paygilant-project-02.png",
+                             "images/pictures/Paygilant-project-03.png"
                         ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "SmartCash",
-                            "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
-                            "tags": ["Next.js", "Finance", "Money"]
+                            "title": "Paygilant",
+                            "text": "An <b>enterprise-grade fraud management system</b> designed for banking, fintech, and payment institutions implementing <b>risk-based fraud prevention</b> strategies. The platform employs advanced <b>intelligence sets</b> that analyze behavioral patterns and transaction attributes to distinguish between legitimate and fraudulent activities in real-time. Features seamless <b>data integration</b> from multiple sources with <b>continuous monitoring</b> to identify emerging fraud trends and high-risk behavioral patterns. Delivers <b>frictionless authentication</b> without compromising user experience, <b>immediate fraud detection</b> from day one, rapid implementation within days, and dedicated managed services with deep industry expertise.",
+                            "tags": ["Fintech", "Fraud Detection", "Risk-based", "Real-time Monitoring", "Banking", "Security", "Data Integration", "Compliance"]
+                        },
+                        "hi": {
+                            "title": "पेगिलेंट",
+                            "text": "बैंकिंग, फिनटेक और भुगतान संस्थानों के लिए एक <b>एंटरप्राइज-ग्रेड धोखाधड़ी प्रबंधन प्रणाली</b> जो <b>जोखिम-आधारित धोखाधड़ी रोकथाम</b> रणनीतियों को लागू करती है। यह प्लेटफ़ॉर्म उन्नत <b>बुद्धिमत्ता सेट</b> का उपयोग करता है जो व्यावहारिक पैटर्न और लेनदेन विशेषताओं का विश्लेषण करके वास्तविक समय में वैध और धोखाधड़ी गतिविधियों के बीच अंतर करता है। कई स्रोतों से निर्बाध <b>डेटा एकीकरण</b> और <b>निरंतर निगरानी</b> के साथ उभरती धोखाधड़ी प्रवृत्तियों और उच्च-जोखिम व्यावहारिक पैटर्न की पहचान करता है। <b>घर्षण-रहित प्रमाणीकरण</b>, तत्काल धोखाधड़ी का पता लगाना, दिनों में तीव्र कार्यान्वयन, और गहरी उद्योग विशेषज्ञता के साथ समर्पित प्रबंधित सेवाएं प्रदान करता है।",
+                            "tags": ["फिनटेक", "धोखाधड़ी का पता लगाना", "जोखिम-आधारित", "वास्तविक समय निगरानी", "बैंकिंग", "सुरक्षा", "डेटा एकीकरण", "अनुपालन"]
                         }
                        
                     }
                 },
                 {
                     "id": 5,
-                    "categoryId": "category_apps",
-                    "img": "images/pictures/portfolio-project-logo-2.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-futbol",
+                    "faIconColors": {"bg": "#ffcb00", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
+                            {"href": "https://aleagues.com.au", "tooltipString": "see_on_app_store", "faIcon": "fa-solid fa-globe"},
+                            {"href": "https://aleagues.com.au", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-windows"}
                         ],
                         "screenshots": [
-
+                            "images/pictures/Apl-project-01.png",
+                            "images/pictures/Apl-project-02.png",
+                            "images/pictures/Apl-project-03.png"
                         ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": "https://aleagues.com.au/videos/id/goal-by-sander-kartum/6392594795112/"
                     },
                     "locales": {
                         "en": {
-                            "title": "Snappy",
-                            "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
-                            "tags": ["Swift", "Photography", "Camera"]
+                            "title": "APL (Australian Premier League)",
+                            "text": "A comprehensive professional football league management platform for the <b>Australian Premier Leagues</b>, overseeing both the <b>A-League Men</b> and <b>A-League Women</b> competitions. The platform manages multiple elite football clubs across Australia and New Zealand, including teams such as Brisbane Roar, Melbourne City, Melbourne Victory, Sydney FC, Western Sydney Wanderers, and others. APL serves as the central hub for player development, career progression tracking, and facilitates <b>talent pipeline management</b> connecting emerging players to the global football stage. The system features <b>digital engagement platforms</b> including mobile applications, live streaming services, ticketing and membership management, and comprehensive statistics and performance analytics. Additionally, the platform maintains an <b>A-Leagues Alumni network</b> that tracks and celebrates players who have progressed through the league and achieved success internationally, including national team selections and global club transfers.",
+                            "tags": ["Football", "Soccer", "Sports Management", "League Management", "A-League", "Australia", "Professional Sports", "Sports Analytics", "Digital Platform", "Team Management"]
+                        },
+                        "hi": {
+                            "title": "एपीएल (ऑस्ट्रेलियन प्रीमियर लीग)",
+                            "text": "एक व्यापक पेशेवर फुटबॉल लीग प्रबंधन प्लेटफ़ॉर्म जो <b>ऑस्ट्रेलियन प्रीमियर लीग्स</b> को देखभाल करता है, <b>ए-लीग मेन</b> और <b>ए-लीग महिलाएं</b> दोनों प्रतियोगिताओं का प्रबंधन करता है। यह प्लेटफ़ॉर्म ऑस्ट्रेलिया और न्यूजीलैंड भर में कई एलीट फुटबॉल क्लबों को प्रबंधित करता है, जिसमें ब्रिसबेन रोअर, मेलबर्न सिटी, मेलबर्न विक्ट्री, सिडनी एफसी, वेस्टर्न सिडनी वांडरर्स और अन्य टीमें शामिल हैं। एपीएल खिलाड़ी विकास, कैरियर प्रगति ट्रैकिंग और सामर्थ्य पाइपलाइन प्रबंधन के लिए केंद्रीय केंद्र के रूप में कार्य करता है जो उभरते खिलाड़ियों को वैश्विक फुटबॉल मंच से जोड़ता है। सिस्टम में <b>डिजिटल एनगेजमेंट प्लेटफॉर्म</b> शामिल हैं जिसमें मोबाइल एप्लिकेशन, लाइव स्ट्रीमिंग सेवाएं, टिकिटिंग और सदस्यता प्रबंधन, और व्यापक आंकड़े और प्रदर्शन विश्लेषण शामिल हैं। इसके अलावा, प्लेटफ़ॉर्म एक <b>ए-लीग्स एलुमनाई नेटवर्क</b> बनाए रखता है जो उन खिलाड़ियों को ट्रैक और मनाता है जो लीग के माध्यम से प्रगति कर गए हैं और अंतर्राष्ट्रीय स्तर पर सफलता प्राप्त की है, जिसमें राष्ट्रीय टीम चयन और वैश्विक क्लब हस्तांतरण शामिल हैं।",
+                            "tags": ["फुटबॉल", "सॉकर", "खेल प्रबंधन", "लीग प्रबंधन", "ए-लीग", "ऑस्ट्रेलिया", "पेशेवर खेल", "खेल विश्लेषण", "डिजिटल प्लेटफॉर्म", "टीम प्रबंधन"]
                         }
                         
                     }
@@ -187,12 +204,12 @@
                 {
                     "id": 6,
                     "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-5.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-arrow-trend-up",
+                    "faIconColors": {"bg": "#ff4400", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            
                         ],
                         "screenshots": [
 
@@ -202,9 +219,14 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Sweet Scoops",
-                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-                            "tags": ["WooCommerce", "Food", "Desserts"]
+                            "title": "Xchange Monster",
+                            "text": "A <b>blockchain-based cryptocurrency trading platform</b> engineered for optimal execution efficiency and market accessibility. The platform delivers <b>lightning-fast transactions</b> with minimized latency optimization, ensuring traders receive accurate real-time pricing and optimal deal execution across multiple digital asset classes. Xchange Monster supports trading of major cryptocurrencies including <b>Bitcoin, Ethereum, Litecoin</b>, and numerous alternative digital currencies, providing comprehensive market exposure. The platform features <b>real-time price feeds</b>, advanced order management, volatile market monitoring, and secure wallet integration. By combining blockchain technology with high-performance transaction processing, Xchange Monster enables both novice and experienced traders to capitalize on cryptocurrency market opportunities while maintaining transparency and security in every transaction.",
+                            "tags": ["Blockchain", "Cryptocurrency", "Bitcoin", "Ethereum", "Trading", "Fintech", "Real-time", "Digital Currency", "E-commerce", "High-Performance"]
+                        },
+                        "hi": {
+                            "title": "एक्सचेंज मॉन्स्टर",
+                            "text": "एक <b>ब्लॉकचेन-आधारित क्रिप्टोकरेंसी ट्रेडिंग प्लेटफ़ॉर्म</b> जिसे इष्टतम निष्पादन दक्षता और बाजार पहुंच के लिए डिज़ाइन किया गया है। यह प्लेटफ़ॉर्म <b>तेज लेनदेन</b> के साथ न्यूनतम विलंबता अनुकूलन प्रदान करता है, जिससे व्यापारियों को कई डिजिटल परिसंपत्ति वर्गों में वास्तविक समय में सटीक मूल्य निर्धारण और इष्टतम डील निष्पादन मिलता है। एक्सचेंज मॉन्स्टर <b>बिटकॉइन, एथेरियम, लाइटकॉइन</b> और कई अन्य डिजिटल मुद्राओं की ट्रेडिंग का समर्थन करता है, जिससे व्यापक बाजार जोखिम मिलता है। प्लेटफ़ॉर्म में <b>वास्तविक समय मूल्य फीड, उन्नत ऑर्डर प्रबंधन, अस्थिर बाजार निगरानी, और सुरक्षित वॉलेट एकीकरण</b> शामिल है। ब्लॉकचेन तकनीक को उच्च-प्रदर्शन लेनदेन प्रसंस्करण के साथ मिलाकर, एक्सचेंज मॉन्स्टर शुरुआती और अनुभवी व्यापारियों दोनों को क्रिप्टोकरेंसी बाजार के अवसरों का लाभ उठाने में सक्षम बनाता है जबकि हर लेनदेन में पारदर्शिता और सुरक्षा बनाए रखता है।",
+                            "tags": ["ब्लॉकचेन", "क्रिप्टोकरेंसी", "बिटकॉइन", "एथेरियम", "ट्रेडिंग", "फिनटेक", "वास्तविक समय", "डिजिटल मुद्रा", "ई-कॉमर्स", "उच्च-प्रदर्शन"]
                         }
                         
                     }
@@ -213,11 +235,11 @@
                     "id": 7,
                     "categoryId": "category_web",
                     "img": "",
-                    "faIcon": "fa-solid fa-guitar",
-                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "faIcon": "fa-solid fa-industry",
+                    "faIconColors": {"bg": "#ffb700", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                            
                         ],
                         "screenshots": [
 
@@ -227,9 +249,14 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+                            "title": "Millet Products E-commerce",
+                            "text": "A location-based e-commerce and analytics platform designed to bridge buyers and sellers in the millet products marketplace. The platform serves as an initial engagement and transaction hub that enables producers, traders, and consumers to discover, compare, and transact millet products across geographical regions. The system features <b>role-based dashboards</b> for both buyers and sellers providing location-wise product visibility, <b>market analytics</b>, pricing trends, inventory management, and demand insights. The platform facilitates <b>direct buyer-seller connectivity</b> while maintaining location-based product categorization, helping optimize supply chain efficiency and supporting sustainable agriculture through increased market access for millet producers.",
+                            "tags": ["E-commerce", "Analytics", "Dashboard", "Marketplace", "Millet", "Agriculture", "Location-based", "Buyer-Seller Platform", "Market Analytics", "Node.js", "React"]
+                        },
+                        "hi": {
+                            "title": "बाजरा उत्पाद ई-कॉमर्स",
+                            "text": "एक स्थान-आधारित ई-कॉमर्स और विश्लेषण प्लेटफ़ॉर्म जिसे बाजरा उत्पाद बाजार में खरीदारों और विक्रेताओं को जोड़ने के लिए डिज़ाइन किया गया है। यह प्लेटफ़ॉर्म एक प्रारंभिक सहभागिता और लेनदेन केंद्र के रूप में कार्य करता है जो उत्पादकों, व्यापारियों और उपभोक्ताओं को भौगोलिक क्षेत्रों में बाजरा उत्पादों की खोज, तुलना और लेनदेन करने में सक्षम बनाता है। यह सिस्टम खरीदारों और विक्रेताओं दोनों के लिए <b>भूमिका-आधारित डैशबोर्ड</b> प्रदान करता है जो स्थान-वार उत्पाद दृश्यता, <b>बाजार विश्लेषण</b>, मूल्य निर्धारण प्रवृत्तियां, इन्वेंटरी प्रबंधन और मांग अंतर्दृष्टि प्रदान करता है। यह प्लेटफ़ॉर्म <b>सीधे खरीदार-विक्रेता कनेक्टिविटी</b> को सुविधाजनक बनाता है जबकि स्थान-आधारित उत्पाद वर्गीकरण को बनाए रखता है, जिससे आपूर्ति श्रृंखला दक्षता को अनुकूलित करने और बाजरा उत्पादकों के लिए बाजार पहुंच बढ़ाकर टिकाऊ कृषि का समर्थन करने में मदद मिलती है।",
+                            "tags": ["ई-कॉमर्स", "विश्लेषण", "डैशबोर्ड", "बाजार", "बाजरा", "कृषि", "स्थान-आधारित", "खरीदार-विक्रेता मंच", "बाजार विश्लेषण", "Node.js", "React"]
                         }
                         
                     }
@@ -237,9 +264,9 @@
                 {
                     "id": 8,
                     "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-4.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
+                    "img": "",
+                    "faIcon": "fa-solid fa-virus-covid",
+                    "faIconColors": {"bg": "#8800ff", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
 
@@ -248,13 +275,18 @@
 
                         ],
                         "screenshotsAspectRatio": "",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0"
+                        "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "Soccer Analytics",
-                            "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
-                            "tags": ["AI", "Prediction", "Soccer"]
+                            "title": "Arunachal Covid-19 Monitoring Dashboard",
+                            "text": "A government public health platform for Arunachal Pradesh integrating a <b>mobile app</b> for field health screening with a web analytics dashboard. Features real-time data synchronization, <b>color-coded alert zones</b> (Green, Yellow, Red) for risk stratification, and comprehensive analytics including scan statistics, confirmed cases, and affected demographics. The system provides an interactive <b>geospatial map view</b> displaying district-wise case distribution, hotspot identification, and centralized access to emergency support resources.",
+                            "tags": ["React", "Node.js", "Covid-19", "Dashboard", "Analytics", "Mobile App", "Geospatial", "Public Health", "Government", "Healthcare"]
+                        },
+                        "hi": {
+                            "title": "अरुणाचल प्रदेश कोविड-19 मॉनिटरिंग डैशबोर्ड",
+                            "text": "अरुणाचल प्रदेश के लिए एक सरकारी जन स्वास्थ्य प्लेटफ़ॉर्म जो क्षेत्र में स्वास्थ्य जांच के लिए <b>मोबाइल ऐप</b> को वेब विश्लेषण डैशबोर्ड के साथ एकीकृत करता है। इसमें वास्तविक समय डेटा सिंक्रोनाइजेशन, <b>रंग-कोडित अलर्ट जोन</b> (हरा, पीला, लाल) जोखिम स्तरीकरण के लिए, और स्कैन आंकड़े, पुष्टि किए गए मामले और प्रभावित जनसंख्या जनांकिकी सहित व्यापक विश्लेषण शामिल हैं। प्रणाली एक इंटरेक्टिव <b>भौगोलिक मानचित्र दृश्य</b> प्रदान करती है जो जिला-वार केस वितरण, हॉटस्पॉट पहचान, और आपातकालीन सहायता संसाधनों तक केंद्रीकृत पहुंच दर्शाती है।",
+                            "tags": ["React", "Node.js", "Covid-19", "डैशबोर्ड", "विश्लेषण", "मोबाइल ऐप", "भौगोलिक", "जन स्वास्थ्य", "सरकार", "स्वास्थ्यसेवा"]
                         }
                         
                     }
@@ -263,13 +295,58 @@
                     "id": 9,
                     "categoryId": "category_apps",
                     "img": "",
-                    "faIcon": "fa-solid fa-leaf",
-                    "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
+                    "faIcon": "fa-solid fa-map-location",
+                    "faIconColors": {"bg": "#fb8071", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"},
-                            {"href": "https://windows.com", "tooltipString": "see_on_windows_store", "faIcon": "fa-brands fa-windows"}
+                            
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Sahyog",
+                            "text": "Sahyog is a comprehensive mobile geospatial data collection and management platform developed for Survey of India to systematically gather agricultural and cultivable land data across India. The application enables field surveyors and data collectors to pinpoint precise locations on interactive maps, document site-specific agricultural information (farm details, land characteristics), and capture photographic evidence of surveyed locations. The platform features an advanced web analytics dashboard that aggregates, visualizes, and analyzes collected geospatial data at district and state levels, providing actionable insights for agricultural planning, land resource assessment, policy formulation, and national agricultural surveys.",
+                            "tags": [
+                                "React",
+                                "React Native",
+                                "Node.js",
+                                "PostgreSQL",
+                                "Geospatial",
+                                "Agriculture",
+                                "Data Collection",
+                                "Government"
+                            ]
+                        },
+                        "hi": {
+                            "title": "सहयोग",
+                            "text": "सहयोग एक व्यापक मोबाइल भौगोलिक डेटा संग्रह और प्रबंधन प्लेटफ़ॉर्म है जिसे भारत में सर्वेक्षण के लिए विकसित किया गया है ताकि भारत भर में कृषि और खेती योग्य भूमि डेटा को व्यवस्थित रूप से एकत्र किया जा सके। यह एप्लिकेशन क्षेत्र सर्वेयरों और डेटा कलेक्टर्स को इंटरैक्टिव मानचित्रों पर सटीक स्थानों को चिह्नित करने, साइट-विशिष्ट कृषि जानकारी (खेत विवरण, भूमि विशेषताएं) को दस्तावेज़ करने, और सर्वेक्षण किए गए स्थानों की फोटोग्राफिक साक्ष्य कैप्चर करने में सक्षम बनाता है। इस प्लेटफ़ॉर्म में एक उन्नत वेब एनालिटिक्स डैशबोर्ड है जो एकत्र किए गए भौगोलिक डेटा को जिला और राज्य स्तर पर समेकित, विज़ुअलाइज़, और विश्लेषण करता है, जिससे कृषि योजना, भूमि संसाधन मूल्यांकन, नीति निर्माण, और राष्ट्रीय कृषि सर्वेक्षण के लिए क्रियाशील अंतर्दृष्टि प्रदान करता है।",
+                            "tags": [
+                                "React",
+                                "React Native",
+                                "Node.js",
+                                "PostgreSQL",
+                                "भौगोलिक",
+                                "कृषि",
+                                "डेटा संग्रह",
+                                "सरकार"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "categoryId": "category_apps",
+                    "img": "",
+                    "faIcon": "fa-solid fa-leaf",
+                    "faIconColors": {"bg": "#009c00", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            
                         ],
                         "screenshots": [
 
@@ -289,20 +366,30 @@
                                 "Agriculture",
                                 "Monitoring"
                             ]
+                        },
+                        "hi": {
+                            "title": "क्रॉप स्काउट",
+                            "text": "क्रॉप स्काउट एक उन्नत कृषि-विश्लेषण प्लेटफ़ॉर्म है जिसे किसानों, कृषि व्यवसायों, और नीति निर्माताओं को बेहतर फसल प्रबंधन और निर्णय लेने के लिए वास्तविक समय, डेटा-संचालित अंतर्दृष्टि प्रदान करने के लिए डिज़ाइन किया गया है। उपग्रह डेटा, एआई-चालित विश्लेषण, और मौसम बुद्धिमत्ता को संयोजित करके, क्रॉप स्काउट क्षेत्रों में कृषि प्रदर्शन का एक व्यापक दृश्य प्रदान करता है। प्लेटफ़ॉर्म में फसल स्वास्थ्य निगरानी, उपज भविष्यवाणी, और कीट/रोग पहचान जैसी विशेषताएं शामिल हैं, जो उपयोगकर्ताओं को अपनी खेती के अभ्यास को अनुकूलित करने और उत्पादकता में सुधार करने में सक्षम बनाती हैं।",
+                            "tags": [
+                                "React",
+                                "React Native",
+                                "Node.js",
+                                "PostgreSQL",
+                                "कृषि",
+                                "निगरानी"
+                            ]
                         }
                     }
                 },
                 {
-                    "id": 10,
+                    "id": 11,
                     "categoryId": "category_apps",
                     "img": "",
                     "faIcon": "fa-solid fa-tractor",
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"},
-                            {"href": "https://windows.com", "tooltipString": "see_on_windows_store", "faIcon": "fa-brands fa-windows"}
+                            
                         ],
                         "screenshots": [
 
@@ -322,6 +409,18 @@
                                 "Agriculture",
                                 "Monitoring"
                             ]
+                        },
+                        "hi": {
+                            "title": "फार्म विजिल",
+                            "text": "फार्म विजिल एक बुद्धिमान डिजिटल कृषि प्लेटफ़ॉर्म है जिसे किसानों को वास्तविक समय में जानकारी, खेत स्तर की निगरानी और पोस्ट-हार्वेस्ट मार्केट कनेक्टिविटी प्रदान करने के लिए डिज़ाइन किया गया है - सभी एकीकृत डैशबोर्ड में। यह अंत-टू-एंड फार्म प्रबंधन का समर्थन करने के लिए बनाया गया है, फार्म विजिल किसानों को बुवाई से बिक्री तक डेटा-संचालित निर्णय लेने में मदद करता है। फ़ीचर्स जैसे कि फसल स्वास्थ्य निगरानी, उपज भविष्यवाणी, और बाजार मूल्य ट्रैकिंग के साथ, फार्म विजिल किसानों को अपने संचालन को अनुकूलित करने, उत्पादकता बढ़ाने, और बेहतर बाजार पहुंच के लिए सीधे खरीदारों से जुड़ने में सक्षम बनाता है।",
+                            "tags": [
+                                "React",
+                                "React Native",
+                                "Node.js",
+                                "PostgreSQL",
+                                "कृषि",
+                                "निगरानी"
+                            ]
                         }
                     }
                 }
@@ -329,3 +428,5 @@
         }
     ]
 }
+
+
