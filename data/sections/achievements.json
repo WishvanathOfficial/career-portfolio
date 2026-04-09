@@ -32,76 +32,80 @@
                 {
                     "id": 1,
                     "img": "",
-                    "faIcon": "fa-solid fa-life-ring",
+                    "faIcon": "fa-solid fa-laptop-code",
                     "faIconColors": {"bg": "#326CE5", "fill": "#EEE"},
-                    "date": {"year": 2020, "month": 12},
-                    "link": {"href": "https://www.linuxfoundation.org/", "tooltipString": "see_certification"},
+                    "date": {"year": 2019, "month": 6},
+                    "link": {"href": "https://www.udemy.com/", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "The {{Linux Foundation}}",
-                            "text": "Certified Kubernetes Administrator (CKA)"
+                            "title": "React Node FullStack development {{MERN}}",
+                            "text": "Certified by Udemy for completing a comprehensive course on full-stack development using the MERN stack (MongoDB, Express.js, React, Node.js). This certification validates my skills in building modern web applications and demonstrates my commitment to continuous learning in the field of software development."
                         },
                         "hi": {
-                            "title": "{{Linux Foundation}}",
-                            "text": "सर्टिफाइड क्यूबर्नेट्स एडमिनिस्ट्रेटर (CKA)"
+                            "title": "React Node FullStack विकास {{MERN}}",
+                            "text": "MERN स्टैक (MongoDB, Express.js, React, Node.js) का उपयोग करके पूर्ण-स्टैक विकास पर एक व्यापक पाठ्यक्रम पूरा करने के लिए Udemy द्वारा प्रमाणित। यह प्रमाणपत्र आधुनिक वेब अनुप्रयोग बनाने में मेरी क्षमताओं को मान्य करता है और सॉफ्टवेयर विकास के क्षेत्र में निरंतर सीखने के प्रति मेरी प्रतिबद्धता को दर्शाता है।"
                         }
+
                     }
                 },
 
                 {
                     "id": 2,
                     "img": "",
-                    "faIcon": "fa-brands fa-aws",
+                    "faIcon": "fa-solid fa-database",
                     "faIconColors": {"bg": "#FFD700", "fill": "#111"},
-                    "date": {"year": 2021, "month": 5},
-                    "link": {"href": "https://www.aws.com/", "tooltipString": "see_certification"},
+                    "date": {"year": 2017, "month": 4},
+                    "link": {"href": "https://nptel.ac.in/courses/106105167", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{Amazon}} Web Services",
-                            "text": "AWS Certified Solutions Architect – Associate"
+                            "title": "Cloud computing {{Application Development}}",
+                            "text": "This session provided an in-depth exploration of cloud computing. It began with an introduction to the fundamental principles of cloud technology and its various architectures. The discussion then moved to service management, offering detailed insights into managing cloud-based services, as well as effective strategies for data and resource management. Participants also gained a comprehensive understanding of cloud security measures. In addition, the session explored different cloud deployment models and hands-on simulation techniques, while highlighting emerging research trends in the field, including the innovative concept of fog computing."
                         },
                         "hi": {
-                            "title": "{{Amazon}} Web Services",
-                            "text": "AWS सर्टिफाइड सॉल्यूशंस आर्किटेक्ट – एसोसिएट"
+                            "title": "क्लाउड कंप्यूटिंग {{एप्लिकेशन विकास}}",
+                            "text": "इस सत्र ने क्लाउड कंप्यूटिंग की गहन खोज प्रदान की। यह क्लाउड तकनीक के मूल सिद्धांतों और इसकी विभिन्न आर्किटेक्चर के परिचय के साथ शुरू हुआ। चर्चा फिर सेवा प्रबंधन की ओर बढ़ी, जिसमें क्लाउड-आधारित सेवाओं का प्रबंधन करने के लिए विस्तृत अंतर्दृष्टि प्रदान की गई, साथ ही डेटा और संसाधन प्रबंधन के लिए प्रभावी रणनीतियाँ भी प्रदान की गईं। प्रतिभागियों को क्लाउड सुरक्षा उपायों की व्यापक समझ भी प्राप्त हुई। इसके अलावा, सत्र ने विभिन्न क्लाउड तैनाती मॉडल और हाथों-हाथ सिमुलेशन तकनीकों का अन्वेषण किया, जबकि इस क्षेत्र में उभरते हुए अनुसंधान रुझानों को उजागर किया, जिसमें फॉग कंप्यूटिंग की अभिनव अवधारणा भी शामिल है।"
                         }
+
                     }
                 },
 
                 {
                     "id": 3,
                     "img": "",
-                    "faIcon": "fa-brands fa-java",
+                    "faIcon": "fa-brands fa-python",
                     "faIconColors": {"bg": "#007396", "fill": "#EEE"},
-                    "date": {"year": 2022, "month": 5},
-                    "link": {"href": "https://www.oracle.com/", "tooltipString": "see_certification"},
+                    "date": {"year": 2017, "month": 3},
+                    "link": {"href": "https://nptel.ac.in/courses/106106145", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{Oracle}}",
-                            "text": "Certified Java Developer"
+                            "title": "Programming, Data Structures, and Algorithms using {{Python}}",
+                            "text": "Completed the NPTEL Online Certification course \"Programming, Data Structures, and Algorithms using Python.\" The course covered Python fundamentals, all major data structure topics, and algorithmic problem-solving. Participated in weekly coding assignments, hands-on programming projects, and an intensive coding boot camp, gaining practical experience and collaborative software development skills."
                         },
                         "hi": {
-                            "title": "{{Oracle}}",
-                            "text": "सर्टिफाइड जावा डेवलपर"
+                            "title": "{प्रोग्रामिंग, डेटा संरचनाएं, और एल्गोरिदम का उपयोग करके {{Python}}",
+                            "text": "NPTEL ऑनलाइन प्रमाणन पाठ्यक्रम \"प्रोग्रामिंग, डेटा संरचनाएं, और एल्गोरिदम का उपयोग करके Python\" पूरा किया। इस पाठ्यक्रम में Python के मूल सिद्धांतों, सभी प्रमुख डेटा संरचना विषयों, और एल्गोरिदमिक समस्या-समाधान को शामिल किया गया था। साप्ताहिक कोडिंग असाइनमेंट्स, हाथों-हाथ प्रोग्रामिंग परियोजनाओं, और एक गहन कोडिंग बूट कैंप में भाग लिया, जिससे व्यावहारिक अनुभव और सहयोगी सॉफ्टवेयर विकास कौशल प्राप्त हुए।"
                         }
+
                     }
                 },
 
                 {
                     "id": 4,
                     "img": "",
-                    "faIcon": "fa-solid fa-database",
+                    "faIcon": "fa-solid fa-computer",
                     "faIconColors": {"bg": "#47A248", "fill": "#EEE"},
-                    "date": {"year": 2023, "month": 8},
-                    "link": {"href": "https://www.mongodb.com/", "tooltipString": "see_certification"},
+                    "date": {"year": 2016, "month": 6},
+                    "link": {"href": "https://nptel.ac.in/courses/106106156", "tooltipString": "see_certification"},
                     "locales": {
                         "en": {
-                            "title": "{{MongoDB}} University",
-                            "text": "MongoDB Certified Developer"
+                            "title": "Introduction to Modern {{Application Development}}",
+                            "text": "Successfully completed the Introduction to Modern Application Development (IMAD) program, which covered building modern web applications, database architecture, webpage security, and optimization techniques. The course included hands-on projects and collaborative assignments, providing practical experience in designing scalable, secure, and high-performance web solutions. Developed a strong foundation in modern development practices and gained exposure to industry-relevant tools and technologies."
                         },
                         "hi": {
-                            "title": "{{MongoDB}} यूनिवर्सिटी",
-                            "text": "MongoDB सर्टिफाइड डेवलपर"
-                        }
+                            "title": "{आधुनिक {{एप्लिकेशन विकास}} का परिचय",
+                            "text": "आधुनिक एप्लिकेशन विकास (IMAD) कार्यक्रम को सफलतापूर्वक पूरा किया, जिसमें आधुनिक वेब अनुप्रयोगों का निर्माण, डेटाबेस आर्किटेक्चर, वेबपेज सुरक्षा, और अनुकूलन तकनीकों को शामिल किया गया था। इस पाठ्यक्रम में हाथों-हाथ परियोजनाएं और सहयोगी असाइनमेंट्स शामिल थे, जो स्केलेबल, सुरक्षित, और उच्च-प्रदर्शन वेब समाधानों के डिजाइन में व्यावहारिक अनुभव प्रदान करते थे। आधुनिक विकास प्रथाओं में एक मजबूत नींव विकसित की और उद्योग-प्रासंगिक उपकरणों और तकनीकों के लिए एक्सपोजर प्राप्त किया।"
+                        }    
+
                     }
                 }
             ]
@@ -122,81 +126,82 @@
             "items": [
                 {
                     "id": 1,
-                    "date": {"year": 2019, "month": 9},
+                    "date": {"year": 2024, "month": 12},
                     "preview": {
                         "links": [
-                            {"href": "https://mag.wcoomd.org/uploads/2018/05/blank.pdf", "tooltipString": "read", "faIcon": "fa-solid fa-file-pdf"}
+                            
                         ],
-                        "screenshots": [],
-                        "screenshotsAspectRatio": "",
+                       "screenshots": [
+                            "images/pictures/impactaward-01.jpg"
+                            
+                        ],
+                        "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Best Graduation Project}} – Backend Optimization",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
-                            "text": "Awarded for outstanding performance in optimizing backend systems during my final year project where I improved the efficiency of data processing by 30%. I have also received a certificate of recognition for this achievement."
+                            "title": "{{Certificate of Appreciation}} – Exemplary Performance & Impact",
+                            "province": "CitiusTech",
+                            "country": "INDIA",
+                            "institution": "CitiusTech",
+                            "text": "Recognized as an exemplary employee for making a significant impact throughout tenure. Your unwavering dedication, innovative thinking, and exceptional teamwork have been truly commendable. Your outstanding contributions have significantly advanced our organizational success. This award acknowledges your professional excellence, commitment to continuous improvement, and the meaningful difference you have made within our team and industry."
                         },
                         "hi": {
-                            "title": "{{सर्वश्रेष्ठ स्नातक परियोजना}} – बैकएंड अनुकूलन",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
-                            "text": "मेरी फाइनल ईयर प्रोजेक्ट में बैकएंड सिस्टम्स को अनुकूलित करने के लिए उत्कृष्ट प्रदर्शन के लिए पुरस्कार दिया गया, जहां मैंने डेटा प्रोसेसिंग की दक्षता में 30% सुधार किया। मुझे इस उपलब्धि के लिए एक प्रमाणपत्र भी मिला।"
-                        }
+                            "title": "{{प्रशंसा पत्र}} – उत्कृष्ट प्रदर्शन और प्रभाव",
+                            "province": "CitiusTech",
+                            "country": "भारत",
+                            "institution": "CitiusTech",
+                            "text": "एक महत्वपूर्ण प्रभाव डालने के लिए एक उत्कृष्ट कर्मचारी के रूप में मान्यता प्राप्त। आपकी अटूट समर्पण, नवोन्मेषी सोच, और असाधारण टीमवर्क वास्तव में प्रशंसनीय हैं। आपके उत्कृष्ट योगदान ने हमारे संगठनात्मक सफलता को काफी बढ़ावा दिया है। यह पुरस्कार आपकी पेशेवर उत्कृष्टता, निरंतर सुधार के प्रति प्रतिबद्धता, और हमारे टीम और उद्योग के भीतर आपके द्वारा किए गए सार्थक अंतर को स्वीकार करता है।"
+                        }    
+                        
                     }
                 },
 
                 {
                     "id": 2,
-                    "date": {"year": 2020, "month": 5},
+                    "date": {"year": 2025, "month": 9},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/ryanbalieiro/react-portfolio-template", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://www.linuxfoundation.org/", "tooltipString": "open_website", "faIcon": "fa-brands fa-linux"}
+                            
                         ],
-                        "screenshots": [],
-                        "screenshotsAspectRatio": "",
+                        "screenshots": [
+                            "images/pictures/impactaward-02.jpg"
+                            
+                        ],
+                        "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Top Contributor}} – Open Source Linux Foundation Project",
-                            "province": "",
-                            "country": "",
-                            "institution": "Linux Foundation",
-                            "text": "Recognized as a top contributor for my significant contributions to an open source project under the Linux Foundation, where I implemented key features and resolved critical bugs, enhancing the project's stability and performance. My contributions involved: ",
+                            "title": "{{Impact Awards}} – Extraodinary contributions on CLH Project",
+                            "province": "CitiusTech",
+                            "country": "INDIA",
+                            "institution": "CitiusTech",
+                            "text": "Awarded for my extraordinary contributions to the CLH project, which significantly enhanced our product's performance and user satisfaction. My innovative solutions and dedication to excellence have made a lasting impact on our team's success and the overall growth of the company. This recognition reflects my commitment to delivering high-quality results and driving positive change within our organization.",
                             "list": [
-                                "Implementing a new feature that improved user experience by 25%",
-                                "Resolving over 50 critical bugs that enhanced system reliability",
-                                "Contributing to the documentation and community support"
+                                
                             ]
                         },
                         "hi": {
-                            "title": "{{शीर्ष योगदानकर्ता}} – ओपन सोर्स लिनक्स फाउंडेशन प्रोजेक्ट",
-                            "province": "",
-                            "country": "",
-                            "institution": "Linux Foundation",
-                            "text": "लिनक्स फाउंडेशन के तहत एक ओपन सोर्स प्रोजेक्ट में मेरे महत्वपूर्ण योगदान के लिए शीर्ष योगदानकर्ता के रूप में मान्यता प्राप्त, जहां मैंने प्रमुख सुविधाओं को लागू किया और महत्वपूर्ण बग्स को हल किया, जिससे परियोजना की स्थिरता और प्रदर्शन में सुधार हुआ। मेरे योगदान में शामिल थे: ",
+                            "title": "{{इम्पैक्ट अवार्ड्स}} – CLH प्रोजेक्ट पर असाधारण योगदान",
+                            "province": "CitiusTech",
+                            "country": "भारत",
+                            "institution": "CitiusTech",
+                            "text": "CLH परियोजना में मेरे असाधारण योगदान के लिए पुरस्कार दिया गया, जिसने हमारे उत्पाद के प्रदर्शन और उपयोगकर्ता संतुष्टि को काफी बढ़ाया। मेरी नवोन्मेषी समाधानों और उत्कृष्टता के प्रति समर्पण ने हमारी टीम की सफलता और कंपनी की समग्र वृद्धि पर एक स्थायी प्रभाव डाला है। यह मान्यता हमारे संगठन के भीतर उच्च-गुणवत्ता वाले परिणाम प्रदान करने और सकारात्मक परिवर्तन लाने के प्रति मेरी प्रतिबद्धता को दर्शाती है।",
                             "list": [
-                                "एक नई सुविधा को लागू करना जिसने उपयोगकर्ता अनुभव में 25% सुधार किया",
-                                "50 से अधिक महत्वपूर्ण बग्स को हल करना जिसने सिस्टम की विश्वसनीयता बढ़ाई",
-                                "डॉक्यूमेंटेशन और समुदाय समर्थन में योगदान देना"
+                                
                             ]
                         }
+                        
                     }
                 },
 
                 {
                     "id": 3,
-                    "date": {"year": 2022, "month": 11},
+                    "date": {"year": 2022, "month": 2},
                     "preview": {
                         "links": [
-                            {"href": "https://medium.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"},
-                            {"href": "https://www.ieee.org/", "tooltipString": "open_website", "faIcon": "fa-solid fa-award"},
-                            {"href": "https://www.acm.org/", "tooltipString": "open_website", "faIcon": "fa-solid fa-trophy"}
+                            {"href": "https://www.skillful.ly/", "tooltipString": "open_website", "faIcon": "fa-solid fa-trophy"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
@@ -204,65 +209,82 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Best Paper}} – International Summit",
-                            "province": "Beijing",
-                            "country": "China",
-                            "institution": "IEEE",
-                            "text": "Awarded for my research paper on software optimization techniques, which was presented at the International Conference on Software Engineering. The paper received positive feedback from industry experts and was published in the conference proceedings."
+                            "title": "{{Best UI Developer Award}} – Design Excellence & Innovation",
+                            "province": "AxiomIO",
+                            "country": "India",
+                            "institution": "AxiomIO",
+                            "text": "Recognized as the Best UI Developer for delivering exceptional user interface design and comprehensive front-end development on the AxiomIO platform. As the sole UI developer, I single-handedly designed and developed a complete, fully responsive user interface across all screens and devices. My work demonstrated outstanding attention to detail, pixel-perfect design implementation, and seamless user experience optimization. The platform showcases complete mobile responsiveness, intuitive navigation flows, and accessibility-first design principles that earned exceptional client satisfaction. My dedication to technical excellence, combined with strong collaborative teamwork and meticulous problem-solving, resulted in a production-ready product that exceeded client expectations. The comprehensive UI architecture successfully handles complex user interactions while maintaining code quality, maintainability, and scalability.",
+                            "list": [
+                                "Complete responsive UI design across all screen sizes and devices",
+                                "Pixel-perfect implementation of complex design specifications",
+                                "Mobile-first design approach with seamless desktop optimization",
+                                "Comprehensive component library and design system architecture",
+                                "Exceptional client satisfaction through dedicated design excellence"
+                            ]
                         },
                         "hi": {
-                            "title": "{{सर्वश्रेष्ठ पेपर}} – अंतर्राष्ट्रीय शिखर सम्मेलन",
-                            "province": "बीजिंग",
-                            "country": "चीन",
-                            "institution": "IEEE",
-                            "text": "सॉफ्टवेयर अनुकूलन तकनीकों पर मेरे शोध पत्र के लिए पुरस्कार दिया गया, जिसे अंतर्राष्ट्रीय सॉफ्टवेयर इंजीनियरिंग सम्मेलन में प्रस्तुत किया गया था। इस पेपर को उद्योग विशेषज्ञों से सकारात्मक प्रतिक्रिया मिली और इसे सम्मेलन की कार्यवाही में प्रकाशित किया गया।"
+                            "title": "{{सर्वश्रेष्ठ यूआई डेवलपर पुरस्कार}} – डिज़ाइन उत्कृष्टता और नवाचार",
+                            "province": "AxiomIO",
+                            "country": "भारत",
+                            "institution": "AxiomIO",
+                            "text": "AxiomIO प्लेटफॉर्म पर असाधारण यूजर इंटरफेस डिजाइन और व्यापक फ्रंट-एंड विकास प्रदान करने के लिए सर्वश्रेष्ठ यूआई डेवलपर के रूप में मान्यता प्राप्त। एकमात्र यूआई डेवलपर के रूप में, मैंने सभी स्क्रीन और डिवाइस पर एक संपूर्ण, पूरी तरह से प्रतिक्रियाशील यूजर इंटरफेस को एकल-हाथ से डिजाइन और विकसित किया। मेरे काम ने विवरण पर असाधारण ध्यान, पिक्सल-परफेक्ट डिजाइन कार्यान्वयन, और निर्बाध यूजर अनुभव अनुकूलन का प्रदर्शन किया। प्लेटफॉर्म संपूर्ण मोबाइल प्रतिक्रियाशीलता, सहज नेविगेशन प्रवाह, और अभिगम्यता-प्रथम डिजाइन सिद्धांतों को प्रदर्शित करता है जिसने असाधारण ग्राहक संतुष्टि अर्जित की। तकनीकी उत्कृष्टता के प्रति मेरी समर्पण, मजबूत सहयोगी टीमवर्क के साथ मिलकर और सावधानीपूर्वक समस्या-समाधान के साथ, एक उत्पादन-तैयार उत्पाद में परिणत हुई जिसने ग्राहक की अपेक्षाओं से अधिक किया। व्यापक यूआई आर्किटेक्चर कोड गुणवत्ता, रखरखाव और स्केलेबिलिटी को बनाए रखते हुए जटिल यूजर इंटरैक्शन को सफलतापूर्वक संभालता है।",
+                            "list": [
+                                "सभी स्क्रीन आकार और डिवाइस पर संपूर्ण प्रतिक्रियाशील यूआई डिजाइन",
+                                "जटिल डिजाइन विनिर्देशों का पिक्सल-परफेक्ट कार्यान्वयन",
+                                "मोबाइल-प्रथम डिजाइन दृष्टिकोण निर्बाध डेस्कटॉप अनुकूलन के साथ",
+                                "व्यापक घटक लाइब्रेरी और डिजाइन सिस्टम आर्किटेक्चर",
+                                "समर्पित डिजाइन उत्कृष्टता के माध्यम से असाधारण ग्राहक संतुष्टि"
+                            ]
                         }
+                        
                     }
                 },
 
                 {
                     "id": 4,
-                    "date": {"year": 2024, "month": 6},
+                    "date": {"year": 2018, "month": 2},
                     "preview": {
                         "links": [
-                            {"href": "https://medium.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"}
+                            
                         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo-square-1.jpg",
-                            "images/pictures/screenshot-demo-square-2.jpg",
-                            "images/pictures/screenshot-demo-square-3.jpg",
-                            "images/pictures/screenshot-demo-square-4.jpg",
-                            "images/pictures/screenshot-demo-square-5.jpg",
-                            "images/pictures/screenshot-demo-square-6.jpg"
+                            "images/pictures/award-01.jpg",
+                            "images/pictures/award-02.jpg"
+                            
                         ],
-                        "screenshotsAspectRatio": "1:1",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=RGTfS-48Gf0"
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Best Innovator}} – Tech Innovation Summit",
-                            "province": "Rio de Janeiro",
-                            "country": "Brazil",
-                            "institution": "Tech Innovators Brazil",
-                            "text": "Recognized as the [[best innovator]] for my groundbreaking work in developing a new software tool that significantly improved data analysis processes. The tool was adopted by several leading companies in the industry, and I received a certificate of recognition for my contributions. My tool featured the following innovations: ",
+                            "title": "{{Best Developer Award}} – PU Hostel website",
+                            "province": "Pondicherry",
+                            "country": "India",
+                            "institution": "Pondicherry Central University",
+                            "text": "Recognized by the Vice Chancellor for developing a comprehensive hostel website of PU during my final year MCA project. The system streamlined all administrative operations across multiple hostels, improving efficiency and coordination for both residents and administrators. My solution demonstrated technical excellence and innovative problem-solving in addressing real-world institutional requirements. The system successfully manages dormitory operations, resident records, and administrative workflows, earning appreciation for its comprehensive design and practical implementation.",
                             "list": [
-                                "Real-time data processing capabilities",
-                                "User-friendly interface that reduced training time by 50%",
-                                "Integration with popular data visualization tools"
+                                "Comprehensive management system for all boys, girls, and PhD hostels",
+                                "Administrative database covering total residents with detailed records",
+                                "Automated resident management and hostel assignment system",
+                                "Streamlined administrative workflows and reporting capabilities",
+                                "User-friendly interface for hostel staff and administrators"
                             ]
                         },
-                        "hi": {
-                            "title": "{{सर्वश्रेष्ठ नवप्रवर्तनकर्ता}} – टेक इनोवेशन समिट",
-                            "province": "रियो डी जनेरियो",
-                            "country": "ब्राजील",
-                            "institution": "टेक इनोवेटर्स ब्राजील",
-                            "text": "डेटा विश्लेषण प्रक्रियाओं में महत्वपूर्ण सुधार करने वाले एक नए सॉफ्टवेयर टूल के विकास में मेरे क्रांतिकारी कार्य के लिए सर्वश्रेष्ठ नवप्रवर्तनकर्ता के रूप में मान्यता प्राप्त। इस टूल को उद्योग की कई प्रमुख कंपनियों द्वारा अपनाया गया, और मुझे मेरे योगदान के लिए एक प्रमाणपत्र मिला। मेरे टूल में निम्नलिखित नवाचार शामिल थे: ",
+                        "hi":{
+                            "title": "{{सर्वश्रेष्ठ डेवलपर पुरस्कार}} – PU हॉस्टल वेबसाइट",
+                            "province": "पांडिचेरी",
+                            "country": "भारत",
+                            "institution": "पांडिचेरी केंद्रीय विश्वविद्यालय",
+                            "text": "मेरे अंतिम वर्ष की MCA परियोजना के दौरान PU की एक व्यापक हॉस्टल वेबसाइट विकसित करने के लिए कुलाधिपति द्वारा मान्यता प्राप्त। सिस्टम ने कई हॉस्टल्स में सभी प्रशासनिक संचालन को सुव्यवस्थित किया, निवासियों और प्रशासकों दोनों के लिए दक्षता और समन्वय में सुधार किया। मेरे समाधान ने वास्तविक संस्थागत आवश्यकताओं को संबोधित करने में तकनीकी उत्कृष्टता और नवोन्मेषी समस्या-समाधान का प्रदर्शन किया। सिस्टम सफलतापूर्वक छात्रावास संचालन, निवासी रिकॉर्ड, और प्रशासनिक वर्कफ़्लो का प्रबंधन करता है, इसके व्यापक डिजाइन और व्यावहारिक कार्यान्वयन के लिए प्रशंसा अर्जित करता है।",
                             "list": [
-                                "रीयल-टाइम डेटा प्रोसेसिंग क्षमताएं",
-                                "उपयोगकर्ता-मित्रवत इंटरफ़ेस जिसने प्रशिक्षण समय को 50% तक कम किया",
-                                "लोकप्रिय डेटा विज़ुअलाइज़ेशन टूल्स के साथ एकीकरण"
+                                "सभी लड़कों, लड़कियों और PhD हॉस्टल्स के लिए व्यापक प्रबंधन प्रणाली",
+                                "विस्तृत रिकॉर्ड के साथ कुल निवासियों को कवर करने वाला प्रशासनिक डेटाबेस",
+                                "स्वचालित निवासी प्रबंधन और हॉस्टल असाइनमेंट सिस्टम",
+                                "सुव्यवस्थित प्रशासनिक वर्कफ़्लो और रिपोर्टिंग क्षमताएं",
+                                "हॉस्टल कर्मचारियों और प्रशासकों के लिए उपयोगकर्ता-अनुकूल इंटरफेस"
                             ]
                         }
+                        
                     }
                 }
             ]
