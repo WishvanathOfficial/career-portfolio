@@ -16,7 +16,7 @@
         }
     },
 
-    "articles": [
+    "articles": [   
         {
             "id": 1,
             "component": "ArticleFacts",
@@ -29,16 +29,16 @@
                 {
                     "id": 1,
                     "img": null,
-                    "faIcon": "fa-solid fa-tablet-screen-button",
+                    "faIcon": "fa-solid fa-book",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "03",
-                            "text": "Apps Published"
+                            "title": "30+",
+                            "text": "Books read"
                         },
                         "hi": {
-                            "title":"03",
-                            "text": "एप्लिकेशन प्रकाशित"
+                            "title":"30+",
+                            "text": "किताबें पढ़ी गईं"
                         }
                     }
                 },
@@ -49,11 +49,11 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "100+",
+                            "title": "50+",
                             "text": "Stars on GitHub"
                         },
                         "hi": {
-                            "title": "100+",
+                            "title": "50+",
                             "text": "GitHub पर स्टार"
                         }
                     }
@@ -61,16 +61,16 @@
                 {
                     "id": 3,
                     "img": null,
-                    "faIcon": "fa-solid fa-globe",
+                    "faIcon": "fa-solid fa-car-side",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "12",
-                            "text": "Countries visited"
+                            "title": "10+",
+                            "text": "Cities visited"
                         },
                         "hi": {
-                            "title": "12",
-                            "text": "देशों का_visits"
+                            "title": "10+",
+                            "text": "शहरों का दौरा किया"
                         }
                     }
                 },
@@ -81,11 +81,11 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "07",
+                            "title": "05",
                             "text": "Open-source projects"
                         },
                         "hi": {
-                            "title": "07",
+                            "title": "05",
                             "text": "ओपन-सोर्स परियोजनाएं"
                         }
                     }
@@ -93,16 +93,16 @@
                 {
                     "id": 5,
                     "img": null,
-                    "faIcon": "fa-solid fa-coffee",
+                    "faIcon": "fa-solid fa-people-group",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "20,000",
-                            "text": "Coffees consumed"
+                            "title": "50+",
+                            "text": "New people met & friends made"
                         },
                         "hi": {
-                            "title": "20,000",
-                            "text": "कॉफ़ी का सेवन"
+                            "title": "50+",
+                            "text": "नए लोगों से मुलाकात और दोस्ती की"
                         }
                     }
                 },
@@ -113,11 +113,11 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "1,000,000+",
+                            "title": "10,000,000+",
                             "text": "Lines of code"
                         },
                         "hi": {
-                            "title": "1,000,000+",
+                            "title": "10,000,000+",
                             "text": "कोड की पंक्तियाँ"
                         }
                     }
@@ -156,163 +156,80 @@
             "items": [
                 {
                     "id": 1,
-                    "date": {"year": 2022, "month": 9},
+                    "date": {"year": 2026, "month": 1},
                     "preview": {
-                        "links": [],
+                        "links": [{"href": "https://www.udemy.com/course/complete-ai-guide/", "tooltipString": "view_course", "faIcon": "fa-solid fa-graduation-cap"}],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "Relocating to {{California!}}",
-                            "province": "Ontario",
-                            "country": "Canada",
-                            "institution": "",
-                            "text": "I’ve recently made the move to California, USA, to explore new opportunities, both professionally and personally. I’m looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what’s ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"
+                            "title": "The Complete {{AI Guide}} Learn ChatGPT, Generative AI & More",
+                            "province": "Udemy",
+                            "country": "India",
+                            "institution": "Udemy",
+                            "text": "I'm currently enrolled and actively progressing through 'The Complete AI Guide' course on Udemy. This comprehensive course covers the latest advancements in artificial intelligence, with a strong focus on ChatGPT and generative AI technologies. Throughout this learning journey, I'm gaining deep insights into AI fundamentals, practical applications of large language models, and how to leverage AI tools effectively in modern development. The course equips me with cutting-edge knowledge about prompt engineering, AI model capabilities, and real-world use cases. This continuous learning demonstrates my commitment to staying updated with emerging technologies and maintaining expertise in the rapidly evolving AI landscape.",
+                            "list": [
+                                "Deep understanding of ChatGPT and generative AI models",
+                                "Practical applications and use cases of AI technologies",
+                                "Prompt engineering and model optimization techniques",
+                                "Integration of AI tools in development workflows",
+                                "Latest trends and best practices in artificial intelligence"
+                            ]
                         },
                         "hi": {
-                            "title": "{{कैलिफ़ोर्निया!}} में स्थानांतरण",
-                            "province": "ओंटारियो",
-                            "country": "कनाडा",
-                            "institution": "",
-                            "text": "मैंने हाल ही में कैलिफ़ोर्निया, यूएसए में स्थानांतरण किया है, ताकि नए अवसरों की खोज कर सकूं, दोनों पेशेवर और व्यक्तिगत रूप से। मैं इस जीवंत राज्य की पेशकश करने वाली चीजों की खोज करने और इस नए अध्याय के साथ आने वाली सभी चुनौतियों और अनुभवों को अपनाने के लिए उत्सुक हूं। जो आगे है उसके लिए उत्साहित! मेरी यात्रा पर अपडेट और गोल्डन स्टेट में आने वाले रोमांच के लिए बने रहें!"
+                            "title": "{{संपूर्ण AI गाइड}} ChatGPT, जनरेटिव AI और बहुत कुछ सीखें",
+                            "province": "Udemy",
+                            "country": "भारत",
+                            "institution": "Udemy",
+                            "text": "मैं वर्तमान में Udemy पर 'संपूर्ण AI गाइड' कोर्स में नामांकित हूं और सक्रिय रूप से प्रगति कर रहा हूं। यह व्यापक कोर्स कृत्रिम बुद्धिमत्ता में नवीनतम प्रगति को कवर करता है, ChatGPT और जनरेटिव AI तकनीकों पर एक मजबूत फोकस के साथ। इस सीखने की यात्रा के दौरान, मैं AI के मूल सिद्धांतों, बड़े भाषा मॉडल के व्यावहारिक अनुप्रयोगों, और आधुनिक विकास में AI उपकरणों का प्रभावी ढंग से उपयोग करने के तरीकों में गहरी अंतर्दृष्टि प्राप्त कर रहा हूं। यह कोर्स मुझे प्रॉम्प्ट इंजीनियरिंग, AI मॉडल क्षमता, और वास्तविक दुनिया के उपयोग के मामलों के बारे में अत्याधुनिक ज्ञान से लैस करता है। यह निरंतर सीखना उभरती हुई प्रौद्योगिकियों के साथ अपडेट रहने और तेजी से विकसित हो रहे AI परिदृश्य में विशेषज्ञता बनाए रखने की मेरी प्रतिबद्धता को प्रदर्शित करता है।",
+                            "list": [
+                                "ChatGPT और जनरेटिव AI मॉडल की गहरी समझ",
+                                "AI प्रौद्योगिकियों के व्यावहारिक अनुप्रयोग और उपयोग के मामले",
+                                "प्रॉम्प्ट इंजीनियरिंग और मॉडल अनुकूलन तकनीकें",
+                                "विकास वर्कफ़्लो में AI उपकरणों का एकीकरण",
+                                "कृत्रिम बुद्धिमत्ता में नवीनतम प्रवृत्तियां और सर्वोत्तम प्रथाएं"
+                            ]
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "date": {"year": 2023, "month": 6},
+                    "date": {"year": 2026, "month": 2},
                     "preview": {
-                        "links": [{
-                            "href": "https://www.youtube.com/@jomakaze",
-                            "tooltipString": "open_website",
-                            "faIcon": "fa-solid fa-eye"
-                        }],
+                        "links": [{"href": "https://www.udemy.com/course/davinci-resolve-training-course/", "tooltipString": "view_course", "faIcon": "fa-solid fa-graduation-cap"}],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
                         "youtubeVideo": "https://www.youtube.com/watch?v=oFCy3vEIAQk"
                     },
                     "locales": {
                         "en": {
-                            "title": "Started my own {{Youtube Channel!}}",
-                            "province": "California",
-                            "country": "US",
-                            "institution": "",
-                            "text": "I’m thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can’t wait to connect with you all through this platform. Don’t forget to subscribe and hit the notification bell to stay updated on my latest videos. Let’s embark on this adventure together!"
-                        },
-                        "hi": {
-                            "title": "अपना {{YouTube चैनल!}} शुरू किया",
-                            "province": "कैलिफ़ोर्निया",
-                            "country": "यूएस",
-                            "institution": "",
-                            "text": "मैं अपने YouTube चैनल के लॉन्च की घोषणा करते हुए रोमांचित हूं! 🎥✨ इस रोमांचक यात्रा में मेरे साथ जुड़ें क्योंकि मैं तकनीक, कोडिंग और सभी डिजिटल चीजों के लिए अपने जुनून को साझा करता हूं। ट्यूटोरियल और टिप्स से लेकर परियोजना शोकेस तक, मैं इस प्लेटफ़ॉर्म के माध्यम से आप सभी के साथ जुड़ने का इंतजार नहीं कर सकता। नवीनतम वीडियो पर अपडेट रहने के लिए सब्सक्राइब करना और नोटिफिकेशन बेल दबाना न भूलें। चलिए इस साहसिक कार्य पर एक साथ चलते हैं!"
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "date": {"year": 2024, "month": 12},
-                    "preview": {
-                        "links": [
-                            {"href": "https://medium.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"}
-                        ],
-                        "screenshots": [],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Working on a new {{mobile project!}}",
-                            "province": "California",
-                            "country": "US",
-                            "institution": "",
-                            "text": "I’m excited to share that I’m currently working on a new mobile project! Some features of this project include:",
+                            "title": "DaVinci Resolve {{Training Course}} Professional Video Editing & Color Grading",
+                            "province": "Udemy",
+                            "country": "India",
+                            "institution": "Udemy",
+                            "text": "I'm currently enrolled and actively progressing through the DaVinci Resolve Training Course on Udemy. This comprehensive course covers professional-grade video editing, color grading, motion graphics, and visual effects using industry-standard DaVinci Resolve software. Throughout this learning journey, I'm acquiring expertise in video editing workflows, advanced color correction techniques, and visual storytelling. The course provides hands-on training in editing timelines, mastering color grading with advanced panels, creating dynamic motion graphics, and integrating visual effects. This skill development expands my capabilities beyond web development into multimedia production and content creation. DaVinci Resolve proficiency is highly valued in the creative industry, making this an excellent addition to my diverse technical skillset and opening doors to multimedia and post-production opportunities.",
                             "list": [
-                                "Cross-platform compatibility with iOS and Android",
-                                "User-friendly interface with intuitive navigation",
-                                "Integration with popular APIs for enhanced functionality",
-                                "Real-time data synchronization for seamless user experience"
+                                "Professional video editing and timeline management",
+                                "Advanced color grading and color correction techniques",
+                                "Motion graphics and animation creation",
+                                "Visual effects and compositing workflows",
+                                "Audio mixing and post-production optimization"
                             ]
                         },
                         "hi": {
-                            "title": "एक नए {{मोबाइल प्रोजेक्ट!}} पर काम कर रहा हूँ",
-                            "province": "कैलिफ़ोर्निया",
-                            "country": "यूएस",
-                            "institution": "",
-                            "text": "मैं यह साझा करते हुए उत्साहित हूं कि मैं वर्तमान में एक नए मोबाइल प्रोजेक्ट पर काम कर रहा हूं! इस परियोजना की कुछ विशेषताएं शामिल हैं:",
+                            "title": "DaVinci Resolve {{प्रशिक्षण पाठ्यक्रम}} पेशेवर वीडियो संपादन और रंग श्रेणीकरण",
+                            "province": "Udemy",
+                            "country": "भारत",
+                            "institution": "Udemy",
+                            "text": "मैं वर्तमान में Udemy पर DaVinci Resolve प्रशिक्षण पाठ्यक्रम में नामांकित हूं और सक्रिय रूप से प्रगति कर रहा हूं। यह व्यापक पाठ्यक्रम उद्योग-मानक DaVinci Resolve सॉफ्टवेयर का उपयोग करके पेशेवर-ग्रेड वीडियो संपादन, रंग श्रेणीकरण, गति ग्राफिक्स, और दृश्य प्रभाव को कवर करता है। इस सीखने की यात्रा के दौरान, मैं वीडियो संपादन समय सीमा में व्यावहारिक प्रशिक्षण, उन्नत रंग सुधार तकनीकों, और दृश्य कथन में महारत हासिल कर रहा हूं। पाठ्यक्रम समय सीमा में व्यावहारिक प्रशिक्षण, उन्नत पैनल के साथ रंग श्रेणीकरण में महारत, गतिशील गति ग्राफिक्स बनाने और दृश्य प्रभाव को एकीकृत करने में प्रदान करते हैं। यह कौशल विस्तार वेब विकास से परे मल्टीमीडिया उत्पादन और सामग्री निर्माण में मेरी क्षमताओं को विस्तारित करता है। DaVinci Resolve दक्षता रचनात्मक उद्योग में अत्यधिक मूल्यवान है, जो मेरे विविध तकनीकी कौशल सेट में एक उत्कृष्ट जोड़ है और मल्टीमीडिया और पोस्ट-प्रोडक्शन अवसरों का दरवाजा खोलता है।",
                             "list": [
-                                "iOS और Android के साथ क्रॉस-प्लेटफ़ॉर्म संगतता",
-                                "इंट्यूटिव नेविगेशन के साथ उपयोगकर्ता के अनुकूल इंटरफ़ेस",
-                                "बेहतर कार्यक्षमता के लिए लोकप्रिय APIs के साथ एकीकरण",
-                                "सहज उपयोगकर्ता अनुभव के लिए वास्तविक समय डेटा सिंक्रनाइज़ेशन"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "id": 4,
-                    "date": {"year": 2025, "month": 3},
-                    "preview": {
-                        "links": [],
-                        "screenshots": [],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Attending the {{Tech Conference 2025!}}",
-                            "province": "Tokyo",
-                            "country": "Japan",
-                            "institution": "Tech Innovators Inc.",
-                            "text": "I’m thrilled to announce that I’ll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I’m looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you’re attending the conference, let’s connect! I’d love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"
-                        },
-                        "hi": {
-                            "title": "{{टेक सम्मेलन 2025!}} में भाग लेना",
-                            "province": "टोक्यो",
-                            "country": "जापान",
-                            "institution": "टेक इनोवेटर्स इंक.",
-                            "text": "मैं यह घोषणा करते हुए रोमांचित हूं कि मैं टोक्यो, जापान में [[टेक सम्मेलन 2025]] में भाग लूंगा! यह कार्यक्रम उद्योग के नेताओं के साथ जुड़ने, प्रौद्योगिकी में नवीनतम रुझानों के बारे में जानने और साथी तकनीकी उत्साही लोगों के साथ अंतर्दृष्टि साझा करने का एक शानदार अवसर है। मैं चर्चाओं में शामिल होने, कार्यशालाओं में भाग लेने और अभिनव समाधानों का पता लगाने के लिए उत्सुक हूं जो हमारे उद्योग के भविष्य को आकार दे रहे हैं। यदि आप सम्मेलन में भाग ले रहे हैं, तो आइए जुड़ें! मैं साथी डेवलपर्स और तकनीकी प्रेमियों से मिलना चाहूंगा। कार्यक्रम से अपडेट और मुख्य आकर्षण के लिए बने रहें!"
-                        }
-                    }
-                },
-                {
-                    "id": 5,
-                    "date": {"year": 2025, "month": 6},
-                    "preview": {
-                        "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
-                            {"href": "https://github.com/ryanbalieiro/react-portfolio-template", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
-                        ],
-                        "screenshots": [],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Launched my {{personal website!}}",
-                            "province": "California",
-                            "country": "US",
-                            "institution": "",
-                            "text": "I’m excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It’s been a labor of love, and I can’t wait for you all to explore it. Here are some highlights of what you can find on the site:",
-                            "list": [
-                                "Portfolio showcasing my projects and contributions",
-                                "Blog with articles on technology, coding, and personal experiences",
-                                "Contact form for inquiries and collaborations",
-                                "Links to my social media profiles and GitHub"
-                            ]
-                        },
-                        "hi": {
-                            "title": "अपनी {{व्यक्तिगत वेबसाइट!}} लॉन्च की",
-                            "province": "कैलिफ़ोर्निया",
-                            "country": "यूएस",
-                            "institution": "",
-                            "text": "मैं अपनी [[व्यक्तिगत वेबसाइट]] के लॉन्च की घोषणा करते हुए उत्साहित हूं! 🎉 यह प्लेटफ़ॉर्म एक ऐसी जगह है जहां मैं अपने प्रोजेक्ट्स, ब्लॉग पोस्ट्स और तकनीक और विकास की दुनिया में अंतर्दृष्टि साझा कर सकता हूं। यह प्यार का एक श्रम रहा है, और मैं आप सभी के इसे एक्सप्लोर करने का इंतजार नहीं कर सकता। साइट पर आप जो कुछ भी पा सकते हैं उसके कुछ मुख्य आकर्षण यहां दिए गए हैं:",
-                            "list": [
-                                "मेरे प्रोजेक्ट्स और योगदान को दिखाने वाला पोर्टफोलियो",
-                                "तकनीक, कोडिंग और व्यक्तिगत अनुभवों पर लेखों के साथ ब्लॉग",
-                                "पूछताछ और सहयोग के लिए संपर्क फ़ॉर्म",
-                                "मेरे सोशल मीडिया प्रोफाइल और GitHub के लिंक"
+                                "पेशेवर वीडियो संपादन और टाइमलाइन प्रबंधन",
+                                "उन्नत रंग श्रेणीकरण और रंग सुधार तकनीकें",
+                                "गति ग्राफिक्स और एनिमेशन निर्माण",
+                                "दृश्य प्रभाव और कम्पोजिटिंग वर्कफ़्लो",
+                                "ऑडियो मिक्सिंग और पोस्ट-प्रोडक्शन अनुकूलन"
                             ]
                         }
                     }
