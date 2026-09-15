@@ -165,6 +165,62 @@
                         }
                         
                     }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-solid fa-crosshairs",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "date": {
+                        "year": null,
+                        "month": null
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "ChatGPT {{Practitioner}}",
+                            "text": "a professional training program designed to teach you how to use OpenAI's AI models for workplace productivity, advanced prompt engineering, and custom GPT creation"
+                        },
+                        "hi": {
+                            "title": "ChatGPT {{प्रैक्टिशनर}}",
+                            "text": "एक पेशेवर प्रशिक्षण कार्यक्रम जो आपको OpenAI के AI मॉडल का उपयोग कार्यस्थल उत्पादकता, उन्नत प्रॉम्प्ट इंजीनियरिंग और कस्टम GPT निर्माण के लिए करना सिखाने के लिए डिज़ाइन किया गया है।"
+                        }
+                        
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": "",
+                    "faIcon": "fa-solid fa-gears",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "date": {
+                        "year": null,
+                        "month": null
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "OpenAI's Codex {{Practitioner}}",
+                            "text": "Ia professional skilled in deploying, managing, and orchestrating OpenAI’s specialized agentic workspace—Codex—to automate software development, complex workflows, and computer-level business processes."
+                        },
+                        "hi": {
+                            "title": "OpenAI's Codex {{प्रैक्टिशनर}}",
+                            "text": "एक पेशेवर जो OpenAI के विशेष एजेंटिक वर्कस्पेस—Codex—को तैनात करने, प्रबंधित करने और व्यवस्थित करने में कुशल है, ताकि सॉफ़्टवेयर विकास, जटिल वर्कफ़्लो और कंप्यूटर-स्तरीय व्यावसायिक प्रक्रियाओं को स्वचालित किया जा सके।"
+                        }
+                        
+                    }
                 }
             ]
         },
