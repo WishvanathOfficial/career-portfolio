@@ -58,8 +58,8 @@
                     "id": 1,
                     "faIcon": "fa-solid fa-phone",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "+1 (123) 456-7890",
-                    "link": {"href": "tel:11234567890", "tooltipString": "call_me"},
+                    "label": "+91 9939940266",
+                    "link": {"href": "tel:9939940266", "tooltipString": "call_me"},
                     "locales": {
                         "en": {"title": "Phone"},
                         "hi": {"title": "फ़ोन"}
@@ -69,8 +69,8 @@
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "mark.choi@email.com",
-                    "link": {"href": "mailto:mark.choi@email.com", "tooltipString": "email_me"},
+                    "label": "wishvanath.sah.career@gmail.com",
+                    "link": {"href": "mailto:wishvanath.sah.career@gmail.com", "tooltipString": "email_me"},
                     "locales": {
                         "en": {"title": "E-mail"},
                         "hi": {"title": "ई-मेल"}
@@ -80,8 +80,8 @@
                     "id": 3,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
+                    "label": "@Wishvanath Sah",
+                    "link": {"href": "https://www.linkedin.com/in/wishvanath-sah-career/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "LinkedIn"},
                         "hi": {"title": "LinkedIn"}
@@ -91,8 +91,8 @@
                     "id": 4,
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Mark Choi",
-                    "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
+                    "label": "Wishvanath Sah",
+                    "link": {"href": "", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Facebook"},
                         "hi": {"title": "Facebook"}
@@ -102,8 +102,8 @@
                     "id": 5,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@codingmark",
-                    "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
+                    "label": "@wishvanath.sah",
+                    "link": {"href": "", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Instagram"},
                         "hi": {"title": "Instagram"}
@@ -113,8 +113,8 @@
                     "id": 6,
                     "faIcon": "fa-brands fa-tiktok",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
-                    "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
+                    "label": "Wishvanath Sah",
+                    "link": {"href": "", "tooltipString": "open_website"},
                     "locales": {
                         "en": { "title": "TikTok" },
                         "hi": { "title": "TikTok" }
