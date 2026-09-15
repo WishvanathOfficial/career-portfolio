@@ -94,7 +94,7 @@
                     "dateEnd": {"now": true},
                     "locales": {
                         "en": {
-                            "title": "{{Lead Full-Stack}} Developer",
+                            "title": "{{Lead Full-Stack}} Engineer",
                             "province": "Hyderabad",
                             "country": "India",
                             "institution": "CitiusTech",
@@ -116,7 +116,7 @@
                             "tags": ["JavaScript", "React", "Redux", "NodeJS", "ExpressJS", "REST APIs", "AWS", "MySQL", "Docker", "Microservices", "CI/CD"]
                         },
                         "hi": {
-                            "title": "{{लीड फुल-स्टैक}} डेवलपर",
+                            "title": "{{लीड फुल-स्टैक}} इंजीनियर",
                             "province": "हैदराबाद",
                             "country": "भारत",
                             "institution": "CitiusTech",
