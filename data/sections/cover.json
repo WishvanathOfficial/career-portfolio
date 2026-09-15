@@ -91,73 +91,73 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Anita Bath",
-                    "link": {"href": "https://linkedin.com", "tooltipString": "open_website"},
-                    "img": "images/pictures/testimonial-person-female-1.png",
+                    "label": "Sankar Martha",
+                    "link": {"href": "https://www.linkedin.com/in/sankar-martha-438a39120/", "tooltipString": "open_website"},
+                    "img": "images/pictures/testimonial-person-male-2.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "CEO at [[SalesForce]]",
-                            "text": "Working with Mark was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
+                            "title": "SDE 3 at [[RedoQ]]",
+                            "text": "Working with Wishvanath Sah was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
                         },
                         "hi": {
-                            "title": "CEO at [[SalesForce]]",
-                            "text": "Mark के साथ काम करना वास्तव में एक [[परिवर्तनकारी अनुभव]] था। उनकी उत्कृष्ट प्रोग्रामिंग क्षमताओं और सहयोगी भावना ने न केवल हमारी परियोजना की गुणवत्ता को बढ़ाया बल्कि हमें नए उत्साह और उद्देश्य का अहसास भी दिलाया।"
+                            "title": "SDE 3 at [[RedoQ]]",
+                            "text": "Wishvanath Sah के साथ काम करना वास्तव में एक [[परिवर्तनकारी अनुभव]] था। उनकी उत्कृष्ट प्रोग्रामिंग क्षमताओं और सहयोगी भावना ने न केवल हमारी परियोजना की गुणवत्ता को बढ़ाया बल्कि हमें नए उत्साह और उद्देश्य का अहसास भी दिलाया।"
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "label": "Lou Natic",
-                    "link": {"href": "https://github.com", "tooltipString": "open_website"},
+                    "label": "Mohan Gandhi",
+                    "link": {"href": "https://www.linkedin.com/in/mohangandhip/", "tooltipString": "open_website"},
                     "img": "images/pictures/testimonial-person-male-1.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "Lead Developer at [[GitHub]]",
-                            "text": "Having Mark on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                            "title": "CEO at [[Ofofo Pvt Ltd]]",
+                            "text": "Having Wishvanath on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
                         },
                         "hi": {
-                            "title": "लीड डेवलपर at [[GitHub]]",
-                            "text": "Mark हमारे टीम के लिए एक अनमोल संपत्ति थे। उनकी [[गहरी प्रोग्रामिंग अंतर्दृष्टि और मेंटरशिप]] ने न केवल हमारे प्रोजेक्ट को बेहतर बनाया बल्कि हमें हर चुनौती को आत्मविश्वास और रचनात्मकता के साथ हल करने के लिए सशक्त बनाया।"
+                            "title": "CEO at [[Ofofo Pvt Ltd]]",
+                            "text": "Wishvanath हमारे टीम के लिए एक अनमोल संपत्ति थे। उनकी [[गहरी प्रोग्रामिंग अंतर्दृष्टि और मेंटरशिप]] ने न केवल हमारे प्रोजेक्ट को बेहतर बनाया बल्कि हमें हर चुनौती को आत्मविश्वास और रचनात्मकता के साथ हल करने के लिए सशक्त बनाया।"
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "label": "Paige Turner",
-                    "link": {"href": "", "tooltipString": ""},
-                    "img": "images/pictures/testimonial-person-female-2.png",
+                    "label": "Sandip Banerjee",
+                    "link": {"href": "https://www.linkedin.com/in/sandip-banerjee-4768a268/", "tooltipString": "open_website"},
+                    "img": "images/pictures/testimonial-person-male-1.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "Managing Director at [[Dingga]]",
-                            "text": "Collaborating with Mark was a true [[game changer]] for our entire development process. His [[deep technical expertise]], creative problem-solving, and proactive mindset were absolutely invaluable."
+                            "title": "CCO at [[Aetosky]]",
+                            "text": "Collaborating with Wishvanath was a true [[game changer]] for our entire development process. His [[deep technical expertise]], creative problem-solving, and proactive mindset were absolutely invaluable."
                         },
                         "hi": {
-                            "title": "मैनेजिंग डायरेक्टर at [[Dingga]]",
-                            "text": "Mark के साथ सहयोग हमारे समग्र विकास प्रक्रिया के लिए एक वास्तविक [[गेम चेंजर]] था। उनकी [[गहरी तकनीकी विशेषज्ञता]], रचनात्मक समस्या-समाधान, और सक्रिय मानसिकता बेहद अनमोल थी।"
+                            "title": "CCO at [[Aetosky]]",
+                            "text": "Wishvanath के साथ सहयोग हमारे समग्र विकास प्रक्रिया के लिए एक वास्तविक [[गेम चेंजर]] था। उनकी [[गहरी तकनीकी विशेषज्ञता]], रचनात्मक समस्या-समाधान, और सक्रिय मानसिकता बेहद अनमोल थी।"
                         }
                         
                     }
                 },
                 {
                     "id": 4,
-                    "label": "Chris P. Bacon",
-                    "link": {"href": "https://dribbble.com", "tooltipString": "open_website"},
+                    "label": "Aman Kumar",
+                    "link": {"href": "https://www.linkedin.com/in/amankmr/", "tooltipString": "open_website"},
                     "img": "images/pictures/testimonial-person-male-2.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "title": "Creative Director at [[Dribbble]]",
+                            "title": "Senior frontend Engineer at [[Impelsys]]",
                             "text": "Mark Choi's [[attention to detail]] and his [[innovative thinking]] brought a fresh perspective to our whole design process! Simply amazing!"
                         },
                         "hi": {
-                            "title": "क्रिएटिव डायरेक्टर at [[Dribbble]]",
+                            "title": "सीनियर फ्रंटएंड इंजीनियर at [[Impelsys]]",
                             "text": "Mark Choi का [[विवरणों पर ध्यान]] और उनका [[नवोन्मेषी सोच]] हमारे पूरे डिज़ाइन प्रोसेस में एक ताज़ा दृष्टिकोण लाया! बस आश्चर्यजनक!"
                         }
                         
