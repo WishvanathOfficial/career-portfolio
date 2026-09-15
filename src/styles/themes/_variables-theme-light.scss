@@ -33,31 +33,31 @@
 
 @import "theme-variables-builder";
 
-$primary: #269366;
+$primary: #14a4a4;
 $secondary: darken(#798287, 10%);
-$dark: #bfe0c5;
+$dark: #bfe0dd;
 $danger: #932626;
 $muted: #7c8d7f;
 
-$base-bg: #91d7aa;
-$base-bg-light: #a6e3b8;
-$base-bg-dark: #7ecb94;
+$base-bg: #096464;
+$base-bg-light: #46c2c2;
+$base-bg-dark: #7ecbc8;
 
 $texts: #202521;
 $texts-inverted: #EEE;
 
-$base-container-bg: #d9f5e0;
-$base-container-bg-accent: #c2e9d0;
-$base-popover-bg: #cae1d4;
-$base-boards: #d2eed8;
-$base-info-badges: #c3e3cd;
-$empty: #e8f8ef;
+$base-container-bg: #e6f7f7;
+$base-container-bg-accent: #c2e0e9;
+$base-popover-bg: #cadfe1;
+$base-boards: #d2eeee;
+$base-info-badges: #c3dfe3;
+$empty: #e8f5f8;
 
-$borders: #d9efdc;
+$borders: #d9ebef;
 $borders-nav-mobile: rgba(white, 0.15);
 $borders-nav-mobile-accent: rgba(white, 0.2);
 $scrollbar-track: #daf5e1;
-$scrollbar-thumb: #55bd91;
+$scrollbar-thumb: #55a1bd;
 
 [data-theme="light"] {
     @include build-theme(
