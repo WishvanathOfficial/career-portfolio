@@ -1,64 +1,376 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <title>Personal Portfolio by Wishvanath Sah</title>
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wishvanath Sah — Lead Full Stack Engineer</title>
+<meta name="description" content="Portfolio of Wishvanath Sah, Lead Full Stack Engineer with 8+ years of experience in React.js, Node.js, TypeScript and AI-assisted engineering.">
+<meta name="author" content="Wishvanath Sah">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#0f172a">
+<meta property="og:title" content="Wishvanath Sah — Lead Full Stack Engineer">
+<meta property="og:description" content="React.js · Node.js · TypeScript · AI-assisted engineering. 8+ years across healthcare, HR tech, cybersecurity, analytics, sports, blockchain and GIS.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script>
+(function () {
+  var t = 'dark';
+  try {
+    var s = localStorage.getItem('ws-theme');
+    if (s === 'light' || s === 'dark') t = s;
+    else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) t = 'light';
+  } catch (e) {}
+  document.documentElement.setAttribute('data-theme', t);
+})();
+</script>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div id="progress" aria-hidden="true"></div>
 
-        <!-- FavIcon -->
-        <link rel="icon" type="image/svg+xml" href="/images/svg/logo.svg" />
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18"/></symbol>
+    <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></symbol>
+    <symbol id="i-phone" viewBox="0 0 24 24"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s7-6.2 7-11a7 7 0 0 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+    <symbol id="i-in" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 11v5M8 8v.01M12 16v-5M12 13a2.5 2.5 0 0 1 5 0v3"/></symbol>
+    <symbol id="i-down" viewBox="0 0 24 24"><path d="M12 4v11M7 11l5 5 5-5M5 20h14"/></symbol>
+    <symbol id="i-up" viewBox="0 0 24 24"><path d="M12 19V6M6 11l6-6 6 6"/></symbol>
+    <symbol id="i-code" viewBox="0 0 24 24"><path d="m8 8-4 4 4 4M16 8l4 4-4 4M14 5l-4 14"/></symbol>
+    <symbol id="i-server" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="7" rx="2"/><rect x="3" y="13" width="18" height="7" rx="2"/><path d="M7 7.5v.01M7 16.5v.01"/></symbol>
+    <symbol id="i-cloud" viewBox="0 0 24 24"><path d="M7 18a4 4 0 0 1-.5-8A6 6 0 0 1 18 9.5 4.3 4.3 0 0 1 17.5 18z"/></symbol>
+    <symbol id="i-layers" viewBox="0 0 24 24"><path d="m12 3 9 5-9 5-9-5 9-5zM3 13l9 5 9-5M3 17.5l9 5 9-5"/></symbol>
+    <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0M16 4.5a3.5 3.5 0 0 1 0 7M18 14.5a6.5 6.5 0 0 1 3.5 5.5"/></symbol>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8L12 3zM19 16l.8 2.2L22 19l-2.2.8L19 22l-.8-2.2L16 19l2.2-.8L19 16z"/></symbol>
+    <symbol id="i-cap" viewBox="0 0 24 24"><path d="m2 9 10-5 10 5-10 5-10-5z"/><path d="M6 11.5V16c0 1.5 3 3 6 3s6-1.5 6-3v-4.5M22 9v6"/></symbol>
+    <symbol id="i-award" viewBox="0 0 24 24"><circle cx="12" cy="9" r="6"/><path d="m8.5 14.5-1.5 7 5-3 5 3-1.5-7"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></symbol>
+    <symbol id="i-bot" viewBox="0 0 24 24"><rect x="4" y="8" width="16" height="11" rx="3"/><path d="M12 8V4M9 13v.01M15 13v.01M9 16.5h6"/></symbol>
+    <symbol id="i-chat" viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4V5z"/></symbol>
+    <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></symbol>
+    <symbol id="i-send" viewBox="0 0 24 24"><path d="M21 3 10 14M21 3l-7 18-4-7-7-4 18-7z"/></symbol>
+    <symbol id="i-pen" viewBox="0 0 24 24"><path d="M4 20h4L19 9l-4-4L4 16v4zM13.5 6.5l4 4"/></symbol>
+    <symbol id="i-ext" viewBox="0 0 24 24"><path d="M7 17 17 7M8 7h9v9"/></symbol>
+    <symbol id="i-gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19 12a7 7 0 0 0-.1-1.2l2-1.6-2-3.4-2.4 1a7 7 0 0 0-2-1.2L14 3h-4l-.4 2.6a7 7 0 0 0-2 1.2l-2.4-1-2 3.4 2 1.6A7 7 0 0 0 5 12c0 .4 0 .8.1 1.2l-2 1.6 2 3.4 2.4-1a7 7 0 0 0 2 1.2L10 21h4l.4-2.6a7 7 0 0 0 2-1.2l2.4 1 2-3.4-2-1.6c.1-.4.2-.8.2-1.2z"/></symbol>
+  </defs>
+</svg>
 
-        <!-- Canonical URL -->
-        <link rel="canonical" href="https://wishvanathofficial.github.io/career-portfolio/" />
+<header class="nav" id="nav">
+  <div class="wrap">
+    <a class="logo" href="#home" aria-label="Wishvanath Sah — home"><b>WS</b><span class="hide-m">Wishvanath Sah</span></a>
+    <div class="nav-right">
+      <nav class="menu" id="menu" aria-label="Primary">
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#experience">Experience</a>
+        <a href="#projects">Projects</a>
+        <a href="#ai">AI</a>
+        <a href="#education">Education</a>
+        <a href="#contact">Contact</a>
+        <a class="btn btn-primary btn-sm m-only" href="assets/resume/Wishvanath_Sah_Resume.pdf" download>Download Resume <svg class="icon"><use href="#i-down"/></svg></a>
+      </nav>
+      <button class="icon-btn" id="theme" type="button" aria-label="Toggle light and dark theme" title="Toggle theme">
+        <svg class="icon sun"><use href="#i-sun"/></svg><svg class="icon moon"><use href="#i-moon"/></svg>
+      </button>
+      <a class="btn btn-primary btn-sm hide-m" href="assets/resume/Wishvanath_Sah_Resume.pdf" download>Download Resume <svg class="icon"><use href="#i-down"/></svg></a>
+      <button class="icon-btn burger" id="burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="menu">
+        <svg class="icon"><use href="#i-menu"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
 
-        <!-- Meta: Configurations -->
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <meta name="format-detection" content="address=no"/>
-        <meta name="color-scheme" content="dark">
+<main id="main">
+<!-- HERO -->
+<section class="hero" id="home" style="padding-bottom:90px">
+  <div class="bg-grid"></div>
+  <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span>
+  <div id="glow"></div>
+  <div class="wrap">
+    <div>
+      <span class="badge reveal"><i></i> Available for new opportunities</span>
+      <p class="hello reveal" style="--d:.1s">&lt;hello world /&gt;</p>
+      <h1 class="reveal" style="--d:.15s">I'm <span class="grad">Wishvanath Sah</span></h1>
+      <p class="typed-line reveal" style="--d:.25s">I build <span class="t" id="typed">scalable React applications</span></p>
+      <p class="lead reveal" style="--d:.35s">Lead Full Stack Engineer with 8+ years of experience across healthcare, HR tech, cybersecurity, analytics, sports, blockchain and GIS. I lead end-to-end delivery and use AI-assisted engineering to ship faster with higher quality.</p>
+      <div class="cta reveal" style="--d:.45s">
+        <a class="btn btn-primary" href="#projects">View my work <svg class="icon"><use href="#i-eye"/></svg></a>
+        <a class="btn btn-ghost" href="assets/resume/Wishvanath_Sah_Resume.pdf" download>Download resume <svg class="icon"><use href="#i-down"/></svg></a>
+        <a class="btn btn-ghost" href="#contact">Let's talk <svg class="icon"><use href="#i-send"/></svg></a>
+      </div>
+      <div class="socials reveal" style="--d:.55s">
+        <small>FIND ME ON</small>
+        <a class="icon-btn" href="https://www.linkedin.com/in/wishvanath-sah-career" target="_blank" rel="noopener" aria-label="LinkedIn"><svg class="icon"><use href="#i-in"/></svg></a>
+        <a class="icon-btn" href="mailto:wishvanath.sah.career@gmail.com" aria-label="Email"><svg class="icon"><use href="#i-mail"/></svg></a>
+        <a class="icon-btn" href="tel:+919939940266" aria-label="Phone"><svg class="icon"><use href="#i-phone"/></svg></a>
+      </div>
+    </div>
+    <div class="visual reveal right" style="--d:.3s">
+      <div class="photo"><img src="assets/img/profile.jpg" alt="Portrait of Wishvanath Sah" width="380" height="380"></div>
+      <div class="chipf c1"><span class="d" style="background:#38bdf8"></span>React.js</div>
+      <div class="chipf c2"><span class="d" style="background:#60a5fa"></span>TypeScript</div>
+      <div class="chipf c3"><span class="d" style="background:#4ade80"></span>Node.js</div>
+      <div class="code" aria-hidden="true">
+        <div class="dots"><i style="background:#f87171"></i><i style="background:#fbbf24"></i><i style="background:#4ade80"></i></div>
+        <div><span class="k">const</span> <span class="v">engineer</span> = {</div>
+        <div>&nbsp;&nbsp;role: <span class="s">'Lead Full Stack'</span>,</div>
+        <div>&nbsp;&nbsp;years: <span class="v">8</span>,</div>
+        <div>&nbsp;&nbsp;openToWork: <span class="v">true</span></div>
+        <div>};</div>
+      </div>
+    </div>
+  </div>
+  <div class="scroll" aria-hidden="true"><i></i>Scroll</div>
+</section>
 
-        <!-- Meta: SEO -->
-        <meta name="description" content="A personal portfolio showcasing my work and skills by Wishvanath Sah."/>
-        <meta name="keywords" content="resume, cv, wishvanath sah, wishvanathofficial, software engineer, web developer, template"/>
-        <meta name="robots" content="index, follow"/>
-        <meta name="googlebot" content="index, follow"/>
-        <meta name="google" content="notranslate"/>
-        <meta name="author" content="Wishvanath Sah"/>
-        <meta name="theme-color" content="#111111"/>
+<div class="marquee" aria-hidden="true">
+  <div class="track" id="track"></div>
+</div>
 
-        <!-- Open Graph / Facebook -->
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://wishvanathofficial.github.io/career-portfolio/" />
-        <meta property="og:title" content="React Portfolio by Wishvanath Sah" />
-        <meta property="og:description" content="A personal portfolio showcasing my work and skills by Wishvanath Sah." />
-        <meta property="og:image" content="https://wishvanathofficial.github.io/career-portfolio/images/pictures/og-image.jpg" />
+<div class="wrap">
+  <div class="stats">
+    <div class="stat reveal" style="--d:0s"><strong class="grad" data-count="8" data-suffix="+">8+</strong><span>Years of experience</span></div>
+    <div class="stat reveal" style="--d:.1s"><strong class="grad" data-count="7" data-suffix="">7</strong><span>Industry domains</span></div>
+    <div class="stat reveal" style="--d:.2s"><strong class="grad" data-count="3" data-suffix="">3</strong><span>Companies</span></div>
+    <div class="stat reveal" style="--d:.3s"><strong class="grad">8–10</strong><span>Engineers guided</span></div>
+  </div>
+</div>
 
-        <!-- Twitter -->
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://wishvanathofficial.github.io/career-portfolio/" />
-        <meta property="twitter:title" content="React Portfolio by Wishvanath Sah" />
-        <meta property="twitter:description" content="A personal portfolio showcasing my work and skills by Wishvanath Sah." />
-        <meta property="twitter:image" content="https://wishvanathofficial.github.io/career-portfolio/images/pictures/og-image.jpg" />
+<!-- ABOUT -->
+<section id="about">
+  <div class="wrap">
+    <div class="head reveal">
+      <span class="eyebrow"><b>01</b> About me</span>
+      <h2>Engineer, team lead and builder of <span class="grad">reusable UI</span></h2>
+    </div>
+    <div class="about">
+      <div>
+        <p class="reveal">I'm a <strong>Lead Full Stack Engineer</strong> with 8+ years of experience designing, developing and delivering scalable enterprise web applications. At <strong>CitiusTech</strong> I lead end-to-end feature delivery for healthcare products and guide a team of 8–10 engineers.</p>
+        <p class="reveal">My core strength is <strong>React.js, TypeScript and Node.js</strong>, backed by PostgreSQL/MySQL, REST APIs and AWS delivery. I care about reusable component ecosystems, accessibility, performance and turning ambiguous requirements into maintainable production features.</p>
+        <p class="reveal">I work closely with product managers, QA, architects and designers in Agile teams, and apply <strong>AI-assisted engineering</strong> with GitHub Copilot, ChatGPT, Claude and OpenAI Codex to raise productivity and software quality.</p>
+        <div class="pillars">
+          <div class="card pillar reveal" style="--d:.05s"><div class="ico"><svg class="icon"><use href="#i-code"/></svg></div><h3>Frontend architecture</h3><p>Reusable React component systems.</p></div>
+          <div class="card pillar reveal" style="--d:.15s"><div class="ico"><svg class="icon"><use href="#i-server"/></svg></div><h3>APIs &amp; backend</h3><p>Node.js/Express services and data.</p></div>
+          <div class="card pillar reveal" style="--d:.25s"><div class="ico"><svg class="icon"><use href="#i-users"/></svg></div><h3>Delivery &amp; leadership</h3><p>Agile teams, reviews, mentoring.</p></div>
+        </div>
+      </div>
+      <aside class="card reveal right">
+        <ul class="facts">
+          <li><svg class="icon"><use href="#i-pin"/></svg><div><b>Location</b>Hyderabad, India</div></li>
+          <li><svg class="icon"><use href="#i-layers"/></svg><div><b>Current role</b>Lead Engineer – II, CitiusTech</div></li>
+          <li><svg class="icon"><use href="#i-cap"/></svg><div><b>Education</b>MCA, Pondicherry University</div></li>
+          <li><svg class="icon"><use href="#i-mail"/></svg><div><b>Email</b>wishvanath.sah.career@gmail.com</div></li>
+        </ul>
+        <div class="avail"><i></i> Open to Lead / Senior Full Stack roles</div>
+      </aside>
+    </div>
+  </div>
+</section>
 
-        <!-- Structured Data -->
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "Person",
-            "name": "React Portfolio Template",
-            "description": "A futuristic React portfolio template by Wishvanath Sah.",
-            "url": "https://wishvanathofficial.github.io/career-portfolio/"
-        }
-        </script>
+<!-- SKILLS -->
+<section id="skills" class="alt">
+  <div class="wrap">
+    <div class="head reveal">
+      <span class="eyebrow"><b>02</b> Skills</span>
+      <h2>Technologies I <span class="grad">work with</span></h2>
+      <p class="sub">A full stack toolkit centred on React.js and Node.js, with strong delivery, cloud and AI tooling experience.</p>
+    </div>
+    <div class="tabs reveal" data-tabs>
+      <div class="tablist" role="tablist" aria-label="Skill categories">
+        <button class="tab" role="tab" aria-selected="true" data-p="s1"><svg class="icon"><use href="#i-code"/></svg>Frontend</button>
+        <button class="tab" role="tab" aria-selected="false" data-p="s2"><svg class="icon"><use href="#i-server"/></svg>Backend &amp; Database</button>
+        <button class="tab" role="tab" aria-selected="false" data-p="s3"><svg class="icon"><use href="#i-cloud"/></svg>Cloud &amp; DevOps</button>
+        <button class="tab" role="tab" aria-selected="false" data-p="s4"><svg class="icon"><use href="#i-pen"/></svg>UI &amp; Design Systems</button>
+        <button class="tab" role="tab" aria-selected="false" data-p="s5"><svg class="icon"><use href="#i-users"/></svg>Collaboration &amp; Delivery</button>
+        <button class="tab" role="tab" aria-selected="false" data-p="s6"><svg class="icon"><use href="#i-spark"/></svg>AI-Assisted Engineering</button>
+      </div>
+      <div class="card">
+        <div class="panel on" role="tabpanel" id="s1"><h3>Frontend</h3><p>Fast, accessible, component-driven interfaces.</p>
+          <div class="tiles"><span class="tile star"><i></i>React.js</span><span class="tile star"><i></i>TypeScript</span><span class="tile"><i></i>Next.js</span><span class="tile"><i></i>Angular</span><span class="tile"><i></i>Redux</span><span class="tile"><i></i>JavaScript (ES6+)</span><span class="tile"><i></i>HTML5</span><span class="tile"><i></i>CSS3</span><span class="tile"><i></i>SASS</span></div></div>
+        <div class="panel" role="tabpanel" id="s2"><h3>Backend &amp; Database</h3><p>Reliable APIs and well-modelled data.</p>
+          <div class="tiles"><span class="tile star"><i></i>Node.js</span><span class="tile star"><i></i>Express.js</span><span class="tile"><i></i>REST APIs</span><span class="tile"><i></i>API Integration</span><span class="tile"><i></i>Sequelize ORM</span><span class="tile"><i></i>MySQL</span><span class="tile"><i></i>PostgreSQL</span></div></div>
+        <div class="panel" role="tabpanel" id="s3"><h3>Cloud &amp; DevOps</h3><p>Automated delivery pipelines and cloud deployments.</p>
+          <div class="tiles"><span class="tile star"><i></i>AWS</span><span class="tile"><i></i>AWS CodePipeline</span><span class="tile"><i></i>Jenkins</span><span class="tile"><i></i>Octopus Deploy</span><span class="tile"><i></i>Heroku</span><span class="tile"><i></i>CI/CD</span><span class="tile"><i></i>Git</span><span class="tile"><i></i>GitHub</span><span class="tile"><i></i>GitLab</span></div></div>
+        <div class="panel" role="tabpanel" id="s4"><h3>UI &amp; Design Systems</h3><p>Consistent, responsive and cross-browser UI.</p>
+          <div class="tiles"><span class="tile"><i></i>Material UI</span><span class="tile"><i></i>Bootstrap</span><span class="tile"><i></i>Element UI</span><span class="tile"><i></i>Semantic UI</span><span class="tile"><i></i>Figma</span><span class="tile"><i></i>Responsive design</span><span class="tile"><i></i>Cross-browser</span></div></div>
+        <div class="panel" role="tabpanel" id="s5"><h3>Collaboration &amp; Delivery</h3><p>How I plan, review and ship with teams.</p>
+          <div class="tiles"><span class="tile star"><i></i>Agile / Scrum</span><span class="tile"><i></i>Sprint planning</span><span class="tile"><i></i>Technical estimation</span><span class="tile"><i></i>Code reviews</span><span class="tile"><i></i>Jira</span><span class="tile"><i></i>ServiceNow</span><span class="tile"><i></i>Slack</span></div></div>
+        <div class="panel" role="tabpanel" id="s6"><h3>AI-Assisted Engineering</h3><p>AI tools woven into everyday development.</p>
+          <div class="tiles"><span class="tile star"><i></i>GitHub Copilot</span><span class="tile star"><i></i>Claude</span><span class="tile"><i></i>ChatGPT</span><span class="tile"><i></i>OpenAI Codex</span><span class="tile"><i></i>Agentic AI workflows</span><span class="tile"><i></i>Prompt engineering</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
 
-        <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <!-- <link href="https://fonts.googleapis.com/css?family=Saira:400,700" rel="stylesheet" type="text/css"> -->
-        <!-- <link href="https://fonts.googleapis.com/css?family=Orbitron:400,700" rel="stylesheet" type="text/css"> -->
-        <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css"> -->
-        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    </head>
-    <body style="background-color: #111111">
-        <div id="root"></div>
-        <script type="module" src="/src/main.jsx"></script>
-    </body>
+<!-- EXPERIENCE -->
+<section id="experience">
+  <div class="wrap">
+    <div class="head reveal">
+      <span class="eyebrow"><b>03</b> Experience</span>
+      <h2>Where I've <span class="grad">worked</span></h2>
+      <p class="sub">Eight years of progression from hands-on developer to team lead across product and client engineering.</p>
+    </div>
+    <div data-tabs class="reveal">
+      <div class="etabs" role="tablist" aria-label="Companies">
+        <button class="etab" role="tab" aria-selected="true" data-p="e1"><strong>CitiusTech</strong><span>Aug 2022 – Present</span></button>
+        <button class="etab" role="tab" aria-selected="false" data-p="e2"><strong>AxiomIO</strong><span>Nov 2020 – Aug 2022</span></button>
+        <button class="etab" role="tab" aria-selected="false" data-p="e3"><strong>SkyMap Global</strong><span>May 2018 – Nov 2020</span></button>
+      </div>
+      <div class="card job">
+        <div class="panel on" role="tabpanel" id="e1">
+          <div class="job-head"><div><h3>Lead Engineer – II | Full Stack Engineer</h3><div class="co">CitiusTech · Hyderabad</div></div><span class="date">Aug 2022 – Present</span></div>
+          <ul>
+            <li>Lead end-to-end development of enterprise healthcare applications, including the Clinical Learning Hub, across frontend and backend layers.</li>
+            <li>Translate business and functional requirements into maintainable, production-ready features, owning design, implementation, testing support and release.</li>
+            <li>Architect reusable React.js components and responsive workflows that keep UI, accessibility and cross-browser behaviour consistent.</li>
+            <li>Develop Node.js/Express REST APIs backed by MySQL and PostgreSQL, and optimise slow endpoints and queries.</li>
+            <li>Guide a team of 8–10 engineers through code reviews, mentoring, technical estimation and release planning in Agile delivery.</li>
+            <li>Use GitHub Copilot, ChatGPT, Claude and OpenAI Codex to accelerate development, troubleshooting and documentation.</li>
+          </ul>
+          <div class="chips"><span class="chip">React.js</span><span class="chip">TypeScript</span><span class="chip">Node.js</span><span class="chip">Express.js</span><span class="chip">MySQL</span><span class="chip">AWS</span><span class="chip">GitHub Copilot</span><span class="chip">Claude</span></div>
+        </div>
+        <div class="panel" role="tabpanel" id="e2">
+          <div class="job-head"><div><h3>Full Stack Engineer</h3><div class="co">AxiomIO</div></div><span class="date">Nov 2020 – Aug 2022</span></div>
+          <ul>
+            <li>Delivered full-stack features with React.js, Angular, Node.js and REST APIs for client-facing products in HR technology, cybersecurity, fintech analytics, sports and blockchain.</li>
+            <li>Built reusable UI components for responsive desktop, tablet and mobile experiences.</li>
+            <li>Implemented frontend business logic, form workflows, validations and API integrations tailored to client requirements and user journeys.</li>
+            <li>Worked with UX designers and QA engineers across sprint planning, testing, deployment and maintenance.</li>
+          </ul>
+          <div class="chips"><span class="chip">React.js</span><span class="chip">Angular</span><span class="chip">Node.js</span><span class="chip">REST APIs</span><span class="chip">JavaScript</span><span class="chip">TypeScript</span></div>
+        </div>
+        <div class="panel" role="tabpanel" id="e3">
+          <div class="job-head"><div><h3>Full Stack Engineer</h3><div class="co">SkyMap Global</div></div><span class="date">May 2018 – Nov 2020</span></div>
+          <ul>
+            <li>Developed GIS and satellite-imagery web applications with React.js and Angular, including Crop Scout, Farm Vigil, Sahyog and monitoring dashboards.</li>
+            <li>Built reusable components and responsive, cross-browser interfaces for enterprise users.</li>
+            <li>Integrated HTTP/REST services and implemented business workflows from client requirements and functional specifications.</li>
+            <li>Contributed to functional analysis, test scenarios, test cases and defect resolution.</li>
+          </ul>
+          <div class="chips"><span class="chip">React.js</span><span class="chip">JavaScript</span><span class="chip">REST APIs</span><span class="chip">GIS platforms</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects" class="alt">
+  <div class="wrap">
+    <div class="head reveal">
+      <span class="eyebrow"><b>04</b> Projects</span>
+      <h2>Key projects &amp; <span class="grad">domain experience</span></h2>
+      <p class="sub">Products I've helped design and build across seven industries.</p>
+    </div>
+    <div class="filters reveal" role="group" aria-label="Filter projects by company">
+      <button class="filter" type="button" data-f="all" aria-pressed="true">All</button>
+      <button class="filter" type="button" data-f="citius" aria-pressed="false">CitiusTech</button>
+      <button class="filter" type="button" data-f="axiom" aria-pressed="false">AxiomIO</button>
+      <button class="filter" type="button" data-f="skymap" aria-pressed="false">SkyMap Global</button>
+    </div>
+    <div class="projects">
+      <article class="card proj reveal" data-c="citius" style="--h:215;--d:0s"><div class="banner" data-i="CL"><span class="tag">Healthcare</span></div><div class="pbody"><h3>Clinical Learning Hub</h3><div class="meta">CitiusTech</div><p>Centralised learning platform for nurses and clinicians with responsive workflows, reusable component architecture, REST integrations and continuous product enhancement.</p><a class="plink" href="https://www.elsevier.com/products/clinical-elearning" target="_blank" rel="noopener noreferrer" aria-label="Visit Clinical Learning Hub (opens in a new tab)">Visit project <svg class="icon"><use href="#i-ext"/></svg></a></div></article>
+      <article class="card proj reveal" data-c="axiom" style="--h:262;--d:.08s"><div class="banner" data-i="SK"><span class="tag">HR Technology</span></div><div class="pbody"><h3>Skillfully</h3><div class="meta">AxiomIO</div><p>Skills-based hiring and employment platform with candidate workflows, dashboards, reusable UI components and API integrations.</p><a class="plink" href="https://skillful.ly/" target="_blank" rel="noopener noreferrer" aria-label="Visit Skillfully (opens in a new tab)">Visit project <svg class="icon"><use href="#i-ext"/></svg></a></div></article>
+      <article class="card proj reveal" data-c="axiom" style="--h:340;--d:.16s"><div class="banner" data-i="OF"><span class="tag">Cybersecurity</span></div><div class="pbody"><h3>OFOFO</h3><div class="meta">AxiomIO</div><p>Marketplace where sellers publish cybersecurity offerings and buyers discover, purchase and track services.</p><a class="plink" href="https://www.ofofo.ai/" target="_blank" rel="noopener noreferrer" aria-label="Visit OFOFO (opens in a new tab)">Visit project <svg class="icon"><use href="#i-ext"/></svg></a></div></article>
+      <article class="card proj reveal" data-c="axiom" style="--h:170;--d:0s"><div class="banner" data-i="PG"><span class="tag">Analytics</span></div><div class="pbody"><h3>Paygilant</h3><div class="meta">AxiomIO</div><p>Performance Insights Dashboard for fraud monitoring, operational insights, trend identification and high-risk activity analysis.</p><a class="plink" href="https://paygilant.com/" target="_blank" rel="noopener noreferrer" aria-label="Visit Paygilant (opens in a new tab)">Visit project <svg class="icon"><use href="#i-ext"/></svg></a></div></article>
+      <article class="card proj reveal" data-c="axiom" style="--h:25;--d:.08s"><div class="banner" data-i="AP"><span class="tag">Sports</span></div><div class="pbody"><h3>Australian Premier League</h3><div class="meta">AxiomIO</div><p>Web platform supporting football league operations, management workflows and user interactions.</p><a class="plink" href="https://aleagues.com.au/" target="_blank" rel="noopener noreferrer" aria-label="Visit Australian Premier League (opens in a new tab)">Visit project <svg class="icon"><use href="#i-ext"/></svg></a></div></article>
+      <article class="card proj reveal" data-c="axiom" style="--h:285;--d:.16s"><div class="banner" data-i="XM"><span class="tag">Blockchain</span></div><div class="pbody"><h3>XCHANGE MONSTER</h3><div class="meta">AxiomIO</div><p>Blockchain and cryptocurrency platform supporting trading workflows and low-latency, transaction-oriented experiences.</p></div></article>
+      <article class="card proj reveal" data-c="skymap" style="--h:145;--d:0s"><div class="banner" data-i="SM"><span class="tag">Agriculture · GIS</span></div><div class="pbody"><h3>SkyMap GIS Solutions</h3><div class="meta">SkyMap Global</div><p>Agricultural monitoring platforms — Crop Scout, Farm Vigil and Sahyog — built on GIS and satellite-imagery workflows.</p></div></article>
+    </div>
+  </div>
+</section>
+
+<!-- AI -->
+<section id="ai">
+  <div class="wrap">
+    <div class="head reveal">
+      <span class="eyebrow"><b>05</b> AI-assisted engineering</span>
+      <h2>Shipping faster with <span class="grad">AI in the loop</span></h2>
+      <p class="sub">I use AI tools as force multipliers for coding, review and documentation, with trained, practical experience in agentic workflows.</p>
+    </div>
+    <div class="ai">
+      <div class="card reveal" style="--d:0s"><span class="num">01</span><div class="ico"><svg class="icon"><use href="#i-code"/></svg></div><h3>Codex &amp; Copilot</h3><p>Code generation, refactoring, debugging and in-editor productivity.</p></div>
+      <div class="card reveal" style="--d:.1s"><span class="num">02</span><div class="ico"><svg class="icon"><use href="#i-chat"/></svg></div><h3>ChatGPT</h3><p>Requirements clarification, technical exploration and documentation.</p></div>
+      <div class="card reveal" style="--d:.2s"><span class="num">03</span><div class="ico"><svg class="icon"><use href="#i-spark"/></svg></div><h3>Claude</h3><p>Code analysis, reasoning support and refactoring.</p></div>
+      <div class="card reveal" style="--d:.3s"><span class="num">04</span><div class="ico"><svg class="icon"><use href="#i-bot"/></svg></div><h3>Agentic AI</h3><p>Professional training and hands-on exploration of agent-based software workflows.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- EDUCATION -->
+<section id="education" class="alt">
+  <div class="wrap">
+    <div class="head reveal">
+      <span class="eyebrow"><b>06</b> Education &amp; credentials</span>
+      <h2>Learning that <span class="grad">keeps me sharp</span></h2>
+    </div>
+    <div class="two">
+      <div class="card reveal">
+        <h3><span class="ico"><svg class="icon"><use href="#i-cap"/></svg></span> Education</h3>
+        <div class="item"><span class="dot"></span><div><b>Master of Computer Applications (MCA)</b><span>Pondicherry University (School of Engineering &amp; Technology)</span><br><span>2015 – 2018 · CGPA 9.08</span></div></div>
+        <div class="item"><span class="dot"></span><div><b>Bachelor of Computer Applications (BCA)</b><span>T.N.B. College, Bhagalpur</span><br><span>2014 · 69%</span></div></div>
+      </div>
+      <div class="card reveal" style="--d:.1s">
+        <h3><span class="ico"><svg class="icon"><use href="#i-award"/></svg></span> Certifications &amp; training</h3>
+        <div class="item"><span class="dot"></span><div><b>Professional Training — Agentic AI</b></div></div>
+        <div class="item"><span class="dot"></span><div><b>Practitioner Certificate — Codex and ChatGPT</b></div></div>
+        <div class="item"><span class="dot"></span><div><b>NPTEL — Cloud Computing</b></div></div>
+        <div class="item"><span class="dot"></span><div><b>NPTEL — Modern Application Development</b></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <div class="wrap">
+    <div class="contact reveal">
+      <span class="eyebrow"><b>07</b> Contact</span>
+      <h2>Let's build something <span class="grad">great together</span></h2>
+      <p class="sub">I'm open to Lead and Senior Full Stack Engineer roles. If you have an opportunity or a project in mind, I'd love to hear from you.</p>
+      <div class="cta" style="justify-content:center;margin:0">
+        <a class="btn btn-primary" href="mailto:wishvanath.sah.career@gmail.com">Email me <svg class="icon"><use href="#i-mail"/></svg></a>
+        <button class="btn btn-ghost" id="copy" type="button">Copy email <svg class="icon"><use href="#i-copy"/></svg></button>
+        <a class="btn btn-ghost" href="assets/resume/Wishvanath_Sah_Resume.pdf" download>Resume <svg class="icon"><use href="#i-down"/></svg></a>
+      </div>
+      <div class="cwrap">
+        <form class="form" id="form" novalidate>
+          <label>Your name<input id="fn" type="text" autocomplete="name" placeholder="Jane Doe" required></label>
+          <label>Your email<input id="fe" type="email" autocomplete="email" placeholder="jane@company.com" required></label>
+          <label>Message<textarea id="fm" placeholder="Tell me about the role or project…" required></textarea></label>
+          <button class="btn btn-primary" type="submit">Send message <svg class="icon"><use href="#i-send"/></svg></button>
+          <small>Opens your email app with the message ready to send.</small>
+        </form>
+        <div class="links">
+          <a class="link" href="mailto:wishvanath.sah.career@gmail.com"><span class="ico"><svg class="icon"><use href="#i-mail"/></svg></span><div style="min-width:0"><small>Email</small><span class="v">wishvanath.sah.career@gmail.com</span></div></a>
+          <a class="link" href="tel:+919939940266"><span class="ico"><svg class="icon"><use href="#i-phone"/></svg></span><div style="min-width:0"><small>Phone</small><span class="v">+91 99399 40266</span></div></a>
+          <a class="link" href="https://www.linkedin.com/in/wishvanath-sah-career" target="_blank" rel="noopener"><span class="ico"><svg class="icon"><use href="#i-in"/></svg></span><div style="min-width:0"><small>LinkedIn</small><span class="v">wishvanath-sah-career</span></div></a>
+          <div class="link"><span class="ico"><svg class="icon"><use href="#i-pin"/></svg></span><div style="min-width:0"><small>Location</small><span class="v">Hyderabad, India</span></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© <span id="year">2026</span> Wishvanath Sah. All rights reserved.</span>
+    <nav aria-label="Footer"><a href="#about">About</a><a href="#skills">Skills</a><a href="#experience">Experience</a><a href="#projects">Projects</a><a href="#contact">Contact</a></nav>
+    <span>Lead Full Stack Engineer · React.js · Node.js · TypeScript</span>
+  </div>
+</footer>
+
+<button class="icon-btn" id="top" type="button" aria-label="Back to top"><svg class="icon"><use href="#i-up"/></svg></button>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script src="assets/js/main.js" defer></script>
+</body>
 </html>
