@@ -2,6 +2,12 @@
 
 A static, dependency-free portfolio site (HTML + CSS + vanilla JavaScript). No build step.
 
+## Live preview
+
+[View the live portfolio](https://wishvanathofficial.github.io/career-portfolio/)
+
+![High-resolution portfolio landing page](assets/img/portfolio-landing.png)
+
 ## Structure
 
 ```
@@ -15,6 +21,7 @@ portfolio-deploy/
     ├── css/style.css           # all styles (light + dark themes)
     ├── js/main.js              # theme toggle, tabs, filters, animations
     ├── img/profile.jpg         # profile photo
+    ├── img/portfolio-landing.png # high-resolution landing page screenshot
     └── resume/Wishvanath_Sah_Resume.pdf
 ```
 
